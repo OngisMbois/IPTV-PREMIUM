@@ -475,8 +475,7 @@ http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
 
 @@@@@@@ MOVIES @@@@@@@
 
-#EXTINF:-1 group-title="Movies",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
