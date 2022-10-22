@@ -27,10 +27,11 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="NASIONAL",ANTV
 https://stream-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#EXTINF:-1 group-title="NASIONAL",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 group-title="NASIONAL",CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 
-#EXTINF:-1 group-title="NASIONAL",BERITA SATU http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8 
-#EXTINF:-1 group-title="NASIONAL",BERITA SATU WORLD https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8 
-#EXTINF:-1 group-title="NASIONAL",CNN http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8 
 #EXTINF:-1 group-title="NASIONAL",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 http://210.210.155.37/qwr9ew/s/s11/index.m3u8
@@ -296,3 +297,64 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
 http://axcestv.vip:8080/live/freeview/axcestv/790.ts
 #EXTINF:-1 group-title="SPORT",ASTRO SUPERSPORT 4
 http://axcestv.vip:8080/live/freeview/axcestv/791.ts
+
+
+
+#EXTINF:-1 group-title="TV ISLAMI",AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",ASHIIL TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",AL-BAHJAH TV
+https://h1.intechmedia.net/intech/ch64.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",ALFURQON
+https://h1.intechmedia.net/intech/ch24.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",AL-IMAN TV
+https://h1.intechmedia.net/intech/ch9.m3u8
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",AL-INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",AL QURAN AL KAREEM
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 group-title="TV ISLAMI",BINA MADANI TV
+https://h1.intechmedia.net/intech/ch20.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",BIN BAZ TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",BRITISH MUSLIM
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",IZZAH TV
+https://h1.intechmedia.net/intech/ch7.m3u8
+https://streaming.sigraduta.co.id/izzahtv.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",KHALID BASALAMAH Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657441268/ei/lDfKYt7BH7mU3LUPt9y-0Ao/ip/180.248.247.58/id/W0yGnJuhoVQ.1/source/yt_live_broadcast/requiressl/yes/tx/24206504/txs/24206051%2C24206052%2C24206503%2C24206504/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khv4ynLLTY3kKxPaaEZwpcZTRu3M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK6vylOt12-LfSoqGhUtbuYBIYrXVKBBKac1FAgxExasAiBFJZPrGELUtlKjXjheCeEQbPJwLdw_LJFieHnk60S72Q%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",MADANI TV
+https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",MEDS TV
+https://h1.intechmedia.net/intech/ch23.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",MGI TV
+https://h1.intechmedia.net/intech/ch25.m3u8
+https://tv.rodja.live/tasik/mgitv/chunklist_w411374010.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",MUADZ TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",RIFQAN TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657437217/ei/wCfKYur_OMGp3LUPlZuluAE/ip/180.248.247.58/id/6uq3U1vlIaI.1/source/yt_live_broadcast/requiressl/yes/tx/24206504/txs/24206051%2C24206052%2C24206503%2C24206504/hfr/1/maudio/1/spc/lT-KhrSATjEiydAJEDzt3vTcBMGk5N8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDvkWEeFCWB1d5VdbMCw56ukUp4y2kucSL6X80ntWwxQCIQDD1rhKMA3-vsQ1JsIwOPpunjE5x4__aY30efRcUdloFQ%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",RODJA TV
+https://h1.intechmedia.net/intech/ch26.m3u8
+https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1148284456_b946000.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",SJP TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",SURAU TV
+https://h1.intechmedia.net/intech/ch3.m3u8
+http://119.235.249.58:1935/surautv/live/chunklist_w1776413384.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",TARBIYAH SUNNAH CHANNEL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657441570/ei/wjjKYo77A-yC4-EPne2V-AQ/ip/180.248.247.58/id/2e2UX3yqOxQ.1/source/yt_live_broadcast/requiressl/yes/tx/24206504/txs/24206051%2C24206052%2C24206503%2C24206504/hfr/1/maudio/1/spc/lT-KhqKWI7kp7_Vk5QWtn5V6nLsHhyc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHMHvc7e4azUPAyzb3KO8o8zmyqCSFUV4rx2m-sg58ukCIHDs6cqdKXXToWX-RKqOh6XnmBzDQnr8FcTUm9dD_njq/file/index.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",UFA TV
+https://h1.intechmedia.net/intech/ch27.m3u8
+#EXTINF:-1 group-title="TV ISLAMI",WESAL TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+
