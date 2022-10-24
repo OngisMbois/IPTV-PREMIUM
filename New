@@ -363,3 +363,28 @@ https://h1.intechmedia.net/intech/ch27.m3u8
 #EXTINF:-1 group-title="TV ISLAMI",WESAL TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
+
+#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3ULZg1V",DC League Super Pets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://23.226.71.76/grPjLHjG8TCWcn46V4Z7G5IMgIRqlBWiZhjcs01kkUFYwdsUHD1yJ1_QXcqn87s4thvYTfnnoED7g7r4EeVnNg/kqNsQyS1Ye0niGWxMAI5Jf-waixmOVE1n_B-6Y9CxW4/video.m3u8|Referer=http://172.96.161.72/
+
+#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3UOWoRZ",One Piece : Movie RED
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://23.226.71.76/uvUVuTPwZEAoNG7c-cAl_kInxusYR1EhMCGO4m0ZOHy9K28mUjX9IjpaSsUrQUUp9ZN7hFxSnjxTP2uyvBvygg/yIHFZL2iAn6gIPs4KQNOBmiWIhv4ZurdEajkT0oaFvA/video.m3u8|Referer=http://172.96.161.72/
+
+#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3dOHo61",The Doll 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://23.226.71.76/dOSSkU-_cMlnnWbT3s0NRHFOyTUfhFyuxxVOnpOHppT7Zma2GZL6C0IC5mwpkXbfOD8NqRQci2do1t1akUKJQw/rhHLxX5fVdTNMbOT0NFPQZJEBaLUT520Rl_p91WjlLA/video.m3u8|Referer=http://172.96.161.72/
+
+#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3xR2h7s",KKN Desa Penari
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://vz-5291d294-1ab.b-cdn.net/2325406f-8b78-4552-9823-8c435f5f9cbb/playlist.m3u8|Referer=https://iframe.mediadelivery.net/
+
+#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3R69hEk",MUMUN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://vz-5291d294-1ab.b-cdn.net/32b4ac04-75f6-4d44-b4d5-7b93f2a2c360/playlist.m3u8|Referer=https://iframe.mediadelivery.net/
+
+
+#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3UwkdOm",Pengabdi setan 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://vz-5291d294-1ab.b-cdn.net/54dc2085-8355-4501-ad5c-775e07e6b81d/playlist.m3u8|Referer=https://iframe.mediadelivery.net/
