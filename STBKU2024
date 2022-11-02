@@ -1,0 +1,589 @@
+#EXTM3U 
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml,https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianaafgtv.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianatelevision.com.epg.xml,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/at/magentatv.at.epg.xml,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml,https://iptv-org.github.io/epg/guides/be/telenettv.be.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/by/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/cd/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg.xml,https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml,https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianaafgtv.com.epg.xml,https://iptv-org.github.io/epg/guides/af/arianatelevision.com.epg.xml,https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/at/magentatv.at.epg.xml,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ba/mtel.ba.epg.xml,https://iptv-org.github.io/epg/guides/be/telenettv.be.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.epg.xml,https://iptv-org.github.io/epg/guides/bi/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/by/tv.mail.ru.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/cd/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cl/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/cl/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/co/siba.com.co.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml,https://iptv-org.github.io/epg/guides/de/horizon.tv.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/do/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides/et/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/fi/telkussa.fi.epg.xml,https://iptv-org.github.io/epg/guides/fo/kvf.fo.epg.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml,https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml,https://iptv-org.github.io/epg/guides/ga/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/gt/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/gt/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/hn/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml,https://iptv-org.github.io/epg/guides/hu/mediaklikk.hu.epg.xml,https://iptv-org.github.io/epg/guides/hu/musor.tv.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/ie/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/il/9tv.co.il.epg.xml,https://iptv-org.github.io/epg/guides/il/i24news.tv.epg.xml,https://iptv-org.github.io/epg/guides/il/kan.org.il.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/it/mediaset.it.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/km/canalplus-reunion.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kz/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.epg.xml,https://iptv-org.github.io/epg/guides/mt/melita.com.epg.xml,https://iptv-org.github.io/epg/guides/mw/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/mz/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ni/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml,https://iptv-org.github.io/epg/guides/no/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/no/frikanalen.no.epg.xml,https://iptv-org.github.io/epg/guides/pa/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/pe/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/py/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/qa/bein.com.epg.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml,https://iptv-org.github.io/epg/guides/rs/mts.rs.epg.xml,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml,https://iptv-org.github.io/epg/guides/se/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/se/tv.nu.epg.xml,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/si/tv2go.t-2.net.epg.xml,https://iptv-org.github.io/epg/guides/sv/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tz/startimestv.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://iptv-org.github.io/epg/guides/us-local/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="NASIONAL", Contact Admin
+http://www.dropbox.com/s/biz10k13oftlfeo/TVIND.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="NASIONAL", Indosiar HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889033
+#EXTINF: -1 tvg-name="MNC" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NZy4IEZXngGp5YlqpIQOWM3pH1U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="NASIONAL", MNCTV
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889034
+#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="NASIONAL", ANTV
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889035
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="NASIONAL", SCTV HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889036
+#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="NASIONAL", RCTI
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889038
+#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="NASIONAL", GTV
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889039
+#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="NASIONAL", TVOne
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889040
+#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="NASIONAL", Trans 7 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889041
+#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="NASIONAL", Trans TV HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889042
+#EXTINF: -1 tvg-logo="https://thumbor.prod.vidiocdn.com/eRi4HLSbt6rZDwh-HuIU25XGr-w=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/348cbe.png" group-title="NASIONAL", O Channel
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889043
+#EXTINF: -1 tvg-name="Kompas TV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aHHdz-Y50b34HI_WD-w8t4JdQQw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" group-title="NASIONAL", Kompas TV
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889044
+#EXTINF: -1 tvg-name="BeritaSatu" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7ZrWP74ibpJs000uBOz_wGIxVf4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="NASIONAL", BeritaSatu
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889045
+#EXTINF: -1 tvg-name="Metro TV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UvM8FunoJC8v-KmlMOxJ7yFE7qw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="NASIONAL", Metro TV
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889046
+#EXTINF: -1 tvg-name="NET TV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bXwNElZHHM2uvwHO23kXVFETxbE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="NASIONAL", NET TV
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889047
+#EXTINF: -1 tvg-name="RTV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jZKlBJan7aUwou-SkFXSfCFI12k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="NASIONAL", RTV
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889048
+#EXTINF: -1 tvg-name="TVRI" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Il3vUFfvvfaMbB8gkww7vAwkFsg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="NASIONAL", TVRI
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU", ASSP 1
+https://webudi.openhd.lol/lb/premium123/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU", ASSP 2
+https://webudi.openhd.lol/lb/premium124/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU", ASSP 3
+https://webudi.openhd.lol/lb/premium125/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU", ASSP 4
+https://webudi.openhd.lol/lb/premium126/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcv8ZGL9-35yANdfmx8Ht5nuSngA7pYz_8g&usqp=CAU", ASSP 5
+https://webudi.openhd.lol/lb/premium124/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889049
+#EXTINF: -1 tvg-name="iNews" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkFKLMQEXbJropYF7sh7D33fVaM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="NASIONAL", iNews
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889050
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VNmtS8xV/cnn.jpg" group-title="NASIONAL", CNN INDONESIA
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889051
+#EXTINF: -1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="MOVIES", HBO HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889052
+#EXTINF: -1 tvg-id="HBOFamilyAsia.us" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="MOVIES", HBO Family HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889053
+#EXTINF: -1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="MOVIES", HBO Hits HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889054
+#EXTINF: -1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="MOVIES", HBO Signature HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889055
+#EXTINF: -1 group-title="MOVIES", Cinemax
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889056
+#EXTINF: -1 tvg-id="Warner TV" tvg-name="Warner Tv" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="MOVIES", Warner TV
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889057
+#EXTINF: -1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="MOVIES", AXN
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889058
+#EXTINF: -1 tvg-id="Hits.sg" tvg-name="HITS" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="MOVIES", HITS
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889059
+#EXTINF: -1 tvg-id="HitsMovies.sg" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="MOVIES", HITS Movies
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889060
+#EXTINF: -1 tvg-logo="http://dusktill.masuk.web.id/img/tvnmovies.png" group-title="MOVIES", tvN Movies
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889061
+#EXTINF: -1 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1200px-KBS_World_%282009%29.svg.png" group-title="MOVIES", KBS World
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889062
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="MOVIES", SONY One
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889063
+#EXTINF: -1 tvg-id="IonPlus.us" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="MOVIES", KPlus
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889065
+#EXTINF: -1 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="MOVIES", Celestial Movies
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889066
+#EXTINF: -1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="MOVIES", Thrill
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889067
+#EXTINF: -1 tvg-id="Cinema World" tvg-name="Cinema World" tvg-logo="http://dusktill.masuk.web.id/img/cinemaworld.png" group-title="MOVIES", Cinema World
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889068
+#EXTINF: -1 tvg-id="CCM" tvg-name="CCM" tvg-logo="http://dusktill.masuk.web.id/img/ccm.png" group-title="MOVIES", Celestial Classic Movies
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889069
+#EXTINF: -1 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="MOVIES", ZEE BIOSKOP
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889070
+#EXTINF: -1 tvg-id="ext" tvg-logo="https://i.imgur.com/rGTHbAM.png" group-title="Entertaiment", Sony GEM
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889064
+#EXTINF: -1 tvg-id="ext" tvg-logo="https://i.imgur.com/fKNAva5.png" group-title="Entertaiment", Rock Entertainment
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889071
+#EXTINF: -1 tvg-id="ext" tvg-logo="https://i.imgur.com/ieudr87.png" group-title="Entertaiment", Rock Extreme
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889072
+#EXTINF: -1 tvg-logo="http://dusktill.masuk.web.id/img/tvn.png" group-title="Entertaiment", tvN
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889073
+#EXTINF: -1 tvg-id="KIX" tvg-name="KIX" tvg-logo="http://dusktill.masuk.web.id/img/kix.png" group-title="Entertaiment", KIX
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889074
+#EXTINF: -1 tvg-logo="https://i.imgur.com/alk3ahK.png" group-title="Knowledge", History
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889075
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Br00WTH.png" group-title="Knowledge", Nat Geo
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889076
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Hqw33zC.png" group-title="Knowledge", Nat Geo Wild
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889077
+#EXTINF: -1 tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/DSCHD/large_white.png" group-title="Knowledge", Discovery Channel
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889078
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fwnLPBf.png" group-title="Knowledge", Animal Planet
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889079
+#EXTINF: -1 tvg-id="ext" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="Knowledge", Biznet Adventure
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889080
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NfR4MK29/Biznet-Home-Kids.jpg" group-title="Kids", Biznet Kids
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889082
+#EXTINF: -1 group-title="Kids", Animax
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889083
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/BQNjM3d7/aniplus.png" group-title="Kids", Aniplus
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889084
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids", Cartoon Network ID
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889085
+#EXTINF: -1 tvg-id="mykids" tvg-logo="http://kamiselaluada.com/img/mkidz.png" group-title="Kids", M Kidz
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889086
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids", Nickelodeon
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889087
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png" group-title="Kids", Disney Channel
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889088
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/f72c5ea067757078f14e0.png" group-title="Kids", Disney XD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889089
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/468822337c928926dd081.png" group-title="Kids", Disney Junior
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889090
+#EXTINF: -1 tvg-logo="http://distv.net/icons/babytv.png" group-title="Kids", BABY TV
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889091
+#EXTINF: -1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="Kids", DISNEY CHANNEL (ID)
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889092
+#EXTINF: -1 tvg-logo="http://distv.net/icons/disneychannel.png" group-title="Kids", DISNEY CHANNEL
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889093
+#EXTINF: -1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="Kids", DISNEY JR (ID)
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889094
+#EXTINF: -1 tvg-logo="http://distv.net/icons/disneyjr.png" group-title="Kids", DISNEY JR
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889095
+#EXTINF: -1 tvg-logo="http://distv.net/icons/disneyxd.png" group-title="Kids", DISNEY XD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889096
+#EXTINF: -1 tvg-logo="http://distv.net/icons/disneyxd.png" group-title="Kids", DISNEY XD (USA)
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889097
+#EXTINF: -1 tvg-logo="http://distv.net/icons/natgeokids.png" group-title="Kids", NAT GEO KIDS
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889098
+#EXTINF: -1 tvg-logo="http://distv.net/icons/zoomoo.png" group-title="Kids", ZOOMOO
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889099
+#EXTINF: -1 tvg-logo="http://distv.net/icons/tooncast.png" group-title="Kids", TOONCAST
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889100
+#EXTINF: -1 tvg-logo="http://distv.net/icons/nick.png" group-title="Kids", NICK
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889101
+#EXTINF: -1 tvg-logo="http://distv.net/icons/nickjr.png" group-title="Kids", NICK JR
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889102
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6PzxgcMFcsCwkTA7UceD8H1vhIw=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-1c51e3.jpg" group-title="BEIN SPORT",beIN Sport 1
+https://stream-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NtMRvcgk68Bc-HwOtHLIy7Gvs9A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-581092.jpg" group-title="BEIN SPORT",beIN Sport 3
+https://stream-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN SPORT", Bein Sports Premium 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889103
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN SPORT", Bein Sports Premium 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889104
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN SPORT", Bein Sports Premium 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889105
+#EXTINF: -1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtLipU0_jcRWAAqgu_8hpEzMgBoYm5tcaPAxNl39t_uruqfKJLh9P8suuYc95-_RxLBTlI5gwpEvPHPAx8Mly1tyJ2JhuULWli4eaIo0s1ZnZmC4BS0-ysqVtb48YCGf_BJFg8IQhx86YZjdWUQ79w9kdee0Agvv0zBx7feJ0ektYiyq2674371aSY" group-title="Champions", CHAMPIONS 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889106
+#EXTINF: -1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEicv5vILZVkyZH2XLs_PJ5JYnpzNE2PzyiZjKMcoJAxz_eEb_FlxhAcKLvleAE2CC-u3tfHK4yCmOkStpK2xxjPaGXvlnsEhtbwYxUnIiuf1Jsbv9cMhqMEe8A8R47W4zJrtmjNFyfxKe8KiUR4siJn8CYjsjyPnf_Qvu8LEt36KU9aIzoI96z49t-r" group-title="Champions", CHAMPIONS 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889107
+#EXTINF: -1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj2pQGdYepHRkkVqLCSgFGaoiTPfjtHdcSzMk0L2xHbcMVZtE9iYMhYHbg7x0nX3_M3EIaVRSoyt2JokU7rq463FGOG361VvrgfTrBqPL0-6nzveqkJSHTLKz1V9gwuhDx9WBpUWMw4hYkDigrsQ_W0y0-GVwOYLoG_6Z_r0Ak9_bZ-R43qONbeKQzN" group-title="Champions", CHAMPIONS 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889108
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/" group-title="LIGA BRI", LIVE 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889109
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/" group-title="LIGA BRI", LIVE 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889110
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/" group-title="LIGA BRI", LIVE 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889111
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/" group-title="LIGA BRI", LIVE 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889112
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/" group-title="LIGA BRI", LIVE 5
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889113
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS PREMIER LEAGUE SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889114
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS PREMIER LEAGUE HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889115
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS PREMIER LEAGUE FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889116
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS FOOTBALL SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889117
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS FOOTBALL HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889118
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS FOOTBALL FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889119
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS CRICKET SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889120
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS CRICKET HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889121
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS CRICKET FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889122
+#EXTINF: -1 group-title="SKY SPORT", US: WILLOW CRICKET | HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889123
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS GOLF SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889124
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS GOLF HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889125
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS GOLF FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889126
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS NEWS SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889127
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS NEWS HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889128
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS NEWS FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889129
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS F1 SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889130
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS F1 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889131
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS F1 FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889132
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS ARENA SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889133
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS ARENA HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889134
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS ARENA FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889135
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS ACTION FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889136
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS ACTION HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889137
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS MIX HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889138
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS MIX FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889139
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS NFL SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889140
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS RACING HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889141
+#EXTINF: -1 group-title="SKY SPORT", SKY SPORTS RACING FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889142
+#EXTINF: -1 group-title="SKY SPORT", BT SPORTS 1 SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889143
+#EXTINF: -1 group-title="SKY SPORT", BT SPORTS 1 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889144
+#EXTINF: -1 group-title="SKY SPORT", BT SPORTS 1 FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889145
+#EXTINF: -1 group-title="SKY SPORT", BT SPORTS 2 SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889146
+#EXTINF: -1 group-title="SKY SPORT", BT SPORTS 2 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889147
+#EXTINF: -1 group-title="SKY SPORT", BT SPORTS 2 FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889148
+#EXTINF: -1 group-title="SKY SPORT", BT SPORTS 3 SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889149
+#EXTINF: -1 group-title="SKY SPORT", BT SPORT 3 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889150
+#EXTINF: -1 group-title="SKY SPORT", BT SPORTS 3 FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889151
+#EXTINF: -1 group-title="SKY SPORT", BT SPORTS ESPN FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889152
+#EXTINF: -1 group-title="SKY SPORT", BT Sport Mosaic
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889153
+#EXTINF: -1 group-title="SKY SPORT", BT Sport Mosaic 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889154
+#EXTINF: -1 group-title="SKY SPORT", BT Extra1 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889155
+#EXTINF: -1 group-title="SKY SPORT", BT Sport Extra 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889156
+#EXTINF: -1 group-title="SKY SPORT", BT Sport Extra 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889157
+#EXTINF: -1 group-title="SKY SPORT", BT Sport Extra 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889158
+#EXTINF: -1 group-title="SKY SPORT", BT Sport Extra 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889159
+#EXTINF: -1 group-title="SKY SPORT", BT Sport Extra 5
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889160
+#EXTINF: -1 group-title="SKY SPORT", BT Sport Extra 6
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889161
+#EXTINF: -1 group-title="SKY SPORT", Premier Sports 1 HD [UK]
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889162
+#EXTINF: -1 group-title="SKY SPORT", Premier Sports 2 HD [IRE]
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889163
+#EXTINF: -1 group-title="SKY SPORT", BOX NATION FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889164
+#EXTINF: -1 group-title="SKY SPORT", BOX NATION HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889165
+#EXTINF: -1 group-title="SKY SPORT", BOX NATION SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889166
+#EXTINF: -1 group-title="SKY SPORT", EUROSPORTS 1 FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889167
+#EXTINF: -1 group-title="SKY SPORT", EUROSPORTS 1 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889168
+#EXTINF: -1 group-title="SKY SPORT", EUROSPORTS 2 FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889169
+#EXTINF: -1 group-title="SKY SPORT", EUROSPORTS 2 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889170
+#EXTINF: -1 group-title="SKY SPORT", LFC TV TV HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889171
+#EXTINF: -1 group-title="SKY SPORT", LFC TV FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889172
+#EXTINF: -1 group-title="SKY SPORT", MUTV HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889173
+#EXTINF: -1 group-title="SKY SPORT", MUTV FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889174
+#EXTINF: -1 group-title="SKY SPORT", RACING TV HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889175
+#EXTINF: -1 group-title="SKY SPORT", WWE NETWORK HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889176
+#EXTINF: -1 group-title="SKY SPORT", FREE SPORTS FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889177
+#EXTINF: -1 group-title="SKY SPORT", WILLIAM HILL
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889178
+#EXTINF: -1 group-title="SKY SPORT", SportyStuff HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889179
+#EXTINF: -1 group-title="SKY SPORT", WWE FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889180
+#EXTINF: -1 group-title="SKY SPORT", Racing TV FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889181
+#EXTINF: -1 group-title="SKY SPORT", RACING TV SD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889182
+#EXTINF: -1 group-title="SKY SPORT", Premier Sports 1 HD [IRE]
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889183
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="MOTO GP", SPO TV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="MOTO GP", SPO TV 2
+https://stream-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/ae834449/c8f5.png" group-title="MNC SPORT", MNC SPORT 1
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="MOTO GP", SPO TV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="MOTO GP", SPO TV 2
+https://stream-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/516c7676/3afe.png" group-title="MNC SPORT", MNC SPORT 2
+https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 group-title="MNC SPORT" tvg-logo="https://static.mncnow.id/images/channel/ab95086a/892d.png",MNC SPORTS 3
+https://stream-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9nw1/spng" group-title="UCL", Live 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889190
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9tv.png" group-title="UCL", Live 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889191
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="UCL", Live 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889192
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="UCL", Live 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889193
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="UCL", Live 5
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889194
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="UCL", Live 6
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889195
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="UCL", Live 7
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889196
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="UCL", Live 8
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889197
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/rbSH8xj/gn.png" group-title="Malaysia", Awani
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889198
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malaysia", Awesome TV
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889199
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="Malaysia", BOO
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889200
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/sRNDvFS/bolly.png" group-title="Malaysia", Bollyone HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889201
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="Malaysia", Citra
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889202
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.imgur.com/C4qeeRy.png" group-title="Malaysia", Colors Hindi
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889203
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="Malaysia", Oasis
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889204
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="Malaysia", Okey
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889205
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="Malaysia", Prima
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889206
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="Malaysia", Rania
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889207
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="Malaysia", RIA
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889208
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="Malaysia", TV 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889209
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="Malaysia", TV 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889210
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="Malaysia", TV 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889211
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/WBw9D1r/AAXS.png" group-title="Malaysia", TV9
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889212
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="Malaysia", Warna
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889213
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/ySVZHy8/SGN-09-11-2022-1662884280309.png" group-title="ELEVEN SPORTS", ELEVEN Sport 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889214
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/8K9TWpc/SGN-09-11-2022-1662884435437.png" group-title="ELEVEN SPORTS", ELEVEN Sport 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889215
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/RYcp8kM/SGN-09-11-2022-1662884603201.png" group-title="ELEVEN SPORTS", ELEVEN Sport 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889216
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/X7xxRzp/SGN-09-11-2022-1662884733662.png" group-title="ELEVEN SPORTS", ELEVEN Sport 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889217
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/6mRFJKF/SGN-09-11-2022-1662885109296.png" group-title="ELEVEN SPORTS", ELEVEN Sport 5
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889218
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/nfyZ8gW/SGN-09-11-2022-1662885225911.png" group-title="ELEVEN SPORTS", ELEVEN Sport 6
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889219
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvg75YJMfbHeDNirUrrgBMQImRn.jpg" group-title="FILM", Grimcutty (2022)
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889220
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63InZxeGgfNQCoWkImR14fB99AY.jpg" group-title="FILM", KKN di Desa Penari (2022)
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889221
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg" group-title="FILM", Hellraiser (2022)
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889222
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg" group-title="FILM", Luckiest Girl Alive (2022)
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889223
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdtYxbL9uARITgWw3FyIgucF4Ax.jpg" group-title="FILM", Mat Kilau (2022)
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889224
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS", SONY TEN 1 FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889225
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="SPORTS", SONY TEN 2 FHD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889226
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_1.png" group-title="SPORTS", STAR SPORTS 1 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889227
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_2.png" group-title="SPORTS", STAR SPORTS 2 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889228
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_in_3.png" group-title="SPORTS", STAR SPORTS 3 HD
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889229
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport1_ro.png" group-title="SPORTS", DIGI SPORT 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889230
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/digi_sport3_ro.png" group-title="SPORTS", DIGI SPORT 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889231
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.tv-romania.online/images/canale/orange-sport-1-mic.webp" group-title="SPORTS", Orange Sport 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889232
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.tv-romania.online/images/canale/orange-sport-2-mic.webp" group-title="SPORTS", Orange Sport 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889233
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.tv-romania.online/images/canale/orange-sport-3-mic.webp" group-title="SPORTS", Orange Sport 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889234
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://www.tv-romania.online/images/canale/orange-sport-4-mic.webp" group-title="SPORTS", Orange Sport 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889235
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/D8f3KqT/SGN-05-01-2022-1651417198818.png" group-title="SPORTS", Sport TV 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889236
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/D8f3KqT/SGN-05-01-2022-1651417198818.png" group-title="SPORTS", Sport TV 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889237
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/D8f3KqT/SGN-05-01-2022-1651417198818.png" group-title="SPORTS", Sport TV 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889238
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/D8f3KqT/SGN-05-01-2022-1651417198818.png" group-title="SPORTS", Sport TV 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889239
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/D8f3KqT/SGN-05-01-2022-1651417198818.png" group-title="SPORTS", Sport TV 5
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889240
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9nw1/spng" group-title="PREMIER LEAGUE", Live 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889241
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9tv.png" group-title="PREMIER LEAGUE", Live 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889242
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="PREMIER LEAGUE", Live 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889243
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="PREMIER LEAGUE", Live 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889244
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="PREMIER LEAGUE", Live 5
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889245
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="PREMIER LEAGUE", Live 6
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889246
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="PREMIER LEAGUE", Live 7
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889247
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="PREMIER LEAGUE", Live 8
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889248
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9nw1/spng" group-title="SERIE A", Live 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889249
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9tv.png" group-title="SERIE A", Live 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889250
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="SERIE A", Live 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889251
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="SERIE A", Live 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889252
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="SERIE A", Live 5
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889253
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="SERIE A", Live 6
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889254
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="SERIE A", Live 7
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889255
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="SERIE A", Live 8
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889256
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9nw1/spng" group-title="LIGUE 1", Live 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889257
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9tv.png" group-title="LIGUE 1", Live 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889258
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LIGUE 1", Live 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889259
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LIGUE 1", Live 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889260
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LIGUE 1", Live 5
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889261
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LIGUE 1", Live 6
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889262
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LIGUE 1", Live 7
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889263
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LIGUE 1", Live 8
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889264
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9nw1/spng" group-title="LA LIGA", Live 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889265
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9tv.png" group-title="LA LIGA", Live 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889266
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LA LIGA", Live 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889267
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LA LIGA", Live 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889268
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LA LIGA", Live 5
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889269
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LA LIGA", Live 6
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889270
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LA LIGA", Live 7
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889271
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="LA LIGA", Live 8
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889272
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9nw1/spng" group-title="BUNDESLIGA", Live 1
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889273
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hFC9tv.png" group-title="BUNDESLIGA", Live 2
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889274
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="BUNDESLIGA", Live 3
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889275
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="BUNDESLIGA", Live 4
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889276
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="BUNDESLIGA", Live 5
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889277
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="BUNDESLIGA", Live 6
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889278
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="BUNDESLIGA", Live 7
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889279
+#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.ibb.co/hF-tv.png" group-title="BUNDESLIGA", Live 8
+https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889280
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="TRUE GRUB" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier 1
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="TRUE GRUB" tvg-logo="https://webtv.haflixpro.com/uploads/png/58e992892d6c9abddcab160c1cfbd6a9.png", True Premier 2
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="TRUE GRUB" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier 3
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="TRUE GRUB" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png", True Premier 4
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="TRUE GRUB" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png", True Premier 5
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
