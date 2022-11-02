@@ -3,8 +3,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF: -1 tvg-name="SCTV HD" tvg-logo="https://i.postimg.cc/CLnhBxkF/232.jpg" group-title="NASIONAL", Contact Admin
-http://www.dropbox.com/s/biz10k13oftlfeo/TVIND.mp4?dl=1
+
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="NASIONAL", Indosiar HD
 https://m3u-editor.com/serve/2dc617d0-57f5-11ed-a235-dde1114c6786/671889033
