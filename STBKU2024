@@ -33,12 +33,6 @@ https://liveaneviadev.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "TV NASIONAL" tvg-logo = "https://i.ibb.co/fqv4pDb/Indosiar.png",INDOSIAR HD
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
-
-
-
-#EXTINF:-1  tvg-name="INDOSIAR 2" tvg-id="" tvg-logo="https://i.imgur.com/si1SO98.jpg" group-title="TV NASIONAL" :http-referrer="",INDOSIAR 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
 #EXTINF:-1  tvg-name="INEWS TV" tvg-id="" tvg-logo="https://i.imgur.com/udlCqCI.png" group-title="TV NASIONAL" :http-referrer="",INEWS TV
@@ -204,28 +198,6 @@ http://cineapp.org:8000/Fernando/Fernando/9745
 
 ======== TV SPORTS ========
 
-logo="https://logo.diamondtv.one/images/logos/UK/sky.png" group-title="TV SPORT",SKY SPORTS RACING
-http://mag.abcdxyz.one:80/WBbvQStAx9/tH6ZgIUNhn/113499
-
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="SKY SPORTS ARENA " tvg-
-logo="https://logo.diamondtv.one/images/logos/UK/sky.png" group-title="TV SPORT",SKY SPORTS ARENA 
-http://mag.abcdxyz.one:80/WBbvQStAx9/tH6ZgIUNhn/104199
-
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="SKY SPORTS MAIN EVENT " tvg-
-logo="https://logo.diamondtv.one/images/logos/UK/sky.png" group-title="TV SPORT",SKY SPORTS MAIN EVENT 
-http://mag.abcdxyz.one:80/WBbvQStAx9/tH6ZgIUNhn/104183
-
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="SKY SPORTS PREMIER LEAGUE " tvg-
-logo="https://logo.diamondtv.one/images/logos/UK/sky.png" group-title="TV SPORT",SKY SPORTS PREMIER LEAGUE 
-http://mag.abcdxyz.one:80/WBbvQStAx9/tH6ZgIUNhn/104175
-
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="SKY SPORTS RACING 1" tvg-
-logo="https://logo.diamondtv.one/images/logos/UK/sky.png" group-title="TV SPORT",SKY SPORTS RACING 1
-http://mag.abcdxyz.one:80/WBbvQStAx9/tH6ZgIUNhn/187171
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS RACING 2" tvg-logo="https://logo.diamondtv.one/images/logos/UK/sky.png" 
-group-title="TV SPORT",SKY SPORTS RACING 2
-http://mag.abcdxyz.one:80/WBbvQStAx9/tH6ZgIUNhn/187172
 
 #EXTINF:-1 tvg-ID="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png" group-title="TV SPORT",ABU DHABI SPORTS 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
