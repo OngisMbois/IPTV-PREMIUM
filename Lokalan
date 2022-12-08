@@ -17,12 +17,12 @@ http://rr2.dens.tv/s/s04/index.m3u8
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha 
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF: -1tvg-ID group-title = "DENSTV" tvg-logo = "https://i.ibb.co/WGNNgRp/trastv.png",TRANS TV 
+#EXTINF:-1 tvg-ID group-title = "DENSTV" tvg-logo = "https://i.ibb.co/WGNNgRp/trastv.png",TRANS TV 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1561775419_b744100_sleng.m3u8 
 
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha 
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF: -1tvg-ID group-title = "DENSTV" tvg-logo = "https://i.ibb.co/0cVJNjp/trans7.png",TRANS 7 
+#EXTINF:-1 tvg-ID group-title = "DENSTV" tvg-logo = "https://i.ibb.co/0cVJNjp/trans7.png",TRANS 7 
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1569758602_b744100_sleng.m3u8 
 
 
