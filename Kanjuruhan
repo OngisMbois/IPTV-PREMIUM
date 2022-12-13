@@ -1163,8 +1163,6 @@ https://v2.streamku.xyz/stream/360/z8p7xrae4FaUrq0/__001
 
 ======== VoD FILM MIX ========
 
-#EXTINF:-1  tvg-name="# #  INFO UPDATE" tvg-id="" tvg-logo="https://i.imgur.com/pM7FFIw.jpg" group-title="VoD FILM MIX" :http-referrer="",# #  INFO UPDATE
-https://ia601407.us.archive.org/9/items/update_playlist/update.mp4?cnt=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.indexmovies.xyz/wp-content/uploads/2022/10/film-smile-2022-lk21-d21.jpg" group-title="VoD FILM MIX",Smile (CAM) (2022)
 #EXTVLCOPT:http-referrer=https://stream.xpeer.xyz/new1.php?id=ce53feb83e38bf92941bb59c884c286c61473c86
 https://stream.xpeer.xyz/xxx/smile-2022/17/480.m3u8
@@ -1468,8 +1466,6 @@ https://stream.xpeer.xyz/xxx/inception-2010/1/480.m3u8
 
 ======== VoD FILM INDONESIA ========
 
-#EXTINF:-1  tvg-name="# #  INFO UPDATE" tvg-id="" tvg-logo="https://i.imgur.com/pM7FFIw.jpg" group-title="VoD FILM INDONESIA" :http-referrer="",# #  INFO UPDATE
-https://ia601407.us.archive.org/9/items/update_playlist/update.mp4?cnt=0
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/resized/660x/g/foto_adegan_film_hantu_budeg/p/foto_adegan_film_hantu_budeg-20121120-001-uji.jpg" group-title="VoD FILM INDONESIA",Hantu Budeg (2012)
 https://storage.googleapis.com/b458263421913c0e2b8.appspot.com/dcfd9e1dc974eae60c63c18be6a4c346_1622868784.mp4?sumber=awal_storage
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/s0MJ12Lf412G3KD3VkNGplHtK48.jpg" group-title="VoD FILM INDONESIA",Kuntilanak 3 (2022)
