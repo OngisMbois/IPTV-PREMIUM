@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=https://bit.ly/3itZsSm
-#EXTINF: -1 tvg-name="Gratis"  group-title="ONGIS-MBOIS", SUBSCRIBE ONGIS-MBOIS
+#EXTINF: -1 tvg-name="Youtube Ongis Mbois" tvg-logo="https://unpar.ac.id/wp-content/uploads/2015/11/Logo-Youtube.png" group-title="ONGIS-MBOIS", SUBSCRIBE ONGIS-MBOIS
 https://emoji.mrz.kn
-#EXTINF: -1 tvg-name="Gratis"  group-title="ONGIS-MBOIS", YOUTUBE "ONGIS-MBOIS"
+#EXTINF: -1 tvg-name="Youtube Ongis Mbois" tvg-logo="https://unpar.ac.id/wp-content/uploads/2015/11/Logo-Youtube.png" group-title="ONGIS-MBOIS", YOUTUBE "ONGIS-MBOIS"
 https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
 
 #EXTM3U
