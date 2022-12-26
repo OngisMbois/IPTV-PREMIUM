@@ -4,7 +4,7 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 #EXTINF: -1 tvg-name="Usut Tuntas" tvg-logo="https://unpar.ac.id/wp-content/uploads/2015/11/Logo-Youtube.png" group-title="ONGIS-MBOIS", YOUTUBE "ONGIS-MBOIS"
 https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yvgbxTz.png" group-title="Lokal",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
