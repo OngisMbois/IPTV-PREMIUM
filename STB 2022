@@ -26,7 +26,7 @@ https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:0 tvg-id="iNews.Id" tvg-logo="https://cdn.ksa.my.id/inews.png" group-title="Lokal",iNewsTV
 https://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yvgbxTz.png" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Lokal",SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
