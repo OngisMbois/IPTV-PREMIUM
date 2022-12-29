@@ -408,6 +408,16 @@ https://anevia114.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:0 tvg-id="FoxNewsChannel.Id" tvg-logo="https://cdn.ksa.my.id/foxnews.png" group-title="News",FOX News
 https://anevia114.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+#EXTINF:-1  tvg-name="BS PREMIUM 1 SD" tvg-id="" tvg-logo="https://i.imgur.com/F2DScD6.jpg" group-title="Sports" :http-referrer="",BS PREMIUM 1
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/76
+#EXTINF:-1  tvg-name="BS PREMIUM 2 SD" tvg-id="" tvg-logo="https://i.imgur.com/gLapPe1.jpg" group-title="Sports" :http-referrer="",BS PREMIUM 2
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/75
+#EXTINF:-1  tvg-name="BS PREMIUM 3 SD" tvg-id="" tvg-logo="https://i.imgur.com/qiIUPM9.jpg" group-title="Sports" :http-referrer="",BS PREMIUM 3
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/74
+#EXTINF:-1  tvg-name="BS 4 SD" tvg-id="" tvg-logo="https://i.imgur.com/1VGLdiq.jpg" group-title="Sports" :http-referrer="",BEIN SPORT 4 
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/318
+#EXTINF:-1  tvg-name="BS 5 SD" tvg-id="" tvg-logo="https://i.imgur.com/qvWp0s0.jpg" group-title="Sports" :http-referrer="",BEIN SPORT 5 
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/317
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
