@@ -703,54 +703,6 @@ https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/playlist.m3u8
 
 =============MUSIC=================
 
-#EXTINF:0 group-title="MUSIC" tvg-logo="https://i.imgur.com/K49jYHw.png" ,Music TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://anevia114.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mALviOpQYyVwBtJVwZwlVZ_iZd7zgCCXfptCA=s900-mo-c-c0xffffffff-rj-k-no" group-title="MUSIC",Pop Musik TV
-https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 group-title="MUSIC" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png",ShowBiz (Dens TV)
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
-
-#EXTINF:0 group-title="MUSIC" tvg-logo="https://ewsat.com/img/TRACE_URBAN.png",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSIC", tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC", tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412", MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC", tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412", MTV Spankin New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC", tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412", MTV Yo
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-
-#EXTINF:-1 group-title="MUSIC", tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412", CMT Equal Play
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png" group-title="MUSIC",Box hits
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBtJjiZb7r816Rfb6XZJ8BMXgltec60IxAUAA=s900-mo-c-c0xffffffff-rj-k-no", MTV BEATES HD
-http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://yt3.ggpht.com/a/AATXAJw9r9suhsNs486updfjpa_gH2vEpuxaiF5imQ=s900-c-k-c0xffffffff-no-rj-mo", B4U MUSIC
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://th.bing.com/th/id/OIP.rvFWaVK-ikm-guyg2Tn81gHaCU?pid=ImgDet&rs=1", MASTI MUSIC
-http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="MUSIC",MTV india
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.pinimg.com/originals/66/e5/aa/66e5aacf0a6223f312e8af32bdc7e16e.jpg",8XM MUSIC
-http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
