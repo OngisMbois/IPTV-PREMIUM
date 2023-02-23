@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="PLAYLIST TERBARU",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="PLAYLIST INI GRATIS",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="PLAYLIST INI JANGAN DIJUAL",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="TV Indonesia", Update Playlist Terbaru
-https://dl.dropboxusercontent.com/s/7lovt761n44ueza/VID_20220526221756.mp4?dl=0
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",RCTI
