@@ -317,6 +317,11 @@ https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png",TVN Premium
+https://av-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="tvNMovies.Id" tvg-logo="https://cdn.ksa.my.id/tvnmovies.png" group-title="Movies",tvN Movies
 https://av-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
@@ -329,6 +334,16 @@ https://av-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="CinemaWorld.Id" tvg-logo="https://cdn.ksa.my.id/cinemaworld.png" group-title="Movies",Cinema World
 https://av-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 tvg-id="KPlus.MACAN" tvg-name="Kplus" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="Movies",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png",Indonesia Movie Channels
+https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -607,6 +622,318 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w16718435
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w141981219_b6256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/bizadventure.png" group-title="National TV", Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w1434472668_b5256000_slen.m3u8
+
+
+@@@@@@@ TV LOKAL INDONESIA @@@@@@@
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",Da Ai TV Indonesia
+https://av-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+
+#EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="TV Local",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLP7WUFdBYVgxEN4I2kYPrvRv3ILEsPxSWLPI6Cg=s900-c-k-c0x00ffffff-no-rj", TV Tempo
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=5d188b044333b4c62676e0d4f53dade7446503011668def857b1c03bafabba51
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nmDdr-7BIXMPLMzbe2GK9HXvl3j720vZNg&usqp=CAU", Mentari TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRyrT6YRQorjN1fzvG3p742qy0jyXbl6QgCHP74fA=s900-c-k-c0x00ffffff-no-rj", TV MUI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
+
+
+
+#EXTINF:-1 group-title="TV Local",Batam TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="TV Local",Batu TV (576p) [Not 24/7]
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+
+
+#EXTINF:-1 group-title="TV Local",BBS TV (720p) [Not 24/7]
+http://103.119.54.246:8080/hls/bbstv.m3u8
+
+
+
+#EXTINF:-1 group-title="TV Local",Fajar TV (240p) [Not 24/7]
+http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="TV Local",Jogja Istimewa TV (720p)
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="TV Local",Radar TV Lampung (480p) [Not 24/7]
+http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local",Simpang5 TV (360p) [Not 24/7]
+http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local",SMTV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local",Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local",TV Edukasi (576p)
+http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Kalimantan Timur (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Jambi (720p) [Not 24/7]
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Maluku (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Nusa Tenggara Barat (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Yogyakarta (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Bali (480p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Kalimantan Selatan (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Sumatera Barat (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8?checkedby:iptvcat.net
+
+
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT00Ix5IESmSLwyo9bTN2uMf1DeSmEHC1G7_x5eWg=s900-c-k-c0x00ffffff-no-rj",TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8?checkedby:iptvcat.net
+
+
+
+
+#EXTINF:-1 group-title="TV Local",Radio 51 TV
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat.net
+
+
+
+
+#EXTINF:-1 group-title="TV Local",Super Radyo DZBB
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.net
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi I (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi III (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream3/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi IV (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream4/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi IX (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream9/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi V (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream5/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi VI (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream6/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local"tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi VII (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream7/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi VIII (480p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi X (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi XI (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local" ,Pal TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local",Balikpapan TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local",Padang TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local",Riau TV (576p) [Not 24/7]
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Local",Sultra TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:0 tvg-id="Bali TV" tvg-name="Bali TV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/balitv.png" group-title="TV Local",BALI TV
+https://av-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+
+
+#EXTINF:-1  tvg-id="JITV.id" group-title="TV Local" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV
+http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:0 tvg-id="JTV" tvg-name="JTV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/jtv.png" group-title="TV Local",JTV
+https://av-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png" group-title="TV Local",JAKTV
+https://av-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:0 tvg-id="BandungTV.id" tvg-name="" tvg-url="" tvg-logo="http://dusktill.masuk.web.id/img/bandungtv.png" group-title="TV Local",BandungTV
+https://av-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+
+#EXTINF:-1  tvg-id="ext" group-title="TV Local" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+
+#EXTINF:-1  tvg-id="JAKTV.id" group-title="TV Local" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png",JakTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
+
+
+#EXTINF:-1  tvg-id="" group-title="TV Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logobantenrayatv.png",Banten Raya TV
+https://v2.siar.us/barayatv/live/chunks.m3u8
+
+
+#EXTINF:-1  tvg-id="TVKU.id" group-title="TV Local" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+
+#EXTINF:-1  tvg-id="BMSTV.id" group-title="TV Local" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+
+
+#EXTINF:-1  tvg-id="CahayaBantenTV.id" group-title="TV Local" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/CTV_Banten_logo.png/revision/latest?cb=20180920052628",CTV Banten 
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8?
+
+
+#EXTINF:-1  tvg-id="PrimaTV.id" group-title="TV Local" tvg-logo="https://i.imgur.com/RRu0wKR.png",PRIMA TV
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
+
+
+
+#EXTINF:-1  tvg-id="TVDesa.id" group-title="TV Local" tvg-logo="http://desavision.id/wp-content/uploads/2021/01/Komunitas-TV-Desa.png",TV DESA
+http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
+
+
+#EXTINF:-1  tvg-id="Sakti.id" group-title="TV Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png",SAKTI TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="TV Local", Duta TV
+https://v2.siar.us/dutatv/live/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ADiTV.id" group-title="TV Local",ADiTV (720p) [Not 24/7]
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AFBTV.id" group-title="TV Local",AFB TV (576p)
+http://5e396e0211d7a.streamlock.net:1935/afbtv/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AFBTV.id" group-title="TV Local",AFB TV (576p)
+http://wowza58.indostreamserver.com:1935/afbtv/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AgropolitanTV.id" group-title="TV Local",Agropolitan TV (360p) [Not 24/7]
+http://45.80.181.150:8080/hls/agropolitantv.m3u8
+
 
 #EXTINF:-1 tvg-id="TV1.My" tvg-logo="https://cdn.ksa.my.id/tv1.png" group-title="Malaysia",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
