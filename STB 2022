@@ -959,3 +959,50 @@ https://k.ksa.my.id/ksa.m3u8?a=f13971dec1cad587b444&b=dfbcf594b1140d2356db&c=725
 https://k.ksa.my.id/ksa.m3u8?a=0c7411d72f4de5e981eb&b=64c3598d3934bddba329&c=a4fd1185f4416865b4ea
 #EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://cdn.ksa.my.id/net.png" group-title="National TV", Net.
 https://k.ksa.my.id/ksa.m3u8?a=da0b37f32d7a7cba6000&b=f9779b62610627bed1b4&c=9d2c4ae32f2ac6aa5c42
+
+EXTM3U
+
+
+
+" MALAYSIA "
+
+#EXTINF:-1 tvg-ID="TV1.MY" group-title="TV MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1 tvg-ID="TV2.MY" group-title="TV MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
+#EXTINF:-1 xui-id="1494" tvg-id="103" tvg-name="TV3 [A]" tvg-logo="https://smetv.live:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optieokSjEf_nh9Al-GxuMQ434tEQBUCvecSW8eabC3zPQd89qFlBeLndRUUWL8J8Vhw.png" group-title=" TV MALAYSIA",TV3
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
+
+#EXTINF:-1 tvg-ID="TV6.MY" group-title="TV MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+
+#EXTINF:-1 tvg-ID="TV9.MY" group-title="TV MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_300.png",TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+
+#EXTINF:-1 group-title="TV MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-ID="TV7.MY" group-title="TV MALAYSIA" tvg-logo="https://en.wikipedia.org/wiki/NTV7#/media/File:Logo_of_newNTV7.png",NTV7
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-ID="TV7.MY" group-title="TV MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",Didik TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+
+#EXTINF:-1 xui-id="30" tvg-id="502" tvg-name="BERNAMA TV" tvg-logo="https://smetv.live:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opthBhsetvdBsA4GQgG97O8K0wRpwYA3fts7YvOtwCXl4phsPCZ0abg08J_s-3JZpKZ8.png" group-title="TV MALAYSIA",BERNAMA TV
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
+
+" MOVIE "
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.useetv.com/pimages/logo_galaxy_small.png" group-title="TV HBO MOVIES",Galaxy HD
+https://av-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="TV HBO MOVIES",Galaxy Premium HD
+https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
