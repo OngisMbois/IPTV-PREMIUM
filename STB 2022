@@ -510,6 +510,27 @@ https://newanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTINF:0 tvg-id="Arirang.Id" tvg-logo="https://cdn.ksa.my.id/arirang.png" group-title="News",Arirang
 https://newanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://anutv.000webhostapp.com/IMG-20201116-WA0006.jpg" group-title="Lifestyle",Lifetime 
+https://anevia114.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://anutv.000webhostapp.com/IMG-20201116-WA0006.jpg" group-title="Lifestyle",Sony One 
+https://anevia114.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://anutv.000webhostapp.com/IMG-20201116-WA0006.jpg" group-title="Lifestyle",OKTV 
+https://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://anutv.000webhostapp.com/IMG-20201116-WA0006.jpg" group-title="Lifestyle",Vision Prime 
+https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="Besmart.Id" tvg-logo="https://cdn.ksa.my.id/besmart.png" group-title="Knowledge",Besmart
