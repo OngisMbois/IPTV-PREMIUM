@@ -118,12 +118,12 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="National" tvg-id="bbstv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png",BBSTV
+#EXTINF:-1 group-title="Local" tvg-id="bbstv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png",BBSTV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="National" tvg-id="jawapostv.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png",Jawa Pos TV
+#EXTINF:-1 group-title="Local" tvg-id="jawapostv.id" tvg-logo="https://i.imgur.com/Kt2kOGH.png",Jawa Pos TV
 https://v2.siar.us/jawapostv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -132,7 +132,7 @@ https://v2.siar.us/jawapostv/live/playlist.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="National" tvg-id="surabayatv.id" tvg-logo="http://surabayatv.tv/wp-content/uploads/2021/11/logo-Surabaya-TV-baru-stroke-300x55.png",Surabaya TV
+#EXTINF:-1 group-title="Local" tvg-id="surabayatv.id" tvg-logo="http://surabayatv.tv/wp-content/uploads/2021/11/logo-Surabaya-TV-baru-stroke-300x55.png",Surabaya TV
 https://v3.siar.us/surabayatv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -161,10 +161,10 @@ https://mooncang.my.id/api/vidio/ch.m3u8?id=5415&code=jaktv
 #EXTINF:-1 group-title="Religion" tvg-id="inspiratv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="National/Local;Undefined" tvg-logo="https://lingkartv.com/assets/img/logo-square.png",Lingkar TV
+#EXTINF:-1 group-title="Local" tvg-logo="https://lingkartv.com/assets/img/logo-square.png",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
-#EXTINF:-1 group-title="National/Local;Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logobantentv.png/800px-Logobantentv.png",Banten TV
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logobantentv.png/800px-Logobantentv.png",Banten TV
 https://v2.siar.us/barayatv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -184,37 +184,34 @@ https://o1.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-id="jayatvjayapura.id" tvg-logo="https://i.imgur.com/H8BUxkx.png",Jaya TV
 https://h1.intechmedia.net/intech/ch52.m3u8
 
-#EXTINF:-1 group-title="National/Local;Undefined" tvg-id="betv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/BETV_Bengkulu.png",BETV
+#EXTINF:-1 group-title="Local" tvg-id="betv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/BETV_Bengkulu.png",BETV
 https://h1.intechmedia.net/intech/ch58.m3u8
 
-#EXTINF:-1 group-title="National/Local;Undefined" tvg-id="tegartvlampung.id" tvg-logo="https://1.bp.blogspot.com/-aRYl8uiMtMA/Xsx8qiuZCzI/AAAAAAAApxQ/YqiRdH6tUI4WTpE9Yx_t2BeTyNr9TGeugCLcBGAsYHQ/s1600/tegar-tv-channel-logo.png",Tegar TV
+#EXTINF:-1 group-title="Local" tvg-id="tegartvlampung.id" tvg-logo="https://1.bp.blogspot.com/-aRYl8uiMtMA/Xsx8qiuZCzI/AAAAAAAApxQ/YqiRdH6tUI4WTpE9Yx_t2BeTyNr9TGeugCLcBGAsYHQ/s1600/tegar-tv-channel-logo.png",Tegar TV
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
-#EXTINF:-1 group-title="National/Local;Religion" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
 https://v6.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 group-title="National/Local;Entertainment" tvg-id="elshintatv.id" tvg-logo="https://elshintatv.co.id/public/assets/312f2-logo-elshinta.png",Elshinta TV
+#EXTINF:-1 group-title="Local" tvg-id="elshintatv.id" tvg-logo="https://elshintatv.co.id/public/assets/312f2-logo-elshinta.png",Elshinta TV
 http://210.210.155.37:80/s/s10/index.m3u8
 
-#EXTINF:-1 group-title="National/Local;News" tvg-id="garudatv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_GarudaTV_3D_Putih_Silver_Merah.png/800px-Logo_GarudaTV_3D_Putih_Silver_Merah.png",Garuda TV
+#EXTINF:-1 group-title="Local" tvg-id="garudatv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Logo_GarudaTV_3D_Putih_Silver_Merah.png/800px-Logo_GarudaTV_3D_Putih_Silver_Merah.png",Garuda TV
 https://stream.garuda.tv/live/garudatv/live.m3u8
 
-#EXTINF:-1 group-title="National/Local;Undefined" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/BMSTV_2016.png/revision/latest?cb=20200223204115",BMSTV
+#EXTINF:-1 group-title="Local" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/BMSTV_2016.png/revision/latest?cb=20200223204115",BMSTV
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="National/Local;Undefined" tvg-id="pujatvaceh.id" tvg-logo="https://pujatvaceh.com/wp-content/uploads/2020/09/272.png",Puja TV
+#EXTINF:-1 group-title="Local" tvg-id="pujatvaceh.id" tvg-logo="https://pujatvaceh.com/wp-content/uploads/2020/09/272.png",Puja TV
 https://v6.siar.us/pujatv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Religion" tvg-id="RodjaTV.id" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png",Rodja TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 
-#EXTINF:-1 group-title="National/Local;Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_%282015%29.png",MGSTV
+#EXTINF:-1 group-title="Local" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_%282015%29.png",MGSTV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high-17440.m3u8
 
-#EXTINF:-1 group-title="National/Local;Undefined" tvg-id="riautv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d9/Riau_TV.png/800px-Riau_TV.png",Riau TV
-http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="National/Local;Undefined" tvg-id="bayutvnganjuk.id" tvg-logo="https://i.imgur.com/QeL5QHy.png",Bayu TV
+#EXTINF:-1 group-title="Local" tvg-id="bayutvnganjuk.id" tvg-logo="https://i.imgur.com/QeL5QHy.png",Bayu TV
 https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
 
 #EXTINF:-1 group-title="National/Local;Undefined" tvg-id="tatv.id" tvg-logo="https://i.imgur.com/1f0EC7t.png",TATV
@@ -241,7 +238,7 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 group-title="National/Local;News" tvg-id="nusantaratv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo_ntv.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="National/Local;Religion" tvg-id="aditv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png",AdiTV
+#EXTINF:-1 group-title="Local" tvg-id="aditv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png",AdiTV
 https://v2.siar.us/aditv/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="National/Local;Undefined" tvg-logo="https://tvtpi.id/wp-content/uploads/2021/12/logo-250.png",TV Tanjung Pinang
