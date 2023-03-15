@@ -51,7 +51,7 @@ https://mooncang.my.id/api/vidio/ch.m3u8?id=204&code=sctv
 #EXTINF:-1 group-title="National" tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 http://203.29.26.22:8000/play/a05l/index.m3u8
 https://mooncang.my.id/api/vidio/ch.m3u8?id=206&code=moji
-#http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:-1 group-title="National" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://203.29.26.22:8000/play/a05m/index.m3u8
