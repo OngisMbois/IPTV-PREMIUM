@@ -343,27 +343,29 @@ http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://cdn.ksa.my.id/hbo.png" group-title="Movies",HBO
-https://newanv-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="HBOFamily.Id" tvg-logo="https://cdn.ksa.my.id/hbofamily.png" group-title="Movies",HBO Family
-https://newanv-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="HBOHits.Id" tvg-logo="https://cdn.ksa.my.id/hbohits.png" group-title="Movies",HBO Hits
-https://newanv-live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="HBOSignature.Id" tvg-logo="https://cdn.ksa.my.id/hbosig.png" group-title="Movies",HBO Signature
-https://newanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="CINEMAX.Id" tvg-logo="https://cdn.ksa.my.id/cinemax.png" group-title="Movies",Cinemax
-https://newanv-live-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
@@ -523,57 +525,7 @@ https://mooncang.my.id/api/vidio/ch.mpd?id=6299&code=bein-1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6317
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png",beIN Sports Indonesia 3
-https://mooncang.my.id/api/vidio/ch.mpd?id=6317&code=bein-3
-
-#EXTINF:-1 group-title="Sports" tvg-id="championstv1.id" tvg-logo="https://i.imgur.com/ctwmSHa.png",Champions TV 1
-https://mooncang.my.id/api/vidio/ch.m3u8?id=6685&code=champions-tv-1
-
-#EXTINF:-1 group-title="Sports" tvg-id="championstv2.id" tvg-logo="https://i.imgur.com/oYUUKra.png",Champions TV 2
-https://mooncang.my.id/api/vidio/ch.m3u8?id=6686&code=champions-tv-2
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6786
-#EXTINF:-1 group-title="Sports" tvg-id="championstv3.id" tvg-logo="https://i.imgur.com/xVwVIj6.png",Champions TV 3
-https://mooncang.my.id/api/vidio/ch.mpd?id=6786&code=champions-tv-3
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9182
-#EXTINF:-1 group-title="Sports" tvg-id="championstv5.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png/revision/latest?cb=20220810080805",Champions TV 5
-https://mooncang.my.id/api/vidio/ch.mpd?id=9182&code=champions-tv-5
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
-#EXTINF:-1 group-title="Sports" tvg-id="championstv6.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Champions_TV_6.png/revision/latest?cb=20220810081421",Champions TV 6
-https://mooncang.my.id/api/vidio/ch.mpd?id=9183&code=champions-tv-6
-
-#EXTINF:-1 group-title="Sports" tvg-id="dazn1germany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png",DAZN 1 Deutschland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium426/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 group-title="Sports" tvg-id="dazn1spain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png",DAZN 1 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium445/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 group-title="Sports" tvg-id="dazn2germany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png",DAZN 2 Deutschland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium427/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 group-title="Sports" tvg-id="dazn2spain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png",DAZN 2 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium446/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 group-title="Sports" tvg-id="dazn3spain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png",DAZN 3 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium447/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 group-title="Sports" tvg-id="dazn4spain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png",DAZN 4 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium448/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 group-title="Sports" tvg-id="daznf1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8|referer=https://widevine.licenses4.me/
-
+https://mooncang.my.id/api/vidio/ch.mpd?id=6317&code=bein-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
