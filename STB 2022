@@ -109,6 +109,10 @@ https://newanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://cdn.ksa.my.id/tvri.png" group-title="National TV",TVRI
 https://newanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
+#EXTINF:-1 group-title="National TV" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
+http://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:0 tvg-id="JakTV.Id" tvg-logo="https://cdn.ksa.my.id/jaktv.png" group-title="National TV",JAKTV
@@ -133,6 +137,9 @@ https://newanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="National TV" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg", Moji
 http://thefirefox12537.github.io/streams/moji.m3u8
+
+#EXTINF:-1 group-title="National TV" tvg-id="magnachannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna Channel
+http://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
@@ -794,10 +801,8 @@ http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 #EXTINF:0 tvg-id="DiscoveryChannel.Id" tvg-logo="https://cdn.ksa.my.id/discoverychannel.png" group-title="Knowledge",Discovery
 https://newanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Knowledge" tvg-id="discoverychannelindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/640px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
-#https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#EXTINF:-1 group-title="Knowledge" tvg-id="discoverychannelindonesia.id" tvg-logo="https://i.imgur.com/uEL1TDm.png",Discovery Channel
+http://thefirefox12537.github.io/streams/fmx/diskaveri.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/ID.json
