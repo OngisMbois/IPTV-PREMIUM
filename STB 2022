@@ -820,6 +820,9 @@ https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-id="discoveryturbouk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-turboin-samsungin/f4af20b4-be04-4f91-b4e0-33b7b43b2f7e/2.m3u8
 
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="Knowledge",Discovery Turbo HD
+https://kusnadipepenk.github.io/ntn/disturbo.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="https://cdn.ksa.my.id/bbcearth.png" group-title="Knowledge",BBC Earth
