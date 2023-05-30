@@ -409,17 +409,39 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 https://daddyhd.mammothtv.workers.dev/dash-wv/dashiso/2407/default.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="Movies",My Cinema
-http://rr.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_big.png?v=1",My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="Movies",My Cinema Asia
-http://rr.dens.tv/h/h193/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 group-title="Movies" tvg-id="mycinema.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141-449f-ad22-879140ad6835)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="Movies",My Cinema Europe
-http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="mycinema.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="Movies",My Family Channel
-http://rr.dens.tv/h/h194/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 group-title="Movies" tvg-id="mycinemaasia.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png?v=1",My Cinema Asia
+#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2a91622e-73f5-49c0-bfdf-ad10b1ee356d)/manifest.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-id="mycinemaasia.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png?v=1",My Cinema Asia
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="mycinemaeurope.id" tvg-logo="https://th.bing.com/th/id/OIP.hbYn9wvJM16JAWpLFpyjlQHaDl?pid=ImgDet&rs=1",My Cinema Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:-1 group-title="Movies" tvg-id="myfamily.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png",My Family Channel
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18316fae-42c1-404c-ba21-df68a1cffcac)/manifest.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/bZ6k1nA.png" ,Gem
+http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/QYR53ti.png" ,K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
@@ -515,6 +537,18 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="Movies",Cinemax 
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="Movies",My Cinema
+http://rr.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="Movies",My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="Movies",My Cinema Europe
+http://rr.dens.tv/h/h18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="Movies",My Family Channel
+http://rr.dens.tv/h/h194/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
