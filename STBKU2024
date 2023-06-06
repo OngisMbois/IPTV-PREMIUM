@@ -1893,20 +1893,6 @@ https://i.mjh.nz/PlutoTV/60fb053712f22a0007ff14d2-alt.m3u8
 #EXTINF:-1 tvg-id="53" tvg-logo="https://i.postimg.cc/W3QRwZVx/20230526-203849.png" group-title="Anak",Discovery Kids HD
 https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 
-<!-- Gak Tau -->
-
-#EXTINF:-1 tvg-id="MammothTV.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="TV Daerah",.Mammoth TV Info
-http://mammothtv.my.id/info.m3u8
-#EXTINF:-1 tvg-id="MammothTV.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="Pengetahuan",.Mammoth TV Info
-http://mammothtv.my.id/info.m3u8
-#EXTINF:-1 tvg-id="MammothTV.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="Anak",.Mammoth TV Info
-http://mammothtv.my.id/info.m3u8
-#EXTINF:-1 tvg-id="MammothTV.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="Hiburan",.Mammoth TV Info
-http://mammothtv.my.id/info.m3u8
-#EXTINF:-1 tvg-id="MammothTV.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="Berita",.Mammoth TV Info
-http://mammothtv.my.id/info.m3u8
-#EXTINF:-1 tvg-id="MammothTV.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title="Religi",.Mammoth TV Info
-http://mammothtv.my.id/info.m3u8
 
 #EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://i.postimg.cc/765p7YkM/20221109-232926.png" group-title="Hiburan",SBS TV
 http://mammothtv.my.id/sbs/get.php?id=S01
