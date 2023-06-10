@@ -45,6 +45,10 @@ http://103.152.118.53:80/streams/indosiar/index.m3u8
 #EXTGRP:National/Local
 http://103.152.118.53:80/streams/esceteve/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV HD
+#EXTGRP:National/Local
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+
 #EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 #EXTGRP:National/Local
 http://103.152.118.53:80/streams/moji/index.m3u8
