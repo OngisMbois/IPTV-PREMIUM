@@ -141,14 +141,157 @@ http://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e5
 #######################
 ######## OTHER ########
 #######################
+#EXTINF:-1 tvg-id="daaitv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",DAAITV
+#EXTGRP:National/Local
+http://103.152.118.53:80/streams/daaiteve/index.m3u8
+
+#EXTINF:-1 tvg-id="tvriworld.id" tvg-logo="https://i.imgur.com/K4S5a2w.png",TVRI World
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1 tvg-id="tvrisports.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/640px-TVRI_Sport_2022.svg.png",TVRI Sport
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1 tvg-id="tvrinasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png",TVRI Nasional
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1 tvg-id="jtv.id" tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png",JTV
+#EXTGRP:National/Local
+http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png",Batu TV
+#EXTGRP:National/Local
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+##########################
+######## LPP TVRI ########
+##########################
+
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAKARTA.png",TVRI Jakarta
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png",TVRI Aceh
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/BALI.png",TVRI Bali
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/BANGKA%20BELITUNG.png",TVRI Bangka Belitung
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/BENGKULU.png",TVRI Bengkulu
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/GORONTALO.png",TVRI Gorontalo
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAMBI.png",TVRI Jambi
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20BARAT.png",TVRI Jawa Barat
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20TENGAH.png",TVRI Jawa Tengah
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20TIMUR.png",TVRI Jawa Timur
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20BARAT.png",TVRI Kalimantan Barat
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20SELATAN.png",TVRI Kalimantan Selatan
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKKALSELBANJARMSN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20TIMUR.png",TVRI Kalimantan Timur
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20TENGAH.png",TVRI Kalimantan Tengah
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/LAMPUNG.png",TVRI Lampung
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/MALUKU.png",TVRI Maluku
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/NTB.png",TVRI Nusa Tenggara Barat
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/NTT.png",TVRI Nusa Tenggara Timur
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/PAPUA.png",TVRI Papua
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/RIAU.png",TVRI Riau
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20BARAT.png",TVRI Sulawesi Barat
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20SELATAN.png",TVRI Sulawesi Selatan
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGAH.png",TVRI Sulawesi Tengah
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGGARA.png",TVRI Sulawesi Tenggara
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20UTARA.png",TVRI Sulawesi Utara
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20BARAT.png",TVRI Sumatera Barat
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20SELATAN.png",TVRI Sumatera Selatan
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20UTARA.png",TVRI Sumatera Utara
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/YOGYAKARTA.png",TVRI Yogyakarta
+#EXTGRP:National/Local
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://arek.tv/wp-content/uploads/2019/08/logoarek-AE-300x300.png",Arek TV
 #EXTGRP:National/Local
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png",Batu TV
-#EXTGRP:National/Local
-http://117.103.69.219:8080/live/streaming/index.m3u8
 
 #EXTINF:-1 tvg-id="bayutvnganjuk.id" tvg-logo="https://i.imgur.com/QeL5QHy.png",Bayu TV
 #EXTGRP:National/Local
@@ -174,9 +317,6 @@ https://h1.intechmedia.net/intech/ch51.m3u8
 #EXTGRP:National/Local
 https://v2.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="jtv.id" tvg-logo="http://jtv.co.id/wp-content/uploads/2021/09/logo-jtv-oke.png",JTV
-#EXTGRP:National/Local
-http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKK5rpmV/1681551625750.png",Kilisuci TV
 #EXTGRP:National/Local
@@ -202,9 +342,6 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTGRP:National/Local
 http://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
 
-#EXTINF:-1 tvg-id="daaitv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",DAAITV
-#EXTGRP:National/Local
-http://103.152.118.53:80/streams/daaiteve/index.m3u8
 
 #EXTINF:-1 tvg-id="jaktv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png",JakTV
 #EXTGRP:National/Local
@@ -391,135 +528,5 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 ======== LIVE STREAM ========
 
-##########################
-######## LPP TVRI ########
-##########################
 
-#EXTINF:-1 tvg-id="tvrinasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png",TVRI Nasional
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAKARTA.png",TVRI Jakarta
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-
-#EXTINF:-1 tvg-id="tvriworld.id" tvg-logo="https://i.imgur.com/K4S5a2w.png",TVRI World
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-
-#EXTINF:-1 tvg-id="tvrisports.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/640px-TVRI_Sport_2022.svg.png",TVRI Sport
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png",TVRI Aceh
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/BALI.png",TVRI Bali
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/BANGKA%20BELITUNG.png",TVRI Bangka Belitung
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/BENGKULU.png",TVRI Bengkulu
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/GORONTALO.png",TVRI Gorontalo
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAMBI.png",TVRI Jambi
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20BARAT.png",TVRI Jawa Barat
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20TENGAH.png",TVRI Jawa Tengah
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20TIMUR.png",TVRI Jawa Timur
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20BARAT.png",TVRI Kalimantan Barat
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20SELATAN.png",TVRI Kalimantan Selatan
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKKALSELBANJARMSN)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20TIMUR.png",TVRI Kalimantan Timur
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20TENGAH.png",TVRI Kalimantan Tengah
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/LAMPUNG.png",TVRI Lampung
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/MALUKU.png",TVRI Maluku
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/NTB.png",TVRI Nusa Tenggara Barat
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/NTT.png",TVRI Nusa Tenggara Timur
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/PAPUA.png",TVRI Papua
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/RIAU.png",TVRI Riau
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRIAU)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20BARAT.png",TVRI Sulawesi Barat
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULBARMAJENE)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20SELATAN.png",TVRI Sulawesi Selatan
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGAH.png",TVRI Sulawesi Tengah
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGGARA.png",TVRI Sulawesi Tenggara
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20UTARA.png",TVRI Sulawesi Utara
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20BARAT.png",TVRI Sumatera Barat
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20SELATAN.png",TVRI Sumatera Selatan
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20UTARA.png",TVRI Sumatera Utara
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/YOGYAKARTA.png",TVRI Yogyakarta
-#EXTGRP:National/Local
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 
