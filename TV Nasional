@@ -52,7 +52,7 @@ http://103.152.118.53:80/streams/moji/index.m3u8
 
 #EXTINF:-1 tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 #EXTGRP:National
-http://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+http://103.166.27.2:800/play/a018
 
 ############################
 ######## VIVA GROUP ########
