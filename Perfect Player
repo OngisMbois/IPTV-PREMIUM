@@ -116,7 +116,7 @@ http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
 #EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.postimg.cc/Wb6SVqBt/20230520-101134.jpg" group-title="Movies",Paramount Network
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
 
-#EXTINF:-1,Rock Action
+#EXTINF:-1 group-title="Movies",Rock Action
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298490
 
 #EXTINF:-1 tvg-name="blue ant extreme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9QLpClzDNxXOCqTu6eIxDSc4rvPXXTxSnQ&usqp=CAU" group-title="Movies",Rock Extreme
