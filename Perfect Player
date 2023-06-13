@@ -10,6 +10,17 @@ https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=
 ##############################################################################################################################################
 ############### TV Nasional #######################################
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD
+http://kuchini.site:8080/edmian50con/ab121ba8/157578
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INews
+http://kuchini.site:8080/edmian50con/ab121ba8/157579
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV
+http://kuchini.site:8080/edmian50con/ab121ba8/165054
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
+http://kuchini.site:8080/edmian50con/ab121ba8/157591
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="NASIONAL",TVRI SPORT HD
@@ -39,16 +50,6 @@ http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="NASIONAL",NET. HD
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="NASIONAL",RCTI HD
-http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="NASIONAL",GTV HD
-http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="NASIONAL",MNCTV HD
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="NASIONAL",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
@@ -61,9 +62,6 @@ https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmMjX8Xc/20230518-221612.png" group-title="NASIONAL",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0" group-title="NASIONAL",INEWS HD
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1, group-title="NASIONAL" MNC News
 http://ae2.aatvbox.club:8880/12mk160078/31623992/60374
 
@@ -90,6 +88,18 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 ###########################################################################################################################
 ##################  MOVIES  ########################################################################################
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
+http://kuchini.site:8080/edmian50con/ab121ba8/197972
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
+http://kuchini.site:8080/edmian50con/ab121ba8/197055
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
+http://kuchini.site:8080/edmian50con/ab121ba8/196480
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
+http://kuchini.site:8080/edmian50con/ab121ba8/221948
+
 #EXTINF:-1 group-title="Movies",TVN MOVIES
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 
@@ -104,14 +114,6 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515968_ico.png?ts=1655232909" group-title="Movies",ZEE BIOSKOP
 http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
-
-#EXTINF:-1 tvg-id="hbohdfamily.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movies",HBO FAMILY ID HD
-http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/197055.ts
-#EXTINF:-1 tvg-id="hbohdhits.MACAN" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614686122-.png" group-title="Movies",HBO HITS ID HD
-http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/196480.ts
-#EXTINF:-1 tvg-id="hbohdsignature.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO SIGNATURE ID HD
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
-
 
 #EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.postimg.cc/Wb6SVqBt/20230520-101134.jpg" group-title="Movies",Paramount Network
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
@@ -140,16 +142,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 group-title="Movies",Bioskop Indonesia
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264801
-#EXTINF:-1 group-title="Movies",IMC
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264769
-#EXTINF:-1,Etv Bioskop group-title="Movies",Etv Bioskop
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
-#EXTINF:-1,Etv Bioskop 02 group-title="Movies",Etv Bioskop 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
-#EXTINF:-1,Etv Bioskop 03 group-title="Movies",Etv Bioskop 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
-#EXTINF:-1,Etv Bioskop 04 group-title="Movies",Etv Bioskop 4
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
+
 #EXTINF:-1 group-title="Movies",Galaxy
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264773
 #EXTINF:-1 group-title="Movies",Galaxy Premium
@@ -621,28 +614,6 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298501
 ####################################################################################################################################################################
 ####################################### ASTRO MALAYSIA ##########################################################################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASTRO",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 group-title="ASTRO" ,ASTRO OASIS
-http://ae2.aatvbox.club:8880/12mk160078/31623992/1701
-#EXTINF:-1 group-title="ASTRO",ASTRO AURA
-http://ae2.aatvbox.club:8880/12mk160078/31623992/71025
-#EXTINF:-1 group-title="ASTRO",ASTRO WARNA
-http://ae2.aatvbox.club:8880/12mk160078/31623992/1706
-#EXTINF:-1 group-title="ASTRO",ASTRO CERIA
-http://ae2.aatvbox.club:8880/12mk160078/31623992/71080
-#EXTINF:-1 group-title="ASTRO",ASTRO RIA
-http://ae2.aatvbox.club:8880/12mk160078/31623992/1705
-#EXTINF:-1 group-title="ASTRO",ASTRO RANIA
-http://ae2.aatvbox.club:8880/12mk160078/31623992/71022
-#EXTINF:-1 group-title="ASTRO",ASTRO PRIMA
-http://ae2.aatvbox.club:8880/12mk160078/31623992/1702
-#EXTINF:-1 group-title="ASTRO",ASTRO CITRA HD
-http://ae2.aatvbox.club:8880/12mk160078/31623992/71146
-#EXTINF:-1 group-title="ASTRO",Astro Citra Entertainment
-http://ae2.aatvbox.club:8880/12mk160078/31623992/71030
-#EXTINF:-1 group-title="ASTRO",Astro Premier 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/71105
 #EXTINF:-1 group-title="ASTRO",ASTRO SUPERSPORT
 http://ae2.aatvbox.club:8880/12mk160078/31623992/1722
 #EXTINF:-1 group-title="ASTRO",ASTRO SUPERSPORT 2
