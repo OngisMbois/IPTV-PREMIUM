@@ -105,11 +105,11 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515968_ico.png?ts=1655232909" group-title="Movies",ZEE BIOSKOP
 http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
 
-#EXTINF:-1 tvg-id="hbohdfamily.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIES",HBO FAMILY ID HD
+#EXTINF:-1 tvg-id="hbohdfamily.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movies",HBO FAMILY ID HD
 http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/197055.ts
-#EXTINF:-1 tvg-id="hbohdhits.MACAN" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614686122-.png" group-title="MOVIES",HBO HITS ID HD
+#EXTINF:-1 tvg-id="hbohdhits.MACAN" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1614686122-.png" group-title="Movies",HBO HITS ID HD
 http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/196480.ts
-#EXTINF:-1 tvg-id="hbohdsignature.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES",HBO SIGNATURE ID HD
+#EXTINF:-1 tvg-id="hbohdsignature.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO SIGNATURE ID HD
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
 
 
@@ -148,7 +148,7 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
 #EXTINF:-1,Etv Bioskop 03 group-title="Movies",Etv Bioskop 3
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
-#EXTINF:-1,Etv Bioskop 04 group-title="ETV ,Etv Bioskop 4
+#EXTINF:-1,Etv Bioskop 04 group-title="Movies",Etv Bioskop 4
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
 #EXTINF:-1 group-title="Movies",Galaxy
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264773
