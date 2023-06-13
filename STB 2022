@@ -653,6 +653,16 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298491
 #EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://i.imgur.com/dnQiPdp.png" group-title="SPORTS",Champions TV 6
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298492
 
+#EXTINF:-1,ASTRO SUPERSPORT group-title="SPORTS"
+http://ae2.aatvbox.club:8880/12mk160078/31623992/1722
+#EXTINF:-1,ASTRO SUPERSPORT 2 group-title="SPORTS"
+http://ae2.aatvbox.club:8880/12mk160078/31623992/1721
+#EXTINF:-1,ASTRO SUPERSPORT 3 group-title="SPORTS"
+http://ae2.aatvbox.club:8880/12mk160078/31623992/1720
+#EXTINF:-1,ASTRO SUPERSPORT 4 group-title="SPORTS"
+http://ae2.aatvbox.club:8880/12mk160078/31623992/1719
+#EXTINF:-1,ASTRO SUPERSPORT 5 group-title="SPORTS"
+http://ae2.aatvbox.club:8880/12mk160078/31623992/1713
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
