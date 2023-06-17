@@ -33,6 +33,10 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 ######## EMTEK GROUP ########
 #############################
 
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar 
+#EXTGRP:National
+http://103.152.118.53:80/streams/indosiar_2/index.m3u8
+
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar
 #EXTGRP:National
 http://103.152.118.53:80/streams/indosiar/index.m3u8
@@ -40,6 +44,10 @@ http://103.152.118.53:80/streams/indosiar/index.m3u8
 #EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 #EXTGRP:National
 http://103.152.118.53:80/streams/esceteve/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
+#EXTGRP:National
+http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV HD
 #EXTGRP:National
@@ -49,9 +57,13 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTGRP:National
 http://103.152.118.53:80/streams/moji/index.m3u8
 
+#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
+#EXTGRP:National
+http://103.152.118.53:80/streams/moji_2/index.m3u8
+
 #EXTINF:-1 tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 #EXTGRP:National
-http://103.166.27.2:800/play/a018
+http://103.152.118.53:80/streams/mentariteve/index.m3u8
 
 ############################
 ######## VIVA GROUP ########
