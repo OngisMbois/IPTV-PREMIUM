@@ -16,19 +16,34 @@ https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=
 #EXTGRP:National
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
+#EXTINF:-1 tvg-id="rcti.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png",RCTI HD
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/157591
 
 #EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png",MNCTV
 #EXTGRP:National
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
+#EXTINF:-1 tvg-id="mnctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png",MNCTV  HD
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165054
+
 #EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png",GTV
 #EXTGRP:National
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
+#EXTINF:-1 tvg-id="gtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png",GTV
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/157578
+
 
 #EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews
 #EXTGRP:National
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
+#EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/157579
 #############################
 ######## EMTEK GROUP ########
 #############################
@@ -36,6 +51,10 @@ http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar 
 #EXTGRP:National
 http://103.152.118.53:80/streams/indosiar_2/index.m3u8
+
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar HD
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162138
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar
 #EXTGRP:National
@@ -53,6 +72,10 @@ http://103.152.118.53:80/streams/esceteve_2/index.m3u8
 #EXTGRP:National
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV HD
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162141
+
 #EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 #EXTGRP:National
 http://103.152.118.53:80/streams/moji/index.m3u8
@@ -60,6 +83,11 @@ http://103.152.118.53:80/streams/moji/index.m3u8
 #EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 #EXTGRP:National
 http://103.152.118.53:80/streams/moji_2/index.m3u8
+
+#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298550
+
 
 #EXTINF:-1 tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 #EXTGRP:National
@@ -73,9 +101,18 @@ http://103.152.118.53:80/streams/mentariteve/index.m3u8
 #EXTGRP:National
 http://103.152.118.53:80/streams/anteve/index.m3u8
 
+#EXTINF:-1 tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165072
+
 #EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png",tvOne
 #EXTGRP:National
 http://103.152.118.53:80/streams/yt/by-name/tvonenews/index.m3u8
+
+#EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png",tvOne
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/296214
+
 
 #EXTINF:-1 tvg-id="vivatelevisi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV (VIVA TV)
 #EXTGRP:National
@@ -89,9 +126,17 @@ http://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 #EXTGRP:National
 http://103.152.118.53:80/streams/transteve/index.m3u8
 
+#EXTINF:-1 tvg-id="transtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png",Trans TV
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162503
+
 #EXTINF:-1 tvg-id="trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png",Trans 7
 #EXTGRP:National
 http://103.152.118.53:80/streams/transpitu/index.m3u8
+
+#EXTINF:-1 tvg-id="trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png",Trans 7
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162502
 
 #EXTINF:-1 tvg-id="cnnindonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/640px-Logo_of_CNN_Indonesia.svg.png",CNN Indonesia
 #EXTGRP:National
@@ -108,6 +153,11 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="metrotv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png",Metro TV
 #EXTGRP:National
 http://103.152.118.53:80/streams/metroteve/index.m3u8
+
+#EXTINF:-1 tvg-id="metrotv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png",Metro TV
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165059
+
 
 #EXTINF:-1 tvg-id="magnachannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna Channel
 #EXTGRP:National
@@ -128,6 +178,10 @@ http://103.152.118.53:80/streams/yt/by-id/0Kln8aj0v3E/index.m3u8
 #EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
 #EXTGRP:National
 http://103.152.118.53:80/streams/kompasteve/index.m3u8
+
+#EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV HD
+#EXTGRP:National
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165060
 
 ###############################
 ######## NET MEDIATAMA ########
@@ -172,6 +226,23 @@ http://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_hls/JTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png",Batu TV
 #EXTGRP:Local
 http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#############################################################################################
+################# TV Champion ##############################################################
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Champion TV", ID: Champion TV 1
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298512
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Champion TV", ID: Champion TV 2
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Champion TV", ID: Champion TV 3
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298514
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Champion TV", ID: Champion TV 5
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298491
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Champion TV", ID: Champion TV 6
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298492
 
 ##########################
 ######## LPP TVRI ########
