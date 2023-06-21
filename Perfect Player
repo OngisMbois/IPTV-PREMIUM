@@ -89,16 +89,18 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 ##################  MOVIES  ########################################################################################
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-http://kuchini.site:8080/edmian50con/ab121ba8/197972
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/197972.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
-http://kuchini.site:8080/edmian50con/ab121ba8/197055
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/197055.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-http://kuchini.site:8080/edmian50con/ab121ba8/196480
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/196480.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
-http://kuchini.site:8080/edmian50con/ab121ba8/221948
+http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/221948.m3u8
 
 #EXTINF:-1 group-title="Movies",TVN MOVIES
 http://210.210.155.37/dr9445/h/h21/index.m3u8
