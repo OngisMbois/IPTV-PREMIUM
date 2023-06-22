@@ -66,7 +66,7 @@ http://103.152.118.53:80/streams/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV*
 #EXTGRP:National
-https://raw.githubusercontent.com/OngisMbois/iptv/main/sctv%2Cm3u8
+https://github.com/OngisMbois/iptv/raw/main/sctv.m3u8
 
 #EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 #EXTGRP:National
@@ -86,7 +86,7 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162141
 
 #EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji*
 #EXTGRP:National
-https://raw.githubusercontent.com/OngisMbois/iptv/main/moji.m3u8
+https://github.com/OngisMbois/iptv/raw/main/moji.m3u8
 
 #EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 #EXTGRP:National
