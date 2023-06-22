@@ -50,7 +50,7 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/157579
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar* 
 #EXTGRP:National
-https://github.com/OngisMbois/iptv/blob/main/indosiar.m3u8
+https://raw.githubusercontent.com/OngisMbois/iptv/main/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar 
 #EXTGRP:National
@@ -66,7 +66,7 @@ http://103.152.118.53:80/streams/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV*
 #EXTGRP:National
-https://github.com/OngisMbois/iptv/blob/main/sctv%2Cm3u8
+https://raw.githubusercontent.com/OngisMbois/iptv/main/sctv%2Cm3u8
 
 #EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 #EXTGRP:National
@@ -86,7 +86,7 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162141
 
 #EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji*
 #EXTGRP:National
-https://github.com/OngisMbois/iptv/blob/main/moji.m3u8
+https://raw.githubusercontent.com/OngisMbois/iptv/main/moji.m3u8
 
 #EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 #EXTGRP:National
