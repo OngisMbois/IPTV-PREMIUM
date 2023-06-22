@@ -105,6 +105,10 @@ http://103.152.118.53:80/streams/mentariteve/index.m3u8
 ######## VIVA GROUP ########
 ############################
 
+#EXTINF:-1 tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV*
+#EXTGRP:National
+https://github.com/OngisMbois/iptv/blob/main/antv.m3u8
+
 #EXTINF:-1 tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV
 #EXTGRP:National
 http://103.152.118.53:80/streams/anteve/index.m3u8
@@ -112,6 +116,10 @@ http://103.152.118.53:80/streams/anteve/index.m3u8
 #EXTINF:-1 tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV HD
 #EXTGRP:National
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165072
+
+#EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png",tvOne
+#EXTGRP:National
+https://github.com/OngisMbois/iptv/raw/main/tvone.m3u8
 
 #EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png",tvOne
 #EXTGRP:National
@@ -130,6 +138,10 @@ http://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 ######## TRANS MEDIA ########
 #############################
 
+#EXTINF:-1 tvg-id="transtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png",Trans TV*
+#EXTGRP:National
+https://github.com/OngisMbois/iptv/raw/main/transtv.m3u
+
 #EXTINF:-1 tvg-id="transtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png",Trans TV
 #EXTGRP:National
 http://103.152.118.53:80/streams/transteve/index.m3u8
@@ -137,6 +149,10 @@ http://103.152.118.53:80/streams/transteve/index.m3u8
 #EXTINF:-1 tvg-id="transtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/640px-Trans_TV_2013.svg.png",Trans TV HD
 #EXTGRP:National
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162503
+
+#EXTINF:-1 tvg-id="trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png",Trans 7*
+#EXTGRP:National
+https://github.com/OngisMbois/iptv/raw/main/trans7.m3u8
 
 #EXTINF:-1 tvg-id="trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/640px-Trans_7_2013.svg.png",Trans 7
 #EXTGRP:National
