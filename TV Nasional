@@ -107,7 +107,7 @@ http://103.152.118.53:80/streams/mentariteve/index.m3u8
 
 #EXTINF:-1 tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV*
 #EXTGRP:National
-https://github.com/OngisMbois/iptv/blob/main/antv.m3u8
+https://github.com/OngisMbois/iptv/raw/main/antv.m3u8
 
 #EXTINF:-1 tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV
 #EXTGRP:National
@@ -117,7 +117,7 @@ http://103.152.118.53:80/streams/anteve/index.m3u8
 #EXTGRP:National
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165072
 
-#EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png",tvOne
+#EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png",tvOne*
 #EXTGRP:National
 https://github.com/OngisMbois/iptv/raw/main/tvone.m3u8
 
