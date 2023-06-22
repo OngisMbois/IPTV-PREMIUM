@@ -48,6 +48,10 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/157579
 ######## EMTEK GROUP ########
 #############################
 
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar* 
+#EXTGRP:National
+https://github.com/OngisMbois/iptv/blob/main/indosiar.m3u8
+
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar 
 #EXTGRP:National
 http://103.152.118.53:80/streams/indosiar_2/index.m3u8
@@ -59,6 +63,10 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162138
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar
 #EXTGRP:National
 http://103.152.118.53:80/streams/indosiar/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV*
+#EXTGRP:National
+https://github.com/OngisMbois/iptv/blob/main/sctv%2Cm3u8
 
 #EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 #EXTGRP:National
@@ -76,9 +84,9 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTGRP:National
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/162141
 
-#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
+#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji*
 #EXTGRP:National
-http://103.152.118.53:80/streams/moji/index.m3u8
+https://github.com/OngisMbois/iptv/blob/main/moji.m3u8
 
 #EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 #EXTGRP:National
