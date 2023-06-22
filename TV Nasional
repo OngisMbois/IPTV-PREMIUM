@@ -50,7 +50,7 @@ http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/157579
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar* 
 #EXTGRP:National
-https://raw.githubusercontent.com/OngisMbois/iptv/main/indosiar.m3u8
+https://github.com/OngisMbois/iptv/raw/main/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar 
 #EXTGRP:National
