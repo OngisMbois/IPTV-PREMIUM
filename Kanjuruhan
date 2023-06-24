@@ -286,6 +286,18 @@ http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/bobbyBakary/Btv/blob/main/sbo_logo.jpg?dl=0" group-title="Movies",My Family Channel
 http://rr.dens.tv/h/h194/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies" ,Etv Bioskop 1
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298526
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies" ,Etv Bioskop 2
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298527
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies" ,Etv Bioskop 3
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298528
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies" ,Etv Bioskop 4
+http://aflaxtv.xyz:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298529
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
