@@ -2,8 +2,7 @@
 https://github.com/kusnadipepenk/ntn/raw/master/spotv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="SPORTS", SPOTV 1
-https://github.com/kusnadipepenk/ntn/raw/master/spotv1.m3u8
-##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8FhSJJ/Spotv2.png" group-title="SPORTS", SPOTV 2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
