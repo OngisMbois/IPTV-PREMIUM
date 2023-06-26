@@ -1,53 +1,57 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/wikagraphic/wikagraphic2011/wikagraphic201119097/158622481-initial-letter-om-logotype-company-name-colored-black-and-red-swoosh-design-.jpg" group-title="ONGIS MBOIS",  Subscribe Youtube "ONGIS-MBOIS" 
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="ONGIS MBOIS",  Subscribe Youtube "ONGIS-MBOIS" 
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI HD
 https://github.com/OngisMbois/iptv/raw/main/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="NASIONAL",MNC TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="NASIONAL",MNC TV HD
 https://github.com/OngisMbois/iptv/raw/main/mnctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png" group-title="NASIONAL",GTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png" group-title="NASIONAL",GTV HD
 https://github.com/OngisMbois/iptv/raw/main/global.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NASIONAL",Trans TV
+#EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews HD
+#EXTGRP:NASIONAL
+https://github.com/OngisMbois/iptv/blob/main/inews.m3u8
+
+#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV HD
+#EXTGRP:NASIONAL
+https://github.com/OngisMbois/iptv/raw/main/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NASIONAL",Trans TV HD
 https://github.com/OngisMbois/iptv/raw/main/transtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",Trans 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",Trans 7 HD
 https://github.com/OngisMbois/iptv/raw/main/trans7.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="NASIONAL",ANTV
+#EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png",TV One HD
+#EXTGRP:NASIONAL
+https://github.com/OngisMbois/iptv/raw/main/tvone1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="NASIONAL",ANTV HD
 https://github.com/OngisMbois/iptv/raw/main/antv.m3u8
 
-#EXTINF:-1 group-title="NASIONAL",METRO TV
+#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji HD
+#EXTGRP:NASIONAL
+https://github.com/OngisMbois/iptv/raw/main/moji.m3u8
+
+
+#EXTINF:-1 group-title="NASIONAL",METRO TV HD
 https://github.com/OngisMbois/iptv/raw/main/metrotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3MDKtZ.png" group-title="NASIONAL",RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3MDKtZ.png" group-title="NASIONAL",RTV HD
 https://github.com/OngisMbois/iptv/raw/main/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1617930242_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="NASIONAL",NET
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="NASIONAL",NET HD
 https://github.com/OngisMbois/iptv/raw/main/nettv.m3u8
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20690321_ico.png?ts=1654801175" group-title="NASIONAL",GTV BACKUP
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-
-
-EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="NASIONAL",MNC TV BACKUP
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="NASIONAL",MNC TV HD
-https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-
+#EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV HD
+#EXTGRP:NASIONAL
+https://github.com/OngisMbois/iptv/raw/main/kompastv.m3u8
 
 ###MOVIE###
 
@@ -326,27 +330,4 @@ https://h1.intechmedia.net/intech/ch27.m3u8
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
 
-#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3ULZg1V",DC League Super Pets
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://23.226.71.76/grPjLHjG8TCWcn46V4Z7G5IMgIRqlBWiZhjcs01kkUFYwdsUHD1yJ1_QXcqn87s4thvYTfnnoED7g7r4EeVnNg/kqNsQyS1Ye0niGWxMAI5Jf-waixmOVE1n_B-6Y9CxW4/video.m3u8|Referer=http://172.96.161.72/
 
-#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3UOWoRZ",One Piece : Movie RED
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://23.226.71.76/uvUVuTPwZEAoNG7c-cAl_kInxusYR1EhMCGO4m0ZOHy9K28mUjX9IjpaSsUrQUUp9ZN7hFxSnjxTP2uyvBvygg/yIHFZL2iAn6gIPs4KQNOBmiWIhv4ZurdEajkT0oaFvA/video.m3u8|Referer=http://172.96.161.72/
-
-#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3dOHo61",The Doll 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://23.226.71.76/dOSSkU-_cMlnnWbT3s0NRHFOyTUfhFyuxxVOnpOHppT7Zma2GZL6C0IC5mwpkXbfOD8NqRQci2do1t1akUKJQw/rhHLxX5fVdTNMbOT0NFPQZJEBaLUT520Rl_p91WjlLA/video.m3u8|Referer=http://172.96.161.72/
-
-#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3xR2h7s",KKN Desa Penari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://vz-5291d294-1ab.b-cdn.net/2325406f-8b78-4552-9823-8c435f5f9cbb/playlist.m3u8|Referer=https://iframe.mediadelivery.net/
-
-#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3R69hEk",MUMUN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://vz-5291d294-1ab.b-cdn.net/32b4ac04-75f6-4d44-b4d5-7b93f2a2c360/playlist.m3u8|Referer=https://iframe.mediadelivery.net/
-
-
-#EXTINF:-1 group-title="VOD Film" tvg-logo="https://bit.ly/3UwkdOm",Pengabdi setan 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://vz-5291d294-1ab.b-cdn.net/54dc2085-8355-4501-ad5c-775e07e6b81d/playlist.m3u8|Referer=https://iframe.mediadelivery.net/
