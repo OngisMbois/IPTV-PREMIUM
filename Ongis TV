@@ -51,7 +51,7 @@ https://github.com/OngisMbois/iptv/raw/main/antv.m3u8
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/moji.m3u8
 
-#EXTINF:-1 group-title="NASIONAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.pn,METRO TV HD
+#EXTINF:-1 group-title="NASIONAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png,METRO TV HD
 https://github.com/OngisMbois/iptv/raw/main/metrotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3MDKtZ.png" group-title="NASIONAL",RTV HD
