@@ -54,6 +54,15 @@ https://github.com/OngisMbois/iptv/raw/main/nettv.m3u8
 https://github.com/OngisMbois/iptv/raw/main/kompastv.m3u8
 
 ###MOVIE###
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/One_logo-small_0.png/revision/latest?cb=20200318121914" group-title="MOVIE",SONY One
+https://github.com/OngisMbois/iptv/raw/main/one.m3u8
+
+#EXTINF:-1 group-title="MOVIE",MY CINEMA
+http://rr.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 group-title="MOVIE",MY CINEMA ASIA
+http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF:-1 group-title="MOVIE",MY FAMILY CHANNEL
+http://rr.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="MOVIE",KPlus
 https://github.com/OngisMbois/iptv/raw/main/kplus.m3u8
@@ -66,6 +75,12 @@ https://github.com/OngisMbois/iptv/raw/main/tvnmovies.m3u8
 
 #EXTINF:0 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="MOVIE",ZEE BIOSKOP
 https://github.com/OngisMbois/iptv/raw/main/zeebio.m3u8
+
+#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="MOVIE",AXN
+https://github.com/OngisMbois/iptv/raw/main/axn.m3u8
+
+#EXTINF:0 tvg-id="Warner TV" tvg-name="Warner Tv" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="MOVIE",Warner TV
+https://github.com/OngisMbois/iptv/raw/main/warner.m3u8
 
 #EXTINF:-1 group-title="MOVIE",KIX
 https://github.com/OngisMbois/iptv/raw/main/kix.m3u8
@@ -91,12 +106,7 @@ http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 http://210.210.155.37/dr9445/h/h07/index.m3u8
 #EXTINF:-1 group-title="MOVIE",KPLUS
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1 group-title="MOVIE",MY CINEMA
-http://rr.dens.tv/h/h192/index.m3u8
-#EXTINF:-1 group-title="MOVIE",MY CINEMA ASIA
-http://rr.dens.tv/h/h193/index.m3u8
-#EXTINF:-1 group-title="MOVIE",MY FAMILY CHANNEL
-http://rr.dens.tv/h/h194/index.m3u8
+
 #EXTINF:-1 group-title="MOVIE",PEOPLE ARE AWESOME
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 #EXTINF:-1 group-title="MOVIE",ROCK ENTERTAIN
@@ -157,13 +167,11 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="Warner TV" tvg-name="Warner Tv" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="MOVIE",Warner TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="MOVIE",AXN
-https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
