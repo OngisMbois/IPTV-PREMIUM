@@ -105,29 +105,29 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="MOVIE",KPlus
 https://github.com/OngisMbois/iptv/raw/main/kplus.m3u8
 
-#EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="MOVIE",Celestial Movies
+#EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="MOVIE",Celestial Movies
 https://github.com/OngisMbois/iptv/raw/main/celmovie.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvnmovies.png" group-title="MOVIE",tvN Movies
 https://github.com/OngisMbois/iptv/raw/main/tvnmovies.m3u8
 
-#EXTINF:0 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/zeebioskop.png" group-title="MOVIE",ZEE BIOSKOP
+#EXTINF:0 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835" group-title="MOVIE",ZEE BIOSKOP
 https://github.com/OngisMbois/iptv/raw/main/zeebio.m3u8
 
 #EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="MOVIE",AXN
 https://github.com/OngisMbois/iptv/raw/main/axn.m3u8
 
-#EXTINF:0 tvg-id="Warner TV" tvg-name="Warner Tv" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="MOVIE",Warner TV
+#EXTINF:0 tvg-id="Warner TV" tvg-name="Warner Tv" tvg-logo="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="MOVIE",Warner TV
 https://github.com/OngisMbois/iptv/raw/main/warner.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.postimg.cc/7YDMKY54/20230520-094435.jpg",HITS 
 https://github.com/OngisMbois/iptv/raw/main/hits.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png",HITS Movies
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",HITS Movies
 https://github.com/OngisMbois/iptv/blob/main/hitmovie.m3u8
 
 
-#EXTINF:0 tvg-id="Thrill" tvg-name="Thrill" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="MOVIE",Thrill
+#EXTINF:0 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="MOVIE",Thrill
 https://github.com/OngisMbois/iptv/raw/main/thrill.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIE",Rock Action
