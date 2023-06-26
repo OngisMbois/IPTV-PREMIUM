@@ -13,7 +13,7 @@ https://github.com/OngisMbois/iptv/raw/main/global.m3u8
 
 #EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews HD
 #EXTGRP:NASIONAL
-https://github.com/OngisMbois/iptv/blob/main/inews.m3u8
+https://github.com/OngisMbois/iptv/raw/main/inews.m3u8
 
 #EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV HD
 #EXTGRP:NASIONAL
