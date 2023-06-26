@@ -2,6 +2,12 @@
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="ONGIS MBOIS",  Subscribe Youtube "ONGIS-MBOIS" 
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 
+#EXTINF: -1 tvg-name="Usut Tuntas" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="ONGIS-MBOIS", YOUTUBE "ONGIS-MBOIS"
+https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+######################################################################################
+############### NASIONAL TV ##########################################################
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI HD
 https://github.com/OngisMbois/iptv/raw/main/rcti.m3u8
 
@@ -35,7 +41,6 @@ https://github.com/OngisMbois/iptv/raw/main/antv.m3u8
 #EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji HD
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/moji.m3u8
-
 
 #EXTINF:-1 group-title="NASIONAL",METRO TV HD
 https://github.com/OngisMbois/iptv/raw/main/metrotv.m3u8
@@ -88,46 +93,6 @@ https://github.com/OngisMbois/iptv/raw/main/kix.m3u8
 #EXTINF:0 tvg-id="Thrill" tvg-name="Thrill" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="MOVIE",Thrill
 https://github.com/OngisMbois/iptv/raw/main/thrill.m3u8
 
-#EXTINF:-1 group-title="MOVIE",CCM
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1 group-title="MOVIE",CELESTIAL MOVIES
-http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
-http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1 group-title="MOVIE",CINEMA WORLD
-http://210.210.155.35/session/1c3b9f90-7a97-11ec-8b65-b82a72d63267/dr9445/h/h04/index.m3u8
-#EXTINF:-1 group-title="MOVIE",GEM
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8
-http://210.210.155.37/uq2663/h/h19/index.m3u8
-#EXTINF:-1 group-title="MOVIE",HITS
-http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
-http://210.210.155.37/dr9445/h/h37/index.m3u8
-
-http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
-http://210.210.155.37/dr9445/h/h07/index.m3u8
-#EXTINF:-1 group-title="MOVIE",KPLUS
-http://210.210.155.37/uq2663/h/h08/index.m3u8
-
-#EXTINF:-1 group-title="MOVIE",PEOPLE ARE AWESOME
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE",ROCK ENTERTAIN
-http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
-http://210.210.155.37/dr9445/h/h16/index.m3u8
-#EXTINF:-1 group-title="MOVIE",ROCK EXTREME
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
-http://210.210.155.37/dr9445/h/h15/index.m3u8
-#EXTINF:-1 group-title="MOVIE",THE DESIGN NETWORK
-https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE",THRILL
-http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 group-title="MOVIE",TVN
-http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
-#EXTINF:-1 group-title="MOVIE",TVN MOVIES
-http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
-#EXTINF:-1 group-title="MOVIE",ONE
-http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
-#EXTINF:-1 group-title="MOVIE",ZEE BIOSKOP
-http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 
 #Movie #
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -284,63 +249,6 @@ http://axcestv.vip:8080/live/freeview/axcestv/791.ts
 
 
 
-#EXTINF:-1 group-title="TV ISLAMI",AHSAN TV
-https://h1.intechmedia.net/intech/ch4.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",ASHIIL TV
-https://h1.intechmedia.net/intech/ch2.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",AL-BAHJAH TV
-https://h1.intechmedia.net/intech/ch64.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",ALFURQON
-https://h1.intechmedia.net/intech/ch24.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",AL-IMAN TV
-https://h1.intechmedia.net/intech/ch9.m3u8
-http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",AL-INSAN TV
-https://h1.intechmedia.net/intech/ch1.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",AL QURAN AL KAREEM
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
-#EXTINF:-1 group-title="TV ISLAMI",BINA MADANI TV
-https://h1.intechmedia.net/intech/ch20.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",BIN BAZ TV
-https://h1.intechmedia.net/intech/ch22.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",BRITISH MUSLIM
-https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",HIJRAH TV
-https://h1.intechmedia.net/intech/ch8.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",IZZAH TV
-https://h1.intechmedia.net/intech/ch7.m3u8
-https://streaming.sigraduta.co.id/izzahtv.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",KHALID BASALAMAH Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657441268/ei/lDfKYt7BH7mU3LUPt9y-0Ao/ip/180.248.247.58/id/W0yGnJuhoVQ.1/source/yt_live_broadcast/requiressl/yes/tx/24206504/txs/24206051%2C24206052%2C24206503%2C24206504/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khv4ynLLTY3kKxPaaEZwpcZTRu3M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAK6vylOt12-LfSoqGhUtbuYBIYrXVKBBKac1FAgxExasAiBFJZPrGELUtlKjXjheCeEQbPJwLdw_LJFieHnk60S72Q%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",MADANI TV
-https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",MEDS TV
-https://h1.intechmedia.net/intech/ch23.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",MGI TV
-https://h1.intechmedia.net/intech/ch25.m3u8
-https://tv.rodja.live/tasik/mgitv/chunklist_w411374010.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",MUADZ TV
-https://h1.intechmedia.net/intech/ch5.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",NIAGA TV
-https://h1.intechmedia.net/intech/ch10.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",RASYAAD TV
-https://h1.intechmedia.net/intech/ch6.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",RIFQAN TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657437217/ei/wCfKYur_OMGp3LUPlZuluAE/ip/180.248.247.58/id/6uq3U1vlIaI.1/source/yt_live_broadcast/requiressl/yes/tx/24206504/txs/24206051%2C24206052%2C24206503%2C24206504/hfr/1/maudio/1/spc/lT-KhrSATjEiydAJEDzt3vTcBMGk5N8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDvkWEeFCWB1d5VdbMCw56ukUp4y2kucSL6X80ntWwxQCIQDD1rhKMA3-vsQ1JsIwOPpunjE5x4__aY30efRcUdloFQ%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",RODJA TV
-https://h1.intechmedia.net/intech/ch26.m3u8
-https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1148284456_b946000.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",SJP TV
-https://h1.intechmedia.net/intech/ch17.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",SURAU TV
-https://h1.intechmedia.net/intech/ch3.m3u8
-http://119.235.249.58:1935/surautv/live/chunklist_w1776413384.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",TARBIYAH SUNNAH CHANNEL
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1657441570/ei/wjjKYo77A-yC4-EPne2V-AQ/ip/180.248.247.58/id/2e2UX3yqOxQ.1/source/yt_live_broadcast/requiressl/yes/tx/24206504/txs/24206051%2C24206052%2C24206503%2C24206504/hfr/1/maudio/1/spc/lT-KhqKWI7kp7_Vk5QWtn5V6nLsHhyc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHMHvc7e4azUPAyzb3KO8o8zmyqCSFUV4rx2m-sg58ukCIHDs6cqdKXXToWX-RKqOh6XnmBzDQnr8FcTUm9dD_njq/file/index.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",UFA TV
-https://h1.intechmedia.net/intech/ch27.m3u8
-#EXTINF:-1 group-title="TV ISLAMI",WESAL TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
 
 
