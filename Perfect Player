@@ -650,8 +650,22 @@ https://github.com/OngisMbois/VOD/raw/main/Sonic2.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Black Adam
 https://github.com/OngisMbois/VOD/raw/main/Blackadam.m3u8
 
-#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD" Transformer Beats
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Transformer Beats
 https://github.com/OngisMbois/VOD/raw/main/Transformerbeats.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Shangchi
+https://github.com/OngisMbois/VOD/raw/main/Shangchi.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Wakanda Forever
+https://github.com/OngisMbois/VOD/raw/main/Wakandaforever.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Shazam 2
+https://github.com/OngisMbois/VOD/raw/main/Zhazam2.m3u8
+
+###EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD"
+
+
+
 ####################################################################################################################################################################
 ####################################### ASTRO MALAYSIA ##########################################################################################################
 
