@@ -29,8 +29,11 @@ http://210.210.155.37/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="tvri nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU" group-title="NASIONAL",TVRI
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI HD
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI*
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI HD
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298550
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="NASIONAL",SCTV HD
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -101,7 +104,7 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197055
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/196480
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/221948.m3u8
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/221948
 
 #EXTINF:-1 group-title="Movies",TVN MOVIES
 http://210.210.155.37/dr9445/h/h21/index.m3u8
@@ -122,7 +125,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
 
 #EXTINF:-1 group-title="Movies",Rock Action
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298490
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298490
 
 #EXTINF:-1 tvg-name="blue ant extreme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9QLpClzDNxXOCqTu6eIxDSc4rvPXXTxSnQ&usqp=CAU" group-title="Movies",Rock Extreme
 http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
@@ -144,14 +147,16 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="dunia sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="Movies",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:-1 group-title="Movies",Bioskop Indonesia
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264801
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/264801
 
 #EXTINF:-1 group-title="Movies",Galaxy
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264773
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/264773
 #EXTINF:-1 group-title="Movies",Galaxy Premium
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264774
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/264774
+
 #EXTINF:-1 group-title="Movies",AXN
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165079
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165079
+
 
 ######################################### DENSTV ######################################
 
@@ -357,30 +362,37 @@ http://210.210.155.37/uq2663/h/h223/index.m3u8
 ###########################################################################################################################################################
 #######################  Sports  #########################################################################################################################
 
+
+
+
 #EXTINF:-1 group-title="Sports",Usee Sport 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298577
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298577
+
 #EXTINF:-1 group-title="Sports",Usee Sport 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298578
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298578
+
 #EXTINF:-1 group-title="Sports",Champions TV 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298512
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298512
 #EXTINF:-1 group-title="Sports",Champions TV 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298513
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298513
 #EXTINF:-1 group-title="Sports",Champions TV 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298514
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298514
 #EXTINF:-1 group-title="Sports",Champions TV 5
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298491
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298491
 #EXTINF:-1 group-title="Sports",Champions TV 6
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298492
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298492
+
 #EXTINF:-1 group-title="Sports",beIN Sports 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165105
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165105
 #EXTINF:-1 group-title="Sports",beIN Sports 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298506
 #EXTINF:-1 group-title="Sports",NBA TV
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298558
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298558
+
 #EXTINF:-1 group-title="Sports",SPOTV 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298570
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298570
 #EXTINF:-1 group-title="Sports",SPOTV 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298571
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298571
 #EXTINF:-1 group-title="Sports",MNC Sports 1
 http://ae2.aatvbox.club:8880/12mk160078/31623992/60351
 #EXTINF:-1 group-title="Sports" group-title="Sports",MNC Sport 2
@@ -477,7 +489,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="LIFESTYLE",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Chinese Drama
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298516
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298516
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="LIFESTYLE",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.postimg.cc/kXcNz3Sb/20230520-094301.jpg" group-title="LIFESTYLE",Gem
@@ -485,7 +497,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="LIFESTYLE",TVN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",FMN
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165057
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165057
+
 #EXTINF:-1 group-title="LIFESTYLE",DENS SHOWBIZ
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 
@@ -505,13 +518,14 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery Channel
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Discovery Asia
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/197968
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/197968
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="KNOWLEDGE",National Geographic
 http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",CGTN Documentary
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298511
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298511
 #EXTINF:-1 group-title="KNOWLEDGE",Crime+ Investigation
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165052
+http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165052
+
 
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="KNOWLEDGE",BIZNET ADVENTURE
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
