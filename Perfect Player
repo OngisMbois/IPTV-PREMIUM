@@ -29,11 +29,11 @@ http://210.210.155.37/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="tvri nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU" group-title="NASIONAL",TVRI
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI*
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI 1
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI HD
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298550
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI 2
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298550
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="NASIONAL",SCTV HD
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -47,6 +47,9 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7 HD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7 HD
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162502
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="NASIONAL",ANTV HD
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 
@@ -56,7 +59,7 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="NASIONAL",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
-#EXTINF:-1,MENTARI HD  group-title="NASIONAL"
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="NASIONAL",Mentari TV
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298546
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="NASIONAL",VTV HD
