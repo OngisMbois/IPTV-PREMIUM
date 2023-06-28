@@ -154,8 +154,6 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264801
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264773
 #EXTINF:-1 group-title="Movies",Galaxy Premium
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264774
-
-
 #EXTINF:-1 group-title="Movies",AXN
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165079
 
@@ -364,9 +362,6 @@ http://210.210.155.37/uq2663/h/h223/index.m3u8
 ###########################################################################################################################################################
 #######################  Sports  #########################################################################################################################
 
-
-
-
 #EXTINF:-1 group-title="Sports",Usee Sport 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298577
 #EXTINF:-1 group-title="Sports",Usee Sport 2
@@ -389,7 +384,7 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
 #EXTINF:-1 group-title="Sports",beIN Sports 3
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
 #EXTINF:-1 group-title="Sports",NBA TV
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298558
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298558
 
 #EXTINF:-1 group-title="Sports",SPOTV 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298570
@@ -492,7 +487,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="LIFESTYLE",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",Chinese Drama
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298516
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298516
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="LIFESTYLE",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.postimg.cc/kXcNz3Sb/20230520-094301.jpg" group-title="LIFESTYLE",Gem
@@ -500,7 +495,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="LIFESTYLE",TVN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",FMN
-http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/165057
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165057
 
 #EXTINF:-1 group-title="LIFESTYLE",DENS SHOWBIZ
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8
@@ -602,7 +597,7 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157593
 #EXTINF:-1 group-title="Anak-Anak",Disney Channel
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165075
 #EXTINF:-1 group-title="Anak-Anak",Disney Junior
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/162511
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162511
 #EXTINF:-1 group-title="Anak-Anak",Disney XD
 http://ae2.aatvbox.club:8880/12mk160078/31623992/60448
 #EXTINF:-1 tvg-name="usa| disney jr hd" tvg-logo="http://miarea.vip:8080/images/c2e7619c4ebba77f9f05524042bccd5e.png" group-title="Anak-Anak",DISNEY JR HD
@@ -614,11 +609,12 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1 tvg-id="CartoonitoBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Anak-Anak",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:-1 group-title="Anak-Anak",Dunia Anak
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264753
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264753
+
 #EXTINF:-1 group-title="Anak-Anak",Horee!
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264750
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264750
 #EXTINF:-1 group-title="Anak-Anak",Hip Hip Horee!
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298536
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298536
 #EXTINF:-1 group-title="Anak-Anak",Kids TV
 http://ae2.aatvbox.club:8880/12mk160078/31623992/60454
 #EXTINF:-1 group-title="Anak-Anak",ZooMoo
