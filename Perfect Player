@@ -5,32 +5,21 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 #EXTINF: -1 tvg-name="Usut Tuntas" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="ONGIS-MBOIS", YOUTUBE "ONGIS-MBOIS"
 https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="lokal", ID: GTV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157578
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="lokal", ID: RCTI
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157591
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="lokal", ID: MNC News
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165058
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="lokal", ID: INews
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157579
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="lokal", ID: MNC TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165054
 
 ##############################################################################################################################################
 ############### TV Nasional #######################################
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/157578.m3u8
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157578
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INews
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/157579.m3u8
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157579
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/165054.m3u8
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165054
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/157591.m3u8
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157591
 
 
 #EXTM3U
@@ -99,26 +88,17 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 ###########################################################################################################################
 ##################  MOVIES  ########################################################################################
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="INDONE-SIA", ID: HBO
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197972
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="INDONE-SIA", ID: HBO Family
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197055
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="INDONE-SIA", ID: HBO Hits
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/196480
-
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/197972.m3u8
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197972
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/197055.m3u8
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197055
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/196480.m3u8
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/196480
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
 http://kuchini.site:8080/live/myhdosama/cjydA4ncmMqx55pf/221948.m3u8
