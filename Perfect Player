@@ -38,13 +38,16 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="NASIONAL",SCTV HD
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR HD
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR HD
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162138
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="trans tv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NASIONAL",TRANS TV HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7 HD
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7 HD
@@ -68,10 +71,10 @@ https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmMjX8Xc/20230518-221612.png" group-title="NASIONAL",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1, group-title="NASIONAL" MNC News
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60374
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="NASIONAL",MNC News
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165058
 
-#EXTINF:-1 tvg name tv one "group-title="NASIONAL"",TVOne
+#EXTINF:-1 tvg name tv one "group-title="NASIONAL",TVOne
 http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="kompas tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="NASIONAL",Kompas TV
