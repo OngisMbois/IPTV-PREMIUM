@@ -633,6 +633,25 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298496
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298501
 
 
+#############   VOD   ##############################
+####################################################
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Avatar 2
+https://github.com/OngisMbois/VOD/raw/main/avatar.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Antman Quantumania
+https://github.com/OngisMbois/VOD/raw/main/AntmanQuantumania.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Fast X
+https://github.com/OngisMbois/VOD/raw/main/FastX.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Sonic 2
+https://github.com/OngisMbois/VOD/raw/main/Sonic2.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD",Black Adam
+https://github.com/OngisMbois/VOD/raw/main/Blackadam.m3u8
+
+#EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD" Transformer Beats
+https://github.com/OngisMbois/VOD/raw/main/Transformerbeats.m3u8
 ####################################################################################################################################################################
 ####################################### ASTRO MALAYSIA ##########################################################################################################
 
