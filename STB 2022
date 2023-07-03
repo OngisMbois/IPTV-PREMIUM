@@ -450,10 +450,18 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-id="boohd.my" tvg-logo="https://i.postimg.cc/fLTLsmxR/boo.png",BOO
+##EXTINF:-1 group-title="Movies" tvg-id="boohd.my" tvg-logo="https://i.postimg.cc/fLTLsmxR/boo.png",BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 https://daddyhd.mammothtv.workers.dev/dash-wv/dashiso/2407/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8yZr7GB/JYefSGQPMPHIiA","kid":"6k1RreAbvzlG4N6XMFG6EA"}],"type":"temporary"} 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Movies",BOO HD 
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2407/default_ott.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_big.png?v=1",My Family Channel
 http://210.210.155.37/uq2663/h/h194/index.m3u8
