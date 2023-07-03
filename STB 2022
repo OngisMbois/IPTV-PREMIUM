@@ -7,44 +7,44 @@ https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
 ######################################################################
 ##################  LIVE EVENT  ###################################
 
-##EXTINF:0 tvg-id="Indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
+#EXTINF:0 tvg-id="Indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/162138
 
-##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162138
 
-##EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
-##EXTINF:-1 tvg-id="AstroSuperSport2.my"  tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2023/05/31/3313560973.jpg" group-title="LIVE EVENT",Volly
+#EXTINF:-1 tvg-id="AstroSuperSport2.my"  tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2023/05/31/3313560973.jpg" group-title="LIVE EVENT",Volly
 http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157556
 
-##EXTINF:-1 tvg-id="AstroSuperSport2.my"  tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2023/05/31/3313560973.jpg" group-title="LIVE EVENT",Volly
+#EXTINF:-1 tvg-id="AstroSuperSport2.my"  tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2023/05/31/3313560973.jpg" group-title="LIVE EVENT",Volly
 http://103.180.119.90:9911/stream/channelid/1673443475?profile=pass
 
-##EXTINF:-1 tvg-id="SPOTV 1" group-title="LIVE EVENT",Moto GP
+#EXTINF:-1 tvg-id="SPOTV 1" group-title="LIVE EVENT",Moto GP
 http://103.180.119.90:9911/stream/channelid/1673443475?profile=pass
 
-##EXTINF:-1 tvg-id="SPOTV 02" group-title="LIVE EVENT",Moto GP
+#EXTINF:-1 tvg-id="SPOTV 02" group-title="LIVE EVENT",Moto GP
 http://103.180.119.90:9911/stream/channelid/1777713744?profile=pass
 
-##EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="LIVE EVENT",Moto GP
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="LIVE EVENT",Moto GP
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
 
-##EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="LIVE EVENT",SpoTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="LIVE EVENT",SpoTV
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298570
 
-##EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="LIVE EVENT",SpoTV 2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="LIVE EVENT",SpoTV 2
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298571
 
-##EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="LIVE EVENT",Badminton 1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="LIVE EVENT",Badminton 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157589
 
-##EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="LIVE EVENT",Badminton  2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="LIVE EVENT",Badminton  2
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298548
 
-##EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="LIVE EVENT",Sportstars 3
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="LIVE EVENT",Sportstars 3
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298549
 
 
