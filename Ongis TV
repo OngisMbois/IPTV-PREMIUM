@@ -8,76 +8,78 @@ https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=
 ######################################################################################
 ############### NASIONAL TV ##########################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJhxzfhS/RCTI.png" group-title="NASIONAL",RCTI 
 http://nxanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 ##https://github.com/OngisMbois/iptv/raw/main/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="NASIONAL",MNC TV 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13bT4JpK/mnctv.png" group-title="NASIONAL",MNC TV 
 http://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 ####https://github.com/OngisMbois/iptv/raw/main/mnctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png" group-title="NASIONAL",GTV 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d04y4S42/GTV.png" group-title="NASIONAL",GTV 
 http://nxanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 ###https://github.com/OngisMbois/iptv/raw/main/global.m3u8
 
-#EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews 
+#EXTINF:-1 tvg-id="inews.id" tvg-logo="https://i.postimg.cc/90SdQqyD/INews.png",iNews 
 #EXTGRP:NASIONAL
 http://nxanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 ####https://github.com/OngisMbois/iptv/raw/main/inews.m3u8
 
-#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV HD
+#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://i.postimg.cc/W3Q2XNvB/sctv.png",SCTV HD
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/sctv.m3u8
 
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar 
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.postimg.cc/SxB2STr4/indosiar.png",Indosiar 
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/indosiar.m3u8
 
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/640px-Indosiar_2015.svg.png",Indosiar HD
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.postimg.cc/SxB2STr4/indosiar.png",Indosiar HD
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/indosiar2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NASIONAL",Trans TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5dMX2gh/transvt.png" group-title="NASIONAL",Trans TV HD
 https://github.com/OngisMbois/iptv/raw/main/transtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",Trans 7 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dHCNy2m/trans7.png" group-title="NASIONAL",Trans 7 HD
 https://github.com/OngisMbois/iptv/raw/main/trans7.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="NASIONAL",TV One HD
+#EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.postimg.cc/7Lrh8CHY/tvone.png" group-title="NASIONAL",TV One HD
 https://nxanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 ##https://github.com/OngisMbois/iptv/raw/main/tvone1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="NASIONAL",ANTV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yMPN9WM/antv.png" group-title="NASIONAL",ANTV HD
 https://github.com/OngisMbois/iptv/raw/main/antv.m3u8
 
-#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji HD
+#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://i.postimg.cc/dVQNWDYg/moji.png",Moji HD
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/moji.m3u8
 
-#EXTINF:-1 group-title="NASIONAL"  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/640px-LogoMetroTVsince2010.svg.png,METRO TV HD
+#EXTINF:-1 group-title="NASIONAL"  tvg-logo="https://i.postimg.cc/ZRCNWx4J/metro.png",METRO TV HD
 https://github.com/OngisMbois/iptv/raw/main/metrotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3MDKtZ.png" group-title="NASIONAL",RTV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J48kJ2Vz/rajawali.png" group-title="NASIONAL",RTV HD
 https://github.com/OngisMbois/iptv/raw/main/rtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="NASIONAL",Magna Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZp2fS1m/magna.png" group-title="NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1617930242_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="NASIONAL",NET HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJQ9D3z7/net.png" group-title="NASIONAL",NET HD
 http://rr2.dens.tv/s/s08/index.m3u8
 ####https://github.com/OngisMbois/iptv/raw/main/nettv.m3u8
 
-#EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV HD
+#EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://i.postimg.cc/jq9kMM1Y/kompastv.png",Kompas TV HD
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/kompastv.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/5NFZwhnC/tvri.png",TVRI Nasional
+https://github.com/OngisMbois/iptv/raw/main/tvri.m3u8
 
 #EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="NASIONAL", Citra Dangdut
 https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
-https://github.com/OngisMbois/iptv/raw/main/tvri.m3u8
+
 
 #########################################################################################
 ##################  MOVIE   ######################################
