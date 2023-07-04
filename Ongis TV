@@ -79,11 +79,6 @@ https://github.com/OngisMbois/iptv/raw/main/tvri.m3u8
 #########################################################################################
 ##################  MOVIE   ######################################
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.postimg.cc/LX1CgkvS/20230519-230522.jpg",HBO Signature* 
-http://208.115.225.174:14160
-#EXTINF:-1  group-title="MOVIE" tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg",HBO*
-http://208.115.225.174:14136
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="MOVIE" tvg-id="mycinema.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema
