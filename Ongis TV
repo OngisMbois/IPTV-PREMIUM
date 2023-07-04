@@ -42,7 +42,8 @@ https://github.com/OngisMbois/iptv/raw/main/trans7.m3u8
 
 #EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png",TV One HD
 #EXTGRP:NASIONAL
-https://github.com/OngisMbois/iptv/raw/main/tvone1.m3u8
+https://nxanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+##https://github.com/OngisMbois/iptv/raw/main/tvone1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="NASIONAL",ANTV HD
 https://github.com/OngisMbois/iptv/raw/main/antv.m3u8
@@ -67,6 +68,9 @@ http://rr2.dens.tv/s/s08/index.m3u8
 #EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV HD
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/kompastv.m3u8
+
+#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="NASIONAL", Citra Dangdut
+https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
 https://github.com/OngisMbois/iptv/raw/main/tvri.m3u8
@@ -93,6 +97,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asi
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="MOVIE" tvg-id="myfamily.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png",My Family Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#EXTINF:-1 tvg-id="paramount" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5q3QQcqmFTdk6yX2wCH-JDiqce21m6WaPPg&usqp=CAU" group-title="MOVIE",Paramount
+https://github.com/OngisMbois/iptv/raw/main/prmount.m3u8
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/5Lh25lC.png" group-title="MOVIE",Citra Bioskop 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
@@ -218,7 +225,8 @@ https://github.com/OngisMbois/iptv/raw/main/hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOIuoQ_oXPdWz8eBvpsQ7Cgl7fc0dpD8nEQ&usqp=CAU" group-title="LIFESTYLE",Lifestyle 
 https://github.com/OngisMbois/iptv/raw/main/lifestyle.m3u8
 
-
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://images.useetv.com/logo_tlc_ver1.png",TLC
+https://github.com/OngisMbois/iptv/raw/main/tlc.m3u8
 
 ##################################################################
 ################# knowledge #####################################
@@ -271,6 +279,9 @@ https://github.com/OngisMbois/iptv/raw/main/animax.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-id="aniplus.th" tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png",AniPlus
 https://github.com/OngisMbois/iptv/raw/main/aniplus.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyQfTrhg5cbNDbKSgf47fQxXrgRHBoij1NuHz8YBUV3wMWHU1tGoRJipukKAIkHbBSy8&usqp=CAU" group-title="KIDS",HOOREE
+https://github.com/OngisMbois/iptv/raw/main/hooree.m3u8
 
 ##########  religi #############################
 ###############################################
