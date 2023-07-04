@@ -32,7 +32,7 @@ http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.postimg.cc/KcHkj09s/20220926-145121.png" group-title="Lokal" ,Moji
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/298550
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -55,7 +55,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/indosiar.png" group-title="Lokal" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar
-https://sub.home-tv.my.id/first/indosiar.m3u8
+http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
 #EXTINF:-1 tvg-logo="https://icon.mammothtv.my.id/lokal/indosiar.png" group-title="Lokal" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
