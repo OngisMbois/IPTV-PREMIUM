@@ -40,6 +40,8 @@ https://github.com/OngisMbois/iptv/raw/main/transtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",Trans 7 HD
 https://github.com/OngisMbois/iptv/raw/main/trans7.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="tvone.id" tvg-logo="https://i.imgur.com/iZXjOH4.png" group-title="NASIONAL",TV One HD
 https://nxanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 ##https://github.com/OngisMbois/iptv/raw/main/tvone1.m3u8
