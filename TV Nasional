@@ -1,27 +1,3 @@
-#EXTINF:0 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/146068
-#EXTINF:0 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 2
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157556
-#EXTINF:0 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 3
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157557
-#EXTINF:0 tvg-id="AstroSuperSport4.my" tvg-name="astro supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 4
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/157558
-#EXTINF:0 tvg-id="AstroSuperSport5.my" tvg-name="astro supersport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 5
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/287792
-
-
-#EXTINF:0 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/197972
-#EXTINF:0 tvg-id="" tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/197055
-#EXTINF:0 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/196480
-#EXTINF:0 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/221948
 
 
 0################################
