@@ -76,7 +76,7 @@ https://github.com/OngisMbois/iptv/raw/main/kompastv.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/5NFZwhnC/tvri.png",TVRI Nasional
 https://github.com/OngisMbois/iptv/raw/main/tvri.m3u8
 
-#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/ongistv.png" group-title="NASIONAL", Citra Dangdut
+#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="NASIONAL", Citra Dangdut
 https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
 
 
