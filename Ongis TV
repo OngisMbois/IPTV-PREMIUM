@@ -76,6 +76,7 @@ https://github.com/OngisMbois/iptv/raw/main/kompastv.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/5NFZwhnC/tvri.png",TVRI Nasional
 https://github.com/OngisMbois/iptv/raw/main/tvri.m3u8
 
+
 #EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="NASIONAL", Citra Dangdut
 https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
 
@@ -86,64 +87,64 @@ https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="MOVIE" tvg-id="mycinema.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema
+#EXTINF:-1 group-title="MOVIE" tvg-id="mycinema.id" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png",My Cinema
 https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="MOVIE" tvg-id="mycinemaasia.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png?v=1",My Cinema Asia
+#EXTINF:-1 group-title="MOVIE" tvg-id="mycinemaasia.id" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png",My Cinema Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="MOVIE" tvg-id="myfamily.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png",My Family Channel
+#EXTINF:-1 group-title="MOVIE" tvg-id="myfamily.id" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png",My Family Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-id="paramount" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5q3QQcqmFTdk6yX2wCH-JDiqce21m6WaPPg&usqp=CAU" group-title="MOVIE",Paramount
+#EXTINF:-1 tvg-id="paramount" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",Paramount
 https://github.com/OngisMbois/iptv/raw/main/prmount.m3u8
 
-#EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/5Lh25lC.png" group-title="MOVIE",Citra Bioskop 
+#EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",Citra Bioskop 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
 
 
-#EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIE",Etv Bioskop 
+#EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",Etv Bioskop 
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
-#EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIE",Etv Bioskop 02
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",Etv Bioskop 02
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
-#EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIE",Etv Bioskop 03
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",Etv Bioskop 03
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
-#EXTINF:-1 tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIE",Etv Bioskop 04 
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 04" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",Etv Bioskop 04 
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
 
-#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="MOVIE",KPlus
+#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",KPlus
 https://github.com/OngisMbois/iptv/raw/main/kplus.m3u8
 
-#EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="MOVIE",Celestial Movies
+#EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-logo="http://www.mncvision.id.E" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",Celestial Movies
 https://github.com/OngisMbois/iptv/raw/main/celmovie.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvnmovies.png" group-title="MOVIE",tvN Movies
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",tvN Movies
 https://github.com/OngisMbois/iptv/raw/main/tvnmovies.m3u8
 
-#EXTINF:0 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835" group-title="MOVIE",ZEE BIOSKOP
+#EXTINF:0 tvg-id="ZEE Bioskop" tvg-name="ZEE Biokop" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",ZEE BIOSKOP
 https://github.com/OngisMbois/iptv/raw/main/zeebio.m3u8
 
-#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="MOVIE",AXN
+#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",AXN
 https://github.com/OngisMbois/iptv/raw/main/axn.m3u8
 
-#EXTINF:0 tvg-id="Warner TV" tvg-name="Warner Tv" tvg-logo="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="MOVIE",Warner TV
+#EXTINF:0 tvg-id="Warner TV" tvg-name="Warner Tv" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",Warner TV
 https://github.com/OngisMbois/iptv/raw/main/warner.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.postimg.cc/7YDMKY54/20230520-094435.jpg",HITS 
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png",HITS 
 https://github.com/OngisMbois/iptv/raw/main/hits.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",HITS Movies
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png",HITS Movies
 https://github.com/OngisMbois/iptv/blob/main/hitmovie.m3u8
 
 
-#EXTINF:0 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="MOVIE",Thrill
+#EXTINF:0 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",Thrill
 https://github.com/OngisMbois/iptv/raw/main/thrill.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIE",Rock Action
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="MOVIE",Rock Action
 https://github.com/OngisMbois/iptv/raw/main/rockact.m3u8
 
 
