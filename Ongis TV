@@ -1,3 +1,73 @@
+LANGSUNG DI COPAS SAJA
+DI OTT NAVIGATOR & TIVIMATE
+
+
+"HARAM" UNTUK DIPERJUAL-BELIKAN
+
+
+<?XML version="1.0" encoding="UTF-8"?>
+<MPD
+  xmlns="urn:mpeg:dash:schema:mpd:2011"
+  profiles="urn:mpeg:dash:profile:isoff-live:2011"
+  minBufferTime="PT0.60S"
+  mediaPresentationDuration="PT1M0.000S"
+  type="static">
+  <Period>
+    <AdaptationSet
+      mimeType="video/mp4"
+      segmentAlignment="true"
+      startWithSAP="1"
+      maxWidth="1920"
+      maxHeight="1080">
+      <SegmentTemplate
+        timescale="1000"
+        duration="600"
+        initialization="$RepresentationID$/init.mp4"
+        media="$RepresentationID$/seg-$Number$.m4s"
+        startNumber="1"/>
+      <Representation
+        id="resources/avc1/1"
+        codecs="avc1.640028"
+        width="1920"
+        height="1080"
+        scanType="progressive"
+        frameRate="25"
+        bandwidth="1310183"/>
+      <Representation
+        id="resources/avc1/2"
+        codecs="avc1.64001E"
+        width="640"
+        height="480"
+        scanType="progressive"
+        frameRate="25"
+        bandwidth="230402"/>
+    </AdaptationSet>
+    <AdaptationSet
+      mimeType="audio/mp4"
+      startWithSAP="1"
+      segmentAlignment="true">
+      <SegmentTemplate
+        timescale="1000"
+        duration="600"
+        initialization="$RepresentationID$/init.mp4"
+        media="$RepresentationID$/seg-$Number$.m4s"
+        startNumber="1"/>
+      <Representation
+        id="resources/mp4a.40.2"
+        codecs="mp4a.40.2"
+        bandwidth="159678"
+        audioSamplingRate="48000">
+        <AudioChannelConfiguration
+          schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration"
+          value="2"/>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
+
+
+
+
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="ONGIS MBOIS",  Subscribe Youtube "ONGIS-MBOIS" 
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
