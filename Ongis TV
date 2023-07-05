@@ -235,13 +235,13 @@ https://github.com/OngisMbois/iptv/raw/main/tlc.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png",National Geographic 
 https://github.com/OngisMbois/iptv/raw/main/natgeo.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel 
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/FzHrk5Wk/discoverychannel.png",Discovery Channel 
 https://github.com/OngisMbois/iptv/raw/main/dischanel.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Asia
 https://github.com/OngisMbois/iptv/raw/main/discasia.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png",National Geographic Wild
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/bwWPFZzm/natgeo.png",National Geographic Wild
 https://github.com/OngisMbois/iptv/raw/main/natwild.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX
@@ -250,10 +250,10 @@ https://github.com/OngisMbois/iptv/raw/main/dmax.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="discoveryturbouk.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo
 https://github.com/OngisMbois/iptv/raw/main/discturbo.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png",Animal Planet 
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/gcV0XHYm/animalplanet.png",Animal Planet 
 https://github.com/OngisMbois/iptv/raw/main/animalplanet.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE", LOVE NATURE 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvZSdSMq/lovenatur.png" group-title="KNOWLEDGE", LOVE NATURE 
 https://github.com/OngisMbois/iptv/raw/main/lovnatur.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png",CGTN Documentary 
@@ -265,7 +265,7 @@ https://github.com/OngisMbois/iptv/raw/main/criminvt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" group-title="KNOWLEDGE", TechStorm 
 https://github.com/OngisMbois/iptv/raw/main/techstorm.m3u8
 
-#EXTINF:-1 tvg-id="551.astro" tvg-logo="https://i.imgur.com/GMUQNaP.png" group-title="KNOWLEDGE",Global Trekker
+#EXTINF:-1 tvg-id="551.astro" tvg-logo="https://i.postimg.cc/2SzL8Xvs/Global-Trekker.png" group-title="KNOWLEDGE",Global Trekker
 https://github.com/OngisMbois/iptv/raw/main/gtrekker.m3u8
 
 
