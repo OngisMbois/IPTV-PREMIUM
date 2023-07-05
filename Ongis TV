@@ -244,7 +244,7 @@ https://github.com/OngisMbois/iptv/raw/main/discasia.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/bwWPFZzm/natgeo.png",National Geographic Wild
 https://github.com/OngisMbois/iptv/raw/main/natwild.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/j5BXsGqp/20230210-090218.png" group-title="KNOWLEDGE",DMAX
 https://github.com/OngisMbois/iptv/raw/main/dmax.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-id="discoveryturbouk.uk" tvg-logo="https://i.postimg.cc/RhjKg87N/20230524-164646.png",Discovery Turbo
