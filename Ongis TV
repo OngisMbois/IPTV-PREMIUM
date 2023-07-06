@@ -82,8 +82,8 @@ https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=
 ############### NASIONAL TV ##########################################################
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJhxzfhS/RCTI.png" group-title="NASIONAL",RCTI 
-http://nxanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-##https://github.com/OngisMbois/iptv/raw/main/rcti.m3u8
+https://github.com/OngisMbois/iptv/raw/main/rcti.m3u8
+##http://nxanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13bT4JpK/mnctv.png" group-title="NASIONAL",MNC TV 
 http://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
