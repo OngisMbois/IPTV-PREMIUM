@@ -98,9 +98,13 @@ http://nxanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 http://nxanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 ####https://github.com/OngisMbois/iptv/raw/main/inews.m3u8
 
-#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://i.postimg.cc/W3Q2XNvB/sctv.png",SCTV HD
+#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://i.postimg.cc/W3Q2XNvB/sctv.png",SCTV 
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/sctv.m3u8
+
+#EXTINF:-1 tvg-id="sctv.id" tvg-logo="https://i.postimg.cc/W3Q2XNvB/sctv.png",SCTV HD
+#EXTGRP:NASIONAL
+https://github.com/OngisMbois/iptv/raw/main/sctv2.m3u8
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.postimg.cc/SxB2STr4/indosiar.png",Indosiar 
 #EXTGRP:NASIONAL
@@ -143,6 +147,10 @@ https://github.com/OngisMbois/iptv/raw/main/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J48kJ2Vz/rajawali.png" group-title="NASIONAL",RTV HD
 https://github.com/OngisMbois/iptv/raw/main/rtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTypkfGy/mentari.png" group-title="NASIONAL", Mentari TV
+https://github.com/OngisMbois/iptv/raw/main/mentari.m3u8
+##https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RZp2fS1m/magna.png" group-title="NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1617930242_b3884000_sleng.m3u8
 
@@ -153,6 +161,14 @@ http://rr2.dens.tv/s/s08/index.m3u8
 #EXTINF:-1 tvg-id="kompastv.id" tvg-logo="https://i.postimg.cc/jq9kMM1Y/kompastv.png",Kompas TV HD
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/kompastv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x82RLV8z/cnbcindo.png" group-title="NASIONAL", CNBC Indonesia
+https://github.com/OngisMbois/iptv/raw/main/cnbc.m3u8
+##https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jj7Rj6GX/jtv.png" group-title="NASIONAL", JTV
+https://github.com/OngisMbois/iptv/raw/main/jteve.m3u8
+##https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/5NFZwhnC/tvri.png",TVRI Nasional
 https://github.com/OngisMbois/iptv/raw/main/tvri.m3u8
@@ -288,8 +304,9 @@ https://github.com/OngisMbois/iptv/raw/main/gem.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6r0QjKY.png" group-title="ENTERTAINMENT",Citra Entertainment 
 https://github.com/OngisMbois/iptv/raw/main/citraent.m3u8
 
-#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="ENTERTAINMENT",KPlus
-https://github.com/OngisMbois/iptv/raw/main/kplus.m3u8
+#EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.postimg.cc/sDJHstYd/K-Plus-Asia-Logo-1-removebg-preview.png" group-title="ENTERTAINMENT",KPlus
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+###https://github.com/OngisMbois/iptv/raw/main/kplus.m3u8
 
 #EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="ENTERTAINMENT", Citra Dangdut
 https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
@@ -358,8 +375,13 @@ https://github.com/OngisMbois/iptv/raw/main/gtrekker.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network 
 https://github.com/OngisMbois/iptv/raw/main/carnetw.m3u8
 
-#EXTINF:0 tvg-id="Animax.Id" tvg-logo="https://cdn.ksa.my.id/animax.png" group-title="KIDS",Animax
-https://github.com/OngisMbois/iptv/raw/main/animax.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="KIDS", Animax
+https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+###https://github.com/OngisMbois/iptv/raw/main/animax.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-id="aniplus.th" tvg-logo="https://i.ibb.co/XtS10LN/Aniplushd.png",AniPlus
 https://github.com/OngisMbois/iptv/raw/main/aniplus.m3u8
