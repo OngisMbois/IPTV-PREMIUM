@@ -8,6 +8,9 @@
     "HARAM" UNTUK DIPERJUAL-BELIKAN
 
 
+
+
+
 <?XML version="1.0" encoding="UTF-8"?>
 <MPD
   xmlns="urn:mpeg:dash:schema:mpd:2011"
@@ -69,6 +72,13 @@
 </MPD>
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+
+
 
 
 #EXTM3U 
@@ -123,6 +133,10 @@ https://github.com/OngisMbois/iptv/raw/main/transtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dHCNy2m/trans7.png" group-title="NASIONAL",Trans 7 HD
 https://github.com/OngisMbois/iptv/raw/main/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dHCNy2m/trans7.png" group-title="NASIONAL",Trans 7 
+http://iptvid.my.id/hmm/trans7.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
