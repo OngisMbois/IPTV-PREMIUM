@@ -108,6 +108,10 @@ https://github.com/OngisMbois/iptv/raw/main/indosiar.m3u8
 
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.postimg.cc/SxB2STr4/indosiar.png",Indosiar HD
 #EXTGRP:NASIONAL
+https://github.com/OngisMbois/iptv/raw/main/indosiar3.m3u8
+
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.postimg.cc/SxB2STr4/indosiar.png",Indosiar HD
+#EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/indosiar2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5dMX2gh/transvt.png" group-title="NASIONAL",Trans TV HD
@@ -128,6 +132,10 @@ https://github.com/OngisMbois/iptv/raw/main/antv.m3u8
 #EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://i.postimg.cc/dVQNWDYg/moji.png",Moji HD
 #EXTGRP:NASIONAL
 https://github.com/OngisMbois/iptv/raw/main/moji.m3u8
+
+#EXTINF:-1 tvg-id="ochannel.id" tvg-logo="https://i.postimg.cc/dVQNWDYg/moji.png",Moji HD
+#EXTGRP:NASIONAL
+https://github.com/OngisMbois/iptv/raw/main/moji2.m3u8
 
 #EXTINF:-1 group-title="NASIONAL"  tvg-logo="https://i.postimg.cc/ZRCNWx4J/metro.png",METRO TV HD
 https://github.com/OngisMbois/iptv/raw/main/metrotv.m3u8
@@ -150,8 +158,7 @@ https://github.com/OngisMbois/iptv/raw/main/kompastv.m3u8
 https://github.com/OngisMbois/iptv/raw/main/tvri.m3u8
 
 
-#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="NASIONAL", Citra Dangdut
-https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
+
 
 
 
@@ -283,6 +290,9 @@ https://github.com/OngisMbois/iptv/raw/main/citraent.m3u8
 
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="ENTERTAINMENT",KPlus
 https://github.com/OngisMbois/iptv/raw/main/kplus.m3u8
+
+#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="ENTERTAINMENT", Citra Dangdut
+https://github.com/OngisMbois/iptv/raw/main/cdangdut.m3u8
 
 ####################################################################
 ############ lifestyle #######################################
