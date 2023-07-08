@@ -9,8 +9,8 @@ https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
 
 #EXTINF:0 tvg-id="Indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2101K7AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
-##http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/162138
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/162138
+###http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
 
 ##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162138
@@ -19,8 +19,8 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162138
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my"  tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2023/05/31/3313560973.jpg" group-title="LIVE EVENT",Volly
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/298550
-##http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157556
+http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/157556
+###http://45.129.133.15:8080/3f6d5b2f/4b60123137/298550
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my"  tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2023/05/31/3313560973.jpg" group-title="LIVE EVENT",Volly
 http://103.180.119.90:9911/stream/channelid/1673443475?profile=pass
