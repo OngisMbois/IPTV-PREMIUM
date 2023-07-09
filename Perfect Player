@@ -108,7 +108,8 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",Badminton 1
-https://webudit.cdnhks.lol/lb/premium126/index.m3u8
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157579
+##https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 ###http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/157557.ts
 
 
@@ -241,7 +242,7 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165054
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157591
-
+##http://103.180.119.90:9911/stream/channelid/172523773?profile=pass
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="NASIONAL",TVRI SPORT HD
