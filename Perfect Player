@@ -902,6 +902,18 @@ https://github.com/OngisMbois/VOD/raw/main/Zhazam2.m3u8
 ####################################################################################################################################################################
 ####################################### ASTRO MALAYSIA ##########################################################################################################
 
+
+#EXTINF:0 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/146068
+#EXTINF:0 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 2
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/157556
+#EXTINF:0 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 3
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/157557
+#EXTINF:0 tvg-id="AstroSuperSport4.my" tvg-name="astro supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 4
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/157558
+#EXTINF:0 tvg-id="AstroSuperSport5.my" tvg-name="astro supersport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 5
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/287792
+
 #EXTINF:-1 group-title="ASTRO",ASTRO SUPERSPORT
 http://ae2.aatvbox.club:8880/12mk160078/31623992/1722
 #EXTINF:-1 group-title="ASTRO",ASTRO SUPERSPORT 2
