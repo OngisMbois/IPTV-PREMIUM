@@ -12,8 +12,12 @@ https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
 http://gamsgo.cyou:8080/mitrovic/tCTz8ZhyevV2qQYW/162138
 ###http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
 
-##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162138
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162138
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO0_EOvlBDr06Kdl7LiGT3eY4LwOgaDHG7DjZ7pLH&s" group-title="LIVE EVENT",BRI liga 1
 http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
