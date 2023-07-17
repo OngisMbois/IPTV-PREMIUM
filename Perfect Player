@@ -146,9 +146,6 @@ http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162138
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",BRI 4
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/298549
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",BRI 5
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_hls_vmx/Sportstar4.m3u8
 
