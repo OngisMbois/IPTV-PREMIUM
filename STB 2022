@@ -470,15 +470,11 @@ http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% MOVIES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 #EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+http://103.180.119.90:9911/stream/channelid/449896538?profile=pass
+
 
 #EXTINF:-1 group-title="Movies" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+http://103.180.119.90:9911/stream/channelid/167353337?profile=pass
 
 #EXTINF:-1 group-title="Movies" tvg-id="hbohitsasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1250,51 +1246,7 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?checkedby:iptvcat.net
 
 
-#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi I (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi III (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream3/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi IV (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream4/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi IX (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream9/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi V (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream5/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi VI (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream6/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local"tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi VII (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream7/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi VIII (480p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi X (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local" tvg-logo="https://i.imgur.com/Hh3mx3u.png",TVR Parlemen Komisi XI (720p) [Not 24/7]
-http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Local" ,Pal TV (720p) [Not 24/7]
+1 group-title="TV Local" ,Pal TV (720p) [Not 24/7]
 http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
 
 
@@ -1405,38 +1357,6 @@ http://45.80.181.150:8080/hls/agropolitantv.m3u8
 
 
 
-" MALAYSIA "
-
-#EXTINF:-1 tvg-ID="TV1.MY" group-title="TV MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-
-#EXTINF:-1 tvg-ID="TV2.MY" group-title="TV MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-
-#EXTINF:-1 xui-id="1494" tvg-id="103" tvg-name="TV3 [A]" tvg-logo="https://smetv.live:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optieokSjEf_nh9Al-GxuMQ434tEQBUCvecSW8eabC3zPQd89qFlBeLndRUUWL8J8Vhw.png" group-title=" TV MALAYSIA",TV3
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
-
-#EXTINF:-1 tvg-ID="TV6.MY" group-title="TV MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-
-#EXTINF:-1 tvg-ID="TV9.MY" group-title="TV MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_300.png",TV9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
-
-#EXTINF:-1 group-title="TV MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-
-#EXTINF:-1 tvg-ID="TV7.MY" group-title="TV MALAYSIA" tvg-logo="https://en.wikipedia.org/wiki/NTV7#/media/File:Logo_of_newNTV7.png",NTV7
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-
-
-#EXTINF:-1 tvg-ID="TV7.MY" group-title="TV MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",Didik TV
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
-
-#EXTINF:-1 xui-id="30" tvg-id="502" tvg-name="BERNAMA TV" tvg-logo="https://smetv.live:443/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4opthBhsetvdBsA4GQgG97O8K0wRpwYA3fts7YvOtwCXl4phsPCZ0abg08J_s-3JZpKZ8.png" group-title="TV MALAYSIA",BERNAMA TV
-https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
-
-
-====NASIONAL/LOKAL====
 
 ====MNC GROUP====
 
@@ -1562,88 +1482,6 @@ http://210.210.155.35:80/qwr9ew/s/s08/index.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
-
-====INTERNATIONAL====
-
-#EXTINF:-1 group-title="International" tvg-id="ebs1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png",EBS 1
-https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="ebs2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png",EBS 2
-https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="kbsworld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/640px-KBS_World.svg.png",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="kbs1tv.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/KBS_logo.svg/640px-KBS_logo.svg.png",KBS 1
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-
-#EXTINF:-1 group-title="International" tvg-id="kbs2tv.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/KBS_logo.svg/640px-KBS_logo.svg.png",KBS 2
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-
-#EXTINF:-1 group-title="International" tvg-id="bs12.jp" tvg-logo="https://i.imgur.com/rpRlJUm.png",BS 12
-http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="bsasahi.jp" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png",BS Asahi
-http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="bsfuji.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e9/Fuji_TV_logo.svg/640px-Fuji_TV_logo.svg.png",BS Fuji TV
-http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="bsnippontv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/640px-BS4_logo.svg.png",BS Nippon TV
-http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="bstbs.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/640px-BS-TBS_2020.svg.png",BS TBS
-http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="bstvtokyo.jp" tvg-logo="https://i.imgur.com/yJfA6ak.png",BS TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="nippontv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nippon_Television_Holdings_logo.svg/640px-Nippon_Television_Holdings_logo.svg.png",Nippon TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="International" tvg-id="jocxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e9/Fuji_TV_logo.svg/492px-Fuji_TV_logo.svg.png",Fuji TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="tvasahi.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/640px-TV_Asahi_Logo.svg.png",TV Asahi
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="jorxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/640px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="International" tvg-id="toeichannel.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Toei_logo.svg/480px-Toei_logo.svg.png",Toei Channel
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-#EXTINF:-1 group-title="International" tvg-id="jomxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/640px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
-http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="jotxdtv.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/640px-TV_Tokyo_logo_20110629.svg.png",TV Tokyo
-http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-id="tv1.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/640px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1 Malaysia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
-
-
-#EXTINF:-1 group-title="International" tvg-id="tv2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/640px-TV2_%28Malaysia%29_logo.svg.png",TV2 Malaysia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
-
-#EXTINF:-1 group-title="International" tvg-id="tv6.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/TV6_RTM.png",TV6 Malaysia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-#EXTINF:-1 group-title="International" tvg-id="8tv.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/640px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",TV8 Malaysia
-https://aqfadtv.xyz/live/8tv/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1 group-title="International" tvg-id="tv9.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/612px-TV9_%28Malaysia%29_logo.svg.png",TV9 Malaysia
-https://aqfadtv.xyz/live/tv9/index.mpd
 
 
 
