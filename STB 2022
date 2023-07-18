@@ -64,7 +64,8 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298549
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png" group-title="National TV",ANTV
-https://github.com/OngisMbois/iptv/raw/main/antv.m3u8
+http://103.180.119.90:9911/stream/channelid/1180550587?profile=pass
+##https://github.com/OngisMbois/iptv/raw/main/antv.m3u8
 ##http://103.152.118.53:80/streams/anteve/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -96,7 +97,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png" group-title="National TV", SCTV
-https://github.com/OngisMbois/iptv/raw/main/sctv2.m3u8
+http://103.180.119.90:9911/stream/channelid/522644296?profile=pass
+##https://github.com/OngisMbois/iptv/raw/main/sctv2.m3u8
 ##http://103.152.118.53:80/streams/esceteve/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
