@@ -494,6 +494,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 ##EXTINF:-1 group-title="Movies" tvg-id="boohd.my" tvg-logo="https://i.postimg.cc/fLTLsmxR/boo.png",BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
+https://1.yurend.xyz/dash-wv/linear/2407/default_primary.mpd
 https://daddyhd.mammothtv.workers.dev/dash-wv/dashiso/2407/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
