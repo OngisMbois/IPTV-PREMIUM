@@ -139,7 +139,8 @@ https://github.com/OngisMbois/iptv/raw/main/sctv.m3u8
 ##http://rr2.dens.tv/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/617px-Indosiar_2015.svg.png" group-title="National TV", INDOSIAR
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880788
+http://103.166.27.2:800/play/a016
+##https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880788
 ##http://103.152.118.53:80/streams/indosiar/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
