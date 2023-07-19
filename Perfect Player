@@ -192,7 +192,8 @@ http://103.180.119.90:9911/stream/channelid/1037231736?profile=pass
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",EPL 1
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2123
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+##http://ae2.aatvbox.club:8880/12mk160078/31623992/2123
 ##http://assista.pro:80/0333686557/Vilamariante1/130503
 ##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/109.ts
 
@@ -216,7 +217,8 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
 http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/298745.ts
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",LA LIGA 3
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26583
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
+##http://ae2.aatvbox.club:8880/12mk160078/31623992/26583
 ##http://ae2.aatvbox.club:8880/12mk160078/31623992/60794
 ##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/1141.ts
 
@@ -252,7 +254,8 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298491
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",FORMULA 1
-http://ae2.aatvbox.club:8880/12mk160078/31623992/1713
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80536&extension=ts
+##http://ae2.aatvbox.club:8880/12mk160078/31623992/1713
 ##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/265.ts
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",FORMULA 2
