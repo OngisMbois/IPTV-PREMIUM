@@ -4,6 +4,15 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 #EXTINF: -1 tvg-name="Usut Tuntas" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="ONGIS-MBOIS", YOUTUBE "ONGIS-MBOIS"
 https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
 
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=YTUwMzdjOGVkZWFiOTViZDRrNHdFN2RGUVA3UW5xRVl6cnJnNXpMUkdaUW5UWjR2OFlxd1FQajFhbEUxNzdPUWhTbFE0YXNmd3pVbnVwNGRNekJjUS84emxxV2N4WEoxcUpKR1RRPT0=
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_vae5o3nc/banner_xxhdpi.jpg" tvg-id="HBOHD.id" tvg-name="HBO HD" group-title="Film",HBO HD (MAX)
+https://cdn.renotv.my.id/get.mpd?type=dash&ch=N2JlNDIwODE0ZWFlOTZiZGhtblhoNzY0L1Babk9QdFZ0VGEzWGhoS0VmMTlFQ0xQMHFzcmppMU1aSVBrU1lacHJzdytRbEpxY2FiczBMRnVJeG9XTDFwbDI4a2dib0FIdmNsS2JnPT0=
+
+
 ######################################################################
 ##################  LIVE EVENT  ###################################
 
