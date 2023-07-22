@@ -346,7 +346,8 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157578
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157579
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165054
+https://raw.githubusercontent.com/SSHSEDANG4/iptv/main/mnce.m3u8
+##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165054
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157591
