@@ -349,6 +349,9 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157579
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_2499968=6.m3u8
 ##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165054
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV HD
+https://github.com/OngisMbois/iptv/raw/main/mnctv.m3u8
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157591
 ##http://103.180.119.90:9911/stream/channelid/172523773?profile=pass
