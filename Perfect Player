@@ -394,7 +394,8 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162138
 http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7
-http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
+https://github.com/thefirefox12537/streams/raw/master/transpitu_playback.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7 HD
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162502
