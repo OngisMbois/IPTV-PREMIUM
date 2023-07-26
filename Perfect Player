@@ -511,48 +511,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u
 ##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165079
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4ZwgwB/ghfr.png" group-title="Movie" , Fox Movies
-http://185.243.7.13/play/live.php?mac=00:1a:79:03:68:20&stream=1141571&extension=ts&play_token=2Jc6q1cuTu
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ngDt2ys/ht.png" group-title="Movie" , Fox Action Movies
-http://185.243.7.13/play/live.php?mac=00:1a:79:03:68:20&stream=1141570&extension=ts&play_token=4jqUxtKSf9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HHzfKmP/ASDZXC.png" group-title="Movie" , Fox Family Movies
-http://185.243.7.13:80/play/live.php?mac=00:1a:79:03:68:20&stream=1141580&extension=ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="Movie" , HBO
-http://mykingtv.net:2082/live/1010/1010/7123.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="Movie" , HBO Hits
-http://mykingtv.net:2082/live/1010/1010/7124.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Movie" , HBO Signature
-http://mykingtv.net:2082/live/1010/1010/7125.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Movie" , HBO Family
-http://mykingtv.net:2082/live/1010/1010/7126.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MP8HWsS/sfb.png" group-title="Movie" , CINEMAX
-http://mykingtv.net:2082/live/1010/1010/7127.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ky20G3F/cinemachi.png" group-title="Movie" , Cinemachi
-http://mykingtv.net:2082/live/1010/1010/19482.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t3RX0k6/cinemachi-kids.png" group-title="Movie" , Cinemachi Kids
-http://mykingtv.net:2082/live/1010/1010/19483.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F7Zk4GT/cinemachi-action.png" group-title="Movie" , Cinemachi Action
-http://mykingtv.net:2082/live/1010/1010/19484.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Lcc5L7/cinemachi-max.png" group-title="Movie" , Cinemachi Max
-http://mykingtv.net:2082/live/1010/1010/19485.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XfHFxPd/cinemachi-xtra.png" group-title="Movie" , Cinemachi Xtra
-http://mykingtv.net:2082/live/1010/1010/19486.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LJVQNVs/etv-bioskop.png" group-title="Movie",Etv Bioskop
-http://aanax.com:8080/zaintree99/90b391e5/298526
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fXs5257/etv-bioskop2.png" group-title="Movie",Etv Bioskop 2
-http://aanax.com:8080/zaintree99/90b391e5/298527
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJSV0P5/etv-bioskop3.png" group-title="Movie"Etv Bioskop 3
-http://aanax.com:8080/zaintree99/90b391e5/298528
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C0GvnQH/etv-bioskop4.png" group-title="Movie",Etv Bioskop 4
-http://aanax.com:8080/zaintree99/90b391e5/298529
-
-
-Silahkan di GB🤘
 
 ######################################### DENSTV ######################################
 
