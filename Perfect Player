@@ -890,27 +890,83 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 1
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
+https://kusnadipepenk.github.io/ntn/asp1.m3u8
+##https://webudit.cdnhks.lol/lb/premium123/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 2
-https://webudit.cdnhks.lol/lb/premium124/index.m3u8
+https://kusnadipepenk.github.io/ntn/asp2.m3u8
+##https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AstroSupersport3" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 3
-https://webudit.cdnhks.lol/lb/premium125/index.m3u8
+https://kusnadipepenk.github.io/ntn/asp3.m3u8
+##https://webudit.cdnhks.lol/lb/premium125/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 4
-https://webudit.cdnhks.lol/lb/premium126/index.m3u8
+https://kusnadipepenk.github.io/ntn/asp4.m3u8
+##https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="AstroSupersport5" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 5
-https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+https://kusnadipepenk.github.io/ntn/asp5.m3u8
+##https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Sports",Sporttv 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="Sports",Sporttv 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="Sports",Sporttv 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="Sports",Sporttv 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+
+#EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="Sports",Arena 1 Sport
+https://kusnadipepenk.github.io/ntn/arns1.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="Sports",Arena 2 Sport
+https://kusnadipepenk.github.io/ntn/arns2.m3u8
+
+#EXTINF:-1  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/Arena-Sport-3-1.png" group-title="Sports",Arena 3 Sport
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="Sports",Arena 4 Sport
+https://kusnadipepenk.github.io/ntn/arns4.m3u8
+
+#EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="Sports",Eleven 1
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+
+#EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="Sports",Eleven 2
+https://kusnadipepenk.github.io/ntn/ele2.m3u8
+
+#EXTINF:-1  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="Sports",Eleven 3
+https://kusnadipepenk.github.io/ntn/ele3.m3u8
+
+#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="Sports",Eleven Sport 1
+https://kusnadipepenk.github.io/ntn/elesp1.m3u8
+
+#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="Sports",Eleven Sport 2
+https://kusnadipepenk.github.io/ntn/elesp2.m3u8
+
+#EXTINF:-1 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="Sports",Eleven Sport 3
+https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+
+#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsFootball_201708//sky%20sports%20football_thumb.jpg" group-title="Sports",Sky Sport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+##https://webudit.cdnhks.lol/lb/premium35/index.m3u8|referrer=https://streamservicehd.click/
+https://kusnadipepenk.github.io/ntn/skyfut.m3u8
+
+#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="Sports",Sky Sport Arena
+https://kusnadipepenk.github.io/ntn/skyare.m3u8
 
 #EXTINF:-1 group-title="Sports",Usee Sport 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298577
