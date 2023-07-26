@@ -371,11 +371,18 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI 2
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298550
 
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI 3
+https://github.com/thefirefox12537/streams/raw/master/moji_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="NASIONAL",SCTV 
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
+##http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="NASIONAL",SCTV HD
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
+https://github.com/thefirefox12537/streams/raw/master/indosiar_2.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
