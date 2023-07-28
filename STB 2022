@@ -748,6 +748,18 @@ http://37.49.230.161:8080/1eae94e3/GpDddDC8ddMxhY2n/298570
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
 http://37.49.230.161:8080/1eae94e3/GpDddDC8ddMxhY2n/298571
 
+#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqIgwi6AmcVsXnX6PgQypD0wj0_xK6UwqZw&usqp=CAU",DAZN 1
+http://37.49.230.161:8080/1eae94e3/GpDddDC8ddMxhY2n/48355
+
+#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY21DOtOCObcSBrQf_-9WoZ9gYcbFzPEyrsA&usqp=CAU",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+http://37.49.230.161:8080/1eae94e3/GpDddDC8ddMxhY2n/2387
+
+#EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png",DAZN | F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
+http://37.49.230.161:8080/1eae94e3/GpDddDC8ddMxhY2n/1672
+
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYzloFhYzBpvfFSa92HMuvDiYYEN7JiKPCg&usqp=CAU" group-title="SPORT PREMIUM",FOX SPORTS
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/40839
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYzloFhYzBpvfFSa92HMuvDiYYEN7JiKPCg&usqp=CAU" group-title="SPORT PREMIUM",FOX SPORTS 2
