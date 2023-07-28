@@ -233,7 +233,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="National TV" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/08/14/932587078.jpg", Moji
-http://thefirefox12537.github.io/streams/moji.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298550
+##http://thefirefox12537.github.io/streams/moji.m3u8
 
 #EXTINF:-1 group-title="National TV" tvg-id="magnachannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna Channel
 http://edge.medcom.id/live-edge/smil:magna.smil/chunklist.m3u8
@@ -489,7 +490,8 @@ http://103.180.119.90:9911/stream/channelid/167353337?profile=pass
 #EXTINF:-1 group-title="Movies" tvg-id="hbohitsasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/196480
+##https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-id="hbosignatureasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
