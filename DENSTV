@@ -651,57 +651,6 @@ https://av-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 @@@@@@@ SPORTS @@@@@@@
 
-#EXTINF:-1,Usee Sport 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298577
-
-#EXTINF:-1,Usee Sport 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298578
-
-#EXTINF:-1,Champions TV 1 tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORTS",Champions TV 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298512
-
-#EXTINF:-1,Champions TV 2 tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="SPORTS",Champions TV 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298513
-
-#EXTINF:-1,Champions TV 3 tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="SPORTS",Champions TV 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298514
-
-#EXTINF:-1,Champions TV 5 tvg-logo="https://i.imgur.com/xtRvoj9.png" group-title="SPORTS",Champions TV 5
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298491
-
-#EXTINF:-1,Champions TV 6 tvg-logo="https://i.imgur.com/dnQiPdp.png" group-title="SPORTS",Champions TV 6
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298492
-
-#EXTINF:-1 group-title="SPORTS",beIN Sports 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165105
-
-#EXTINF:-1 group-title="SPORTS",beIN Sports 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
-
-#EXTINF:-1 group-title="SPORTS",NBA TV
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298558
-
-#EXTINF:-1 group-title="SPORTS",SpoTV
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298570
-
-#EXTINF:-1 group-title="SPORTS",SpoTV 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298571
-
-#EXTINF:-1 group-title="SPORTS",MNC Sports
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60351
-
-#EXTINF:-1 group-title="SPORTS",MNC Sport 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60463
-
-#EXTINF:-1 group-title="SPORTS",MNC Sports 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298549
-
-#EXTINF:-1 group-title="SPORTS",Soccer Channel
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60451
-
-#EXTINF:-1 group-title="SPORTS",Soccer Channel 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60471
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
