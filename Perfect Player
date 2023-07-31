@@ -200,6 +200,9 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298549
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162138
 ##http://45.129.133.15:8080/3f6d5b2f/4b60123137/162138
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BRI LIGA 1", SPORTSTAR 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
+
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORTS LIVE",Playlist ini gratis!Tidak Diperjual Belikan!
 https://github.com/achinews01/error_link/raw/main/ManreKajuTettu-2.m3u8
 ##https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
