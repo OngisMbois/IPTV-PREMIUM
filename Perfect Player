@@ -985,12 +985,6 @@ https://kusnadipepenk.github.io/ntn/asp3.m3u8
 https://kusnadipepenk.github.io/ntn/asp4.m3u8
 ##https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="Sports",Astro Supersport 5
-https://kusnadipepenk.github.io/ntn/asp5.m3u8
-##https://webudit.cdnhks.lol/lb/premium43/index.m3u8
-
 #EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="Sports",Sporttv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 
@@ -1092,38 +1086,11 @@ http://assista.pro:80/0333686557/Vilamariante1/130507
 http://assista.pro:80/0333686557/Vilamariante1/130509
 #EXTINF:-1 group-title="Sports",DAZN 5
 http://assista.pro:80/0333686557/Vilamariante1/130510
-#EXTINF:-1 group-title="Sports",DAZN 6
-http://assista.pro:80/0333686557/Vilamariante1/130511
-#EXTINF:-1group-title="Sports",DAZN 7
-http://assista.pro:80/0333686557/Vilamariante1/130512
-#EXTINF:-1 group-title="Sports",DAZN 8
-http://assista.pro:80/0333686557/Vilamariante1/130513
 #EXTINF:-1 group-title="Sports",DE DAZN 1
 http://assista.pro:80/0333686557/Vilamariante1/285071
 #EXTINF:-1 group-title="Sports",DE DAZN 2
 http://assista.pro:80/0333686557/Vilamariante1/285072
-#EXTINF:-1 group-title="Sports",IT DAZN 1
-http://ae2.aatvbox.club:8880/12mk160078/31623992/28415
-#EXTINF:-1 group-title="Sports",ES DAZN 1 
-http://assista.pro:80/0333686557/Vilamariante1/284984
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6cvFpkxs-56KdzsuVQSf9MR7SfhwdHGWTA&usqp=CAU" group-title="Sports",FOX SPORT
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGT62seMX8WkTotuetFE9h6QUhuklNBbHyBQ&usqp=CAU" group-title="Sports",FOX SPORT 2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCd7UvOnIlL9uu_y9luBnTQtB4G0f-jSvNyQ&usqp=CAU" group-title="Sports",FOX SPORT 3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-#EXTINF:-1 group-title="Sports",BeIN Sport ENG 1
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2130
-#EXTINF:-1 group-title="Sports",BeIN Sport ENG 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2129
-#EXTINF:-1 group-title="Sports",BeIN Sport ENG 3
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2123
-#EXTINF:-1 tvg-id="Digi Sport 1 RO" tvg-name="ro:digi sport 1" group-title="Sports",DIGI SPORT 1
-https://skywatch.club:8443/Z94hansna4Zta2V/DvA3dDqJnC2ke/36301
-#EXTINF:-1 group-title="Sports",DIGI SPORT 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/31332
-#EXTINF:-1 tvg-id="Digi Sport 3 RO" tvg-name="ro:digi sports 3" group-title="Sports",DIGI SPORTS 3
-https://skywatch.club:8443/Z94hansna4Zta2V/DvA3dDqJnC2ke/36302
+
 #EXTINF:-1 group-title="Sports",Sport TV +
 http://assista.pro:80/0333686557/Vilamariante1/284956
 #EXTINF:-1 group-title="Sports",Sport TV 1
@@ -1138,24 +1105,6 @@ http://assista.pro:80/0333686557/Vilamariante1/284960
 http://assista.pro:80/0333686557/Vilamariante1/284961
 #EXTINF:-1 group-title="Sports",Sport TV 6
 http://assista.pro:80/0333686557/Vilamariante1/284962
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/28207
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 1
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26583
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 2
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26582
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 3
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26581
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 4
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26577
-#EXTINF:-1 group-title="Sports",CANAL+ SPORT 5
-http://ae2.aatvbox.club:8880/12mk160078/31623992/26576
-#EXTINF:-1 group-title="Sports",SuperSport Football
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60791
-#EXTINF:-1 group-title="Sports",SuperSport Premier League
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60798
-#EXTINF:-1 group-title="Sports",SuperSport La Liga
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60794
 
 ###########################################################################################################
 ##################  LIFESTYLE  ##################################################################
