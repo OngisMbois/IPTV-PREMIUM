@@ -459,7 +459,8 @@ https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
-https://github.com/thefirefox12537/streams/raw/master/indosiar_2.m3u8
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162138
+##https://github.com/thefirefox12537/streams/raw/master/indosiar_2.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
