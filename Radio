@@ -1,0 +1,230 @@
+================================================================ RADIO =====================================================
+============================================================================================================================
+#EXTINF:0 tvg-logo="https://cdn-radiotime-logos.tunein.com/s289802d.png" group-title="Radio",Sonora Jakarta
+http://onlineradiobox.com/json/id/sonorajakarta/play
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Jakarta
+https://cast2.my-control-panel.com/proxy/radioso3/stream
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Surabaya
+https://cast3.asurahosting.com/proxy/radios23/stream
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Medan
+https://cast2.my-control-panel.com/proxy/radios11/stream
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Balikpapan
+https://cast3.asurahosting.com/proxy/radios32/stream
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Banjarmasin
+https://cast2.my-control-panel.com/proxy/radios15/stream
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Palembang
+https://cast3.asurahosting.com/proxy/radios22/stream
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Makassar
+https://cast2.my-control-panel.com/proxy/radios13/stream
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Manado
+https://cast2.my-control-panel.com/proxy/radios14/stream
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Pekanbaru
+https://cast3.asurahosting.com/proxy/radios27/stream
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR3oEMn4ckggDEZ7FEYhurTBEG1E8bXNYIdg&usqp=CAU" group-title="Radio",Smart FM Yogyakarta
+https://cast3.asurahosting.com/proxy/radios31/stream
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo_ClassyFM.png" group-title="Radio",Classy FM Padang
+http://stream.classyfm.co.id:1034/stream/1/
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WwI-dA1eGKyVYShhzZnx3p-Y3YzO9mE1zg&usqp=CAU" group-title="Radio",Jiz FM Yogyakarta
+http://jgj.jogjastreamers.com:8000/jisstereo?s=24485
+
+#EXTINF:0 tvg-logo="https://sushifm.co.id/wp-content/uploads/2020/12/sushi-99-1-fm-e1609165157693.png" group-title="Radio",Sushi FM Padang
+https://stream2.jejestreaming.com:9200/stream
+
+#EXTINF:0 tvg-logo="https://elmitra95fm.com/wp-content/uploads/2022/12/logo-elmitra-min.png" group-title="Radio",Elmitra FM Sukabumi
+http://streaming.hostgila.com:6777/;stream.nsv
+
+#EXTINF:0 tvg-logo="https://radioswarasemarangfm.co.id/wp-content/uploads/2019/04/logo-png.png" group-title="Radio",Swara FM Semarang
+https://server.radioimeldafm.co.id/radio/8010/swarasemarang
+
+#EXTINF:0 tvg-logo="https://radioswarasemarangfm.co.id/wp-content/uploads/2019/04/logo-png.png" group-title="Radio",Swara FM Tanggerang
+https://rl.tangerank.my.id/swara
+
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s140318/images/logog.png?t=1675632232000" group-title="Radio",Imelda FM
+https://server.radioimeldafm.co.id:8030/imeldafm
+
+#EXTINF:0 tvg-logo="https://gajahmadafm.co.id/wp-content/themes/gahajmada/img/logo.png" group-title="Radio",Gajahmada FM
+https://server.radioimeldafm.co.id:8040/gajahmadafm
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Logo-sonora.png" group-title="Radio",Sonora FM Bandung
+https://cast1.my-control-panel.com/proxy/radios17/stream
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw8NHFKnwpjbluz27zStoHYQbmdsPGYJYO-w&usqp=CAU" group-title="Radio",Swaragama FM
+http://jgj.jogjastreamers.com:8000/swaragama456789?s=22282
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZs5aucFDMi-ac7UFpEmFhS6-qCUR0Jejag&usqp=CAU" group-title="Radio",Radio Cakra Bandung
+https://stream-057.zeno.fm/yoengdcdzyauv?zs=ER-A13H-TuuY-DZ4mBThEw
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9utLVrYtemz36L4TrSQFb4Gxg395MWvXdA&usqp=CAU" group-title="Radio",B Radio Bandung
+https://n08.rcs.revma.com/9s8q27svceuvv?rj-ttl=5&rj-tok=AAABiB2lxpAANsjsXvF8AVGC_A
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-AOvoRZb1lWTHh0iksAmFy60LpqebPjhJ2Q&usqp=CAU" group-title="Radio",Dahlia FM
+https://svara-stream.radioddns.net:8443/bandung_dahliafm
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jgIiOzxzKkLVSE4ITbspWTSXkAYwpVwG_Q&usqp=CAU" group-title="Radio",Baiturrahman FM
+https://s7.alhastream.com/radio/8060/radio
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoa2-q-5DIyR775uuu2XVW75hFmPrvterhyQ&usqp=CAU" group-title="Radio",Suara Surabaya FM
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLTRI1_MBUWGJuyMPblUI-JrKcfhFZRTYgOw&usqp=CAU" group-title="Radio",RRI PRO 1 Banda Aceh FM
+https://stream-node2.rri.co.id/streaming/14/9214/rribandaacehpro1.mp3
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="Radio",Cosmopolitan FM
+http://n02.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="Radio",V RADIO
+http://202.147.199.100:8000/;stream.nsv
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="Radio",Hitz FM
+https://s2.radio.co/s6929cb202/listen
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="Radio",Brava FM
+http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="Radio",Hard Rock FM
+http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="Radio",Hard Rock FM Bandung
+http://stream.radiojar.com/fnex9bkswk8uv
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="Radio",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="Radio",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="Radio",Heartline Bali
+http://202.129.186.43:7028/stream
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="Radio",Heartline Jakarta
+https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/dpADolC.png" group-title="Radio",Trijaya FM Jakarta
+http://202.147.199.101:8000/;
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="Radio",Motion Radio Jakarta
+https://streamingv2.shoutcast.com/motion-jakarta
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="Radio",Female FM
+http://onlineradiobox.com/json/id/female/play
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="Radio",Delta FM
+https://stream.cloudmu.id/listen/delta/stream?icy=http
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="Radio",Bahana FM
+http://stream.bahanafm.co.id:8100/;
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="Radio",EBS FM
+http://streaming.suzanafm.com:8100/;stream.nsv
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="Radio",Elgangga FM
+http://onlineradiobox.com/json/id/sushi/play
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="Radio",Geronimo FM
+http://live2.indostreamserver.com:8018/;
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="Radio",Gajah Mada FM
+https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="Radio",OZ Radio Jakarta
+https://s3.vinhostmedia.com:10995/;stream/1
+
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="Radio",Gen FM
+http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="Radio",JAK FM
+http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="Radio",Gen FM SBY
+http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
+
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="Radio",MOST RADIO
+http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="Radio",MUSTANG
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="Radio",Magic 89.9
+https://stream.zeno.fm/fw1368t3vc9uv
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="Radio",SLOW FM
+http://onlineradiobox.com/json/id/slow/play
+#EXTINF:0 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="Radio",KIS ROCK
+http://onlineradiobox.com/json/id/kisrock/play
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Kis951FM_%282017%29.png" group-title="Radio",Kis 95.1 FM 
+http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYKtCMioZdG3g7GQQL_YVc-e3LSBXfz6EMQ&usqp=CAU" group-title="Radio",Trax FM Palembang
+http://stream.radiojar.com/qv4muvhswk8uv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ009zQpV4GKnwKcjkE381GtYYld1O8U_lIpA&usqp=CAU" group-title="Radio",Female Radio
+https://stream.cloudmu.id/listen/female/stream?icy=http
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c1/HARDROCK-FM-JAKARTA.png" group-title="Radio",Hard Rock 87.6 Jakarta
+https://stream.radiojar.com/7csmg90fuqruv.mp3?1678353316
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjvY3KWSjBKTGq0CPTSrZj2zEe0VgjLkh77w&usqp=CAU" group-title="Radio",Motion 97.5 Jakarta
+https://cast1.my-control-panel.com/proxy/radioso2/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnMIW7HTQVxFmcSEZp_VfKbSKO4PvTjclOfg&usqp=CAU" group-title="Radio",KKFI 90.1 FM
+https://nustream.pacificaservice.org:9000/kkfi_128
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnT9NNzC-UNXSpfX5-A_zvrlqVwaANsnCGZQ&usqp=CAU" group-title="Radio",Mentari FM Solo
+https://i.klikhost.com/9122/;stream.mp3
+#EXTINF:0 tvg-logo="https://www.bensradio.com/wp-content/uploads/2020/10/LOGO-BENS-RADIO-PNG-600x600.png" group-title="Radio",Bens Radio
+#https://stream-38.zeno.fm/hn8f3ey0rxhvv?zs=rh4s0LFURqGLueRczZl4mg
+https://stream.zeno.fm/tw9a0f0g0c9uv
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Indika_fm_2016.png" group-title="Radio",Indika FM
+https://s2.radio.co/sf58a82d7d/listen
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="Radio",Hitz FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="Radio",Hot FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="Radio",Prambors
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="Radio",Ardan FM
+http://listento.ardanradio.com:1059/;
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="Radio",Phoenix Radio Bali
+https://live.phoenixradiobali.com:8250/phoenixradio
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="Radio",MGTRADIO
+http://stream.radbdg.net:8000/mgtradio.mp3
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="Radio",Elshinta FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="Radio",I Radio
+http://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:0 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="Radio",Trax FM
+https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ec/Rodja756am.png" group-title="Radio",Radio Rodja
+https://radioislamindonesia.com/rodja.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-Nn86Vde50U7qmZmlwhTZ4Fqkoy9UdDr-aQ&usqp=CAU" group-title="Radio",SOLOPOS FM
+https://radio.solopos.com:8002/stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",EBS - Surabaya
+http://streaming.radiopanorama.net:8100/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",TRAX DKI
+http://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",HITZ BANDUNG
+http://hits.unikom.ac.id:9996/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio", Hitz
+https://github.com/AqFad2811/RadioYTLive/raw/main/Hitz.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio", I-RADIO
+http://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",Hitz FM
+http://astro1.rastream.com/hitz
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",RRI
+https://cdnmeraukepro1.rri.co.id/web-rrimeraukepro1.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB3qZdETbEi5-c25Bdsmwpzc4gllcOGpLmA&usqp=CAU" group-title="Radio",PRAMBORS
+https://22253.live.streamtheworld.com/PRAMBORS_FM.mp3
