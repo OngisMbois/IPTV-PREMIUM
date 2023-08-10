@@ -531,20 +531,19 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197972
-
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197972
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197055
-
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/196480
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196480
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/221948
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197964
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
 
 #EXTINF:-1 group-title="Movies",TVN MOVIES
 http://210.210.155.37/dr9445/h/h21/index.m3u8
