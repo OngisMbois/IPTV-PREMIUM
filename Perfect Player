@@ -400,11 +400,50 @@ https://webudit.cdnhks.lol/lb/premium60/index.m3u8?|referer=https://streamservic
 ##http://ae2.aatvbox.club:8880/12mk160078/31623992/1722
 ##http://beetv.my.id/x/usee-spotv-gojokkk.m3u8
 
-
-
-
-
-
+###########################  OLAHRAGA  ####################################
+############################################################################
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="OLAHRAGA",beIN Sports 1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165105
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="OLAHRAGA",beIN Sports 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298506
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="OLAHRAGA",Astro SuperSport
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="OLAHRAGA",Astro SuperSport 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157556
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="OLAHRAGA",Astro SuperSport 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157557
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="OLAHRAGA",Astro SuperSport 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157558
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="OLAHRAGA",Astro SuperSport 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287792
+#EXTINF:-1 group-title="OLAHRAGA", ||AR|| Bein Sports Premium 1 HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20500.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||AR|| Bein Sports Premium 2 HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20501.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||AR|| Bein Sports Premium 3 HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20502.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||AR|| beIN SPORTS 1 HD EN
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20533.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||AR|| beIN SPORTS 2 HD EN
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20534.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||AR|| beIN SPORTS 3 HD EN
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20535.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||PT|| Sport TV 1  HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5332.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||PT|| Sport TV 2 HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5337.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||PT|| Sport TV 3  HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5339.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||PT|| Sport TV 4  HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5343.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||PL|| Eleven Sports 1 HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/3046.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||PL|| Eleven Sports 3 HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/3047.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||PL|| ELEVEN SPORTS 4 HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/3048.ts
+#EXTINF:-1 group-title="OLAHRAGA", ||PL|| Eleven Sports 2 HD
+http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/3053.ts
 
 
 
