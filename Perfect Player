@@ -481,69 +481,6 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115433_&exte
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115805_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhsnEyJlU37o_mIrCwRY9VIFRkHRxrF7jA&usqp=CAU" group-title="OLAHRAGA", TRUE FIGHT
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&extension=ts
-###################   FOX SPORT   ############################
-##############################################################
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NN2g54H/fox-soccer-plus.png" group-title="FOX SPORTS", SPT | FOX SOCCER PLUS
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2176.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4fbmtL1/fs1.png" group-title="FOX SPORTS", SPT | FOX SPORTS 1 - FS1
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2177.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y0m1Fxf/fs2.png" group-title="FOX SPORTS", SPT | FOX SPORTS 2 - FS2
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2178.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvmNf9y/fox-sports-cricket-501-hd-au.png" group-title="FOX SPORTS", SPT | FOX SPORTS 501 (FOX CRICKET) - AU
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2179.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTkqsn9/fox-sports-league-502-hd-au.png" group-title="FOX SPORTS", SPT | FOX SPORTS 502 (FOX LEAGUE) - AU
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2180.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QJBfkrq/fox-sports-503-hd-au.png" group-title="FOX SPORTS", SPT | FOX SPORTS 503 - AU
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2181.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rySycB5/fox-sports-footy-504-hd-au.png" group-title="FOX SPORTS", SPT | FOX SPORTS 504 (FOX FOOTY) - AU
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2182.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Bjp2XB/fox-sports-505-hd-au.png" group-title="FOX SPORTS", SPT | FOX SPORTS 505 - AU
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2183.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVKGKj9/fox-sports-506-hd-au.png" group-title="FOX SPORTS", SPT | FOX SPORTS 506 - AU
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2184.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8cyKFz6/fox-sports-507-hd-au.png" group-title="FOX SPORTS", SPT | FOX SPORTS 507 (FOX SPORTS MORE) - AU
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2185.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dGB7169/fox-sports-racing-ca.png" group-title="FOX SPORTS", SPT | FOX SPORTS RACING - CA
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/2187.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/FOX_Sports_premium_chile_logo.png" group-title="FOX SPORTS", SPT | FOX SPORTS PREMIUM - MX
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/13596.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/4rfk5cf0xqdrvnq/fox_sports_global.png?dl=1" group-title="FOX SPORTS", MX | FOX SPORTS
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/19573.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/feeluq39iqait1k/fox_sports_2_lam.png?dl=1" group-title="FOX SPORTS", MX | FOX SPORTS 2
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/19574.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/kqxi4yx3c46map8/fox_sports_3_lam.png?dl=1" group-title="FOX SPORTS", MX | FOX SPORTS 3
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/19575.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs1_c.png" group-title="FOX SPORTS", FOX Sports 1 SD *f*
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/25377.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="FOX SPORTS", FOX Sports 2 SD  *f*
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/25378.m3u8
-
-#EXTINF:-1 tvg-logo="http://mirror.streamhubtv.me:8080/images/YE9BI7F15D3_iLaDPPtGfj-wEasbwu8A3D-lEddy4PuisJb3mIKElKpL75l0VkWGRWftaCUYgtsv-rKWayTMoQ.png" group-title="FOX SPORTS", BR: FOX SPORTS 2 FHD
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/1775.m3u8
-
-#EXTINF:-1 tvg-logo="http://mirror.streamhubtv.me:8080/images/YE9BI7F15D3_iLaDPPtGfi1gVYnZiae9WeE662aS16PmwwsaIXXO8f1aLBY9ARz_2-GJ_1nIcrWIJh6GDm-gcg.png" group-title="FOX SPORTS", BR: FOX SPORTS FHD
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/1776.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548942903997-Imagen.png" group-title="FOX SPORTS", CO | FOX SPORTS 1
-http://moboton.com:80/live/u6gAEkqRg/Z6URtqZhcp/6929.m3u8
 
 ######################     SKY SPORT   #######################################
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT NEWS
