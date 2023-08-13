@@ -1375,6 +1375,35 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298496
 #EXTINF:-1 group-title="Anak-Anak",Upin Ipin 
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298501
 
+###########################    FIGHT SPORT   ###########################
+
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC SPORT 
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=825538&extension=ts&play_token=IuTBxI7wnr
+
+#EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", EDGE SPORT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1014266&extension=ts&play_token=4CrIQYgTPx
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT WORLD 
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110726&extension=ts&play_token=uMRmFltpZ0
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", Arena FIGHT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1107630&extension=ts&play_token=TWqbGoZTFU
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT SPORT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683135&extension=ts&play_token=HlAf6ZvWPE
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", WWE
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571184&extension=ts&play_token=baf9OekgLV
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", X SPORT
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=127257&extension=ts&play_token=STK29jNcrs
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", PRIMIER FIGHT
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1121749&extension=ts&play_token=zIhRRcBhiR
+
+
+
+
 
 #############   VOD   ##############################
 ####################################################
