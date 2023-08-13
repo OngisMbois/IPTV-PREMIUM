@@ -226,185 +226,134 @@ https://github.com/achinews01/error_link/raw/main/ManreKajuTettu-2.m3u8
 https://github.com/achinews01/error_link/raw/main/index.m3u8
 ##https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORTS LIVE",Ongis pancen Mbois
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#########################   LIVE EVENT   ##############################
+#######################################################################
 
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORTS LIVE",BADMINTON
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",Badminton 1
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157579
-##https://webudit.cdnhks.lol/lb/premium126/index.m3u8
-###http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/157557.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",Badminton 2
-http://iptvmedia.live:8080/Johnwick/H7JsFMaXYScQJBrG/298548
-##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298570
-#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
-##https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/273.ts
-##http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298570
-
-###http://45.129.133.15:8080/3f6d5b2f/4b60123137/157558 astro4
-###http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298571   spotv 2
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",Badminton 3
-http://sysadminhost.net:8080/stadnik/6a627b52a9/157589
-##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157589
-##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
-##http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157589
-##https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORTS LIVE",BRI LIGA 
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",BRI 1*
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/162138
-##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162138
-##http://103.180.119.90:9911/stream/channelid/1706517786?profile=pass
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/162138.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",BRI 2
-http://kuchini.site:8080/devtv/5af3eeb538/162138
-##http://premiumiptvmk.com:8080/05add9be/df28c0b5be/162138
-##https://github.com/OngisMbois/iptv/raw/main/IndosiaR.m3u8
-##http://kuchini.site:8080/Vladisergeevic/7eef2c4388/162138
-##http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/162138.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",BRI 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/162138
-##http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298549
-##http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298549
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",BRI 4
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162138
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",BRI 5
-http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/298549
-##https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_hls_vmx/Sportstar4.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORTS LIVE",--> PRO LIGA VOLLEY LIVE <---
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",VOLI 1*
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298550
-##http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298550
-##http://45.129.133.15:8080/3f6d5b2f/4b60123137/157557 astro 3
-##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8?X-CDRS-APP=fmx%2F3.43.2%2F30043000%2Fc07b0395-4c61-3c92-8d45-3efba47ad524&X-CDRS-DEVICE-ID=35982807-6f58-4b5c-89a9-edb57f283313&X-CDRS-CONTENT=LIVE%2F11285841%2F0026_221130_0600
-
-http://103.166.27.2:800/play/a017 MOji FHD
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",VOLI 2
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
-##http://103.180.119.90:9911/stream/channelid/1673443475?profile=pass
-##http://beetv.my.id/x/usee-useeprime-gojokkk.m3u8
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",VOLI 3
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/298550
-
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORTS LIVE",MOTO GP
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",MOTO GP 1
-http://103.180.119.90:9911/stream/channelid/1777713744?profile=pass
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/273.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",MOTO GP 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/297423.ts
-##http://45.129.133.15:8080/3f6d5b2f/4b60123137/162502
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",MOTO GP 3
-http://103.180.119.90:9911/stream/channelid/1037231736?profile=pass
-##http://beetv.my.id/x/usee-spotv-gojokkk.m3u8
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="🇮🇩LIGA 1🇮🇩", LAGA 1 
+http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="🇮🇩LIGA 1🇮🇩", LAGA 2
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162138
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="🇮🇩LIGA 1🇮🇩", LAGA 3
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162138
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="🇮🇩LIGA 1🇮🇩", LAGA 4
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151188.ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="🇮🇩LIGA 1🇮🇩", LAGA 5
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151187.ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="🇮🇩LIGA 1🇮🇩", LAGA 6
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
 
 
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORTS LIVE",EURO PREMIERE LEAGUE (EPL)
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",EPL 1
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-##http://ae2.aatvbox.club:8880/12mk160078/31623992/2123
-##http://assista.pro:80/0333686557/Vilamariante1/130503
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/109.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",EPL 2
-http://assista.pro:80/0333686557/Vilamariante1/285071
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/157557.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",EPL 3
-http://assista.pro:80/0333686557/Vilamariante1/284984
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/298381.ts
-
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORTS LIVE",LA LIGA
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",LA LIGA 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/297787.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",LA LIGA 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
-http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/298745.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",LA LIGA 3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
-##http://ae2.aatvbox.club:8880/12mk160078/31623992/26583
-##http://ae2.aatvbox.club:8880/12mk160078/31623992/60794
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/1141.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",LA LIGA 4
-http://assista.pro:80/0333686557/Vilamariante1/284957
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/5311.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",LA LIGA 5
-http://assista.pro:80/0333686557/Vilamariante1/284958
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/281772.ts
-
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORTS LIVE",CHAMPION LEAGUE
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",CHAMPION LEAGUE 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162141
-##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
-##http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162141
-##http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1483.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",CHAMPION LEAGUE 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
-##http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1481.ts
-
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",CHAMPION LEAGUE 3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298491
-##http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
-##http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/1486.ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1040328&extension=ts&play_token=UzF7Xhc9oq
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 2
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=132717&extension=ts&play_token=JIQAe2UvyK
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=811941&extension=ts&play_token=0PGpJWMoeq
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 4
+http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47167
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239078&extension=ts&play_token=WIj93CqWrq 
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 6
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110913&extension=ts&play_token=3z1bXu0tSA 
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 7
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83447&extension=ts&play_token=V9YxR3GC9d
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 8
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=154820&extension=ts&play_token=MU1hoMHWkL
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 9
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1035203&extension=ts&play_token=5K0N5VJWTW
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 10
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=992_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 11
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 12
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65476_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 13
+http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115758_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 14
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=9250_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 15
+http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1131946&extension=ts&play_token=ijnmRQLtfl
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", WORLD CUP WOMEN 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692383&extension=ts&play_token=JFeE6GoWz9
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", WORLD CUP WOMEN 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107436&extension=ts&play_token=Aj5Ctlhy7i
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", WORLD CUP WOMEN 3
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032456&extension=ts&play_token=sxawlwRtqd
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", WORLD CUP WOMEN 4
+http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032456&extension=ts&play_token=sxawlwRtqd
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", WORLD CUP WOMEN 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1032471&extension=ts&play_token=InCwgv0Zsg
 
 
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="SPORTS LIVE",FORMULA 1
-https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508165&extension=ts&play_token=LwIO2B91Rs
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 3
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/3616
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 4
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=239082&extension=ts&play_token=a0dyarOiLA
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT GP", GP 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=a0dyarOiLA
 
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",FORMULA 1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=80536&extension=ts
-##http://ae2.aatvbox.club:8880/12mk160078/31623992/1713
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/265.ts
 
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",FORMULA 2
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/144
-##http://45.129.133.15:8080/3f6d5b2f/4b60123137/146068
-##http://45.129.133.15:8080/live/Millenium/7Se7MBqtCsEEt3VC/1672.ts
 
-#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="SPORTS LIVE",FORMULA 3
-https://webudit.cdnhks.lol/lb/premium60/index.m3u8?|referer=https://streamservicehd.click/&User-agent=Mozilla/5.0
-##http://ae2.aatvbox.club:8880/12mk160078/31623992/1722
-##http://beetv.my.id/x/usee-spotv-gojokkk.m3u8
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508331&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 2
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 3
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
+#EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 5
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extension=ts&play_token=cz0KKH7WWe
+
+
+
+
+###############  DAZN GRUP  ###############################
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN 1 ES
+http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55482_&extension=ts
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | 1 Español
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108258
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | 1 HD Bar
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75441
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | 1 HD Deutschland
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75440
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | 2 Español
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108259
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | 2 HD Bar
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75442
+
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | 3 Español
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108260
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | 4 Español
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108261
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | Formula 1 (1) HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108256
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | Formula 1 (2) HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108255
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | La Liga Español
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="EVENT DAZN", DAZN | MOVISTAR ESPAÑA 1 HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75436
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | MOVISTAR ESPAÑA 2 HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75437
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | MOVISTAR ESPAÑA 3 HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75438
+#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | MOVISTAR ESPAÑA 4 HD
+http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75439
+
+
+
+
+
 
 ###########################  OLAHRAGA  ####################################
 ############################################################################
 
-#EXTINF:-1 tvg-logo="______" group-title="OLAHRAGA", DAZN 1 ES
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55482_&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="OLAHRAGA",beIN Sports 1
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165105
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="OLAHRAGA",beIN Sports 3
