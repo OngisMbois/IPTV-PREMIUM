@@ -1401,6 +1401,23 @@ http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=127257&extension=
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", PRIMIER FIGHT
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1121749&extension=ts&play_token=zIhRRcBhiR
 
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", POLSAT SPORT FIGHT
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97239&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT BOX
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", KOMBAT SPORT
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63307_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT NETWORK
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=29513_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", WWF CHANEL
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18127_&extension=ts
+
+#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", UFC CHANEL
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=108218_&extension=ts
 
 
 
