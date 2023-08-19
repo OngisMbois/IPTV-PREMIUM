@@ -328,7 +328,35 @@ http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75439
 
 ###########################  OLAHRAGA  ####################################
 ############################################################################
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="OLAHRAGA", RMC SPORT 1 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/92
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="OLAHRAGA", RMC SPORT 2 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/93 
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="OLAHRAGA", RMC SPORT 3 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/94
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="OLAHRAGA", RMC SPORT 4 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/95
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="OLAHRAGA", RMC SPORT 5 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/482
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCf2ju6QgElzFs2d5TwBjXnOkoMM5OTVlow&usqp=CAU" group-title="OLAHRAGA", PRIMA SPORT 1
+http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=207928&extension=ts&play_token=dFnGxysxCj
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh6d8maztDXq41pR7qJVIGqtq9ngyXTDlxlQ&usqp=CAU" group-title="OLAHRAGA", PRIMA SPORT 2
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85698
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqVMN_hgRl4Ob3ewKRyrpZ3XgjZbUwQ4E_g&usqp=CAU" group-title="OLAHRAGA", PRIMA SPORT 3
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85700
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYluvX38aicLQBG7sUySHIDff-Vk0zM9NxKg&usqp=CAU" group-title="OLAHRAGA", PRIMA SPORT 4
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85699
 
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="OLAHRAGA", TSN 1 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21006.m3u8
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="OLAHRAGA", TSN 2 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21005.m3u8
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn3.png" group-title="OLAHRAGA", TSN 3 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21004.m3u8
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn4.png" group-title="OLAHRAGA", TSN 4 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21003.m3u8
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="OLAHRAGA", TSN 5 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21002.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="OLAHRAGA",beIN Sports 1
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165105
 #EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="OLAHRAGA",beIN Sports 3
@@ -603,6 +631,9 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boo_my.png" tvg-id="BOO" tvg-name="[MY] BOO" ,ASTRO BOO
+https://ktpremium.com:443/A0112/8544/26011
 
 #EXTINF:-1 group-title="Movies",TVN MOVIES
 http://210.210.155.37/dr9445/h/h21/index.m3u8
@@ -1021,6 +1052,71 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3
 #EXTINF:-1 group-title="FIRSTMEDIA",CH3888
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
 
+####################   BEIN SD  ###########################
+##########################################################
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium SD 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161419.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium SD 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161420.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium SD 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161421.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161422.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161423.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161424.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 4
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161425.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 5
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161426.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 6
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161427.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 7
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161428.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN Sport English SD 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161429.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium LOW 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161430.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium LOW 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161431.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium LOW 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161432.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 1
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161433.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 2
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161434.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 3
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161435.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 4
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161436.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 5
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161437.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 6
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161438.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 7
+http://humiptv.live:8080/live/tarun589853/5787489bcsh/161439.ts
 
 
 ###########################################################################################################################################################
