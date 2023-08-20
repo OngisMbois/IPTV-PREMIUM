@@ -1,4 +1,4 @@
-j8
+9j8
 
 #############                      DICOPAS SAJA URL NYA              ########################################
 #############                   BISA PAKAI PERFECT PLAYER         #######################################
@@ -199,6 +199,17 @@ http://meu02.cularu.com:8880/3mmk270004/71579989/71123
 https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",AFF u23 
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
+
+
+#EXTINF:-1 tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="MLS SPORT", TUDN HD (US)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/25338.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS SPORT",  APPLE TV 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1025717_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS SPORT",  APPLE TV 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1025718_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="🇮🇩LIGA 1🇮🇩", LAGA 1 
