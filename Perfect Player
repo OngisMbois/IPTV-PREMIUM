@@ -298,43 +298,99 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extens
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT F1", F1 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extension=ts&play_token=cz0KKH7WWe
 
-
-
-
-###############  DAZN GRUP  ###############################
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN 1 ES
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55482_&extension=ts
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | 1 Español
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108258
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | 1 HD Bar
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75441
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | 1 HD Deutschland
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75440
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | 2 Español
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108259
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | 2 HD Bar
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75442
-
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | 3 Español
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108260
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | 4 Español
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108261
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | Formula 1 (1) HD
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108256
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | Formula 1 (2) HD
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108255
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/ca347b7943638427dae040abd9eae6d1.png" group-title="EVENT DAZN", DAZN | La Liga Español
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/108257
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LQoQ9lf.png" group-title="EVENT DAZN", DAZN | MOVISTAR ESPAÑA 1 HD
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75436
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | MOVISTAR ESPAÑA 2 HD
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75437
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | MOVISTAR ESPAÑA 3 HD
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75438
-#EXTINF:-1 tvg-logo="http://zuihaode.site:25461/images/b07b12939375efef93d0c0642948295e.png" group-title="EVENT DAZN", DAZN | MOVISTAR ESPAÑA 4 HD
-http://ok4.club:25461/Ranger2022/BCLpXmjdVYB2/75439
-
-
+-----------------------------------------------------------------YACINE TV--------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Low
+http://new-pro.tv:8080/99622282/etbVXafU6f/381749
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/154695
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Premium 1 Low
+http://new-pro.tv:8080/99622282/etbVXafU6f/381736
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/154696
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 2 SD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33686
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sports Premium 2 Low
+http://new-pro.tv:8080/99622282/etbVXafU6f/381737
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 3 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/154697
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports Premium 3 SD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33685
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE"Bein Sports Premium 3 Low
+http://new-pro.tv:8080/99622282/etbVXafU6f/381738
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE" ,Bein Sport AFC HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/415138
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sport AFC SD
+http://new-pro.tv:8080/99622282/etbVXafU6f/415146
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sport AFC 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/415139
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Bein Sport AFC 1 SD
+http://new-pro.tv:8080/99622282/etbVXafU6f/415147
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE" ,Super Sport 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116127
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Super Sport 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116128
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Super Sport  4 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116130
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Sky Sports Action HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116088
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Sky Sports Arena HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116089
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Sky Sports Cricket HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116090
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Sky Sports F1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116091
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",UK: Sky Sports Football HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116092
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",UK: Sky Sports Golf HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116093
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",UK: Sky Sports Main Event HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116094
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",UK: Sky Sports Premier League HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116095
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 4 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/154701
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 4 SD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33681
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 5 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/154702
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 5 SD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33680
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 6 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/154703
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 6 SD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33679
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 7 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/154704
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",BeIN Sports 7 SD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33678
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",ESPN 1
+http://new-pro.tv:8080/99622282/etbVXafU6f/116151
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",ESPN 2
+http://new-pro.tv:8080/99622282/etbVXafU6f/116152
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Fox Sports 1
+http://new-pro.tv:8080/99622282/etbVXafU6f/116153
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Fox Sports 2
+http://new-pro.tv:8080/99622282/etbVXafU6f/116154
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",RTSH Sport HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116126
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Tring Sport 1
+http://new-pro.tv:8080/99622282/etbVXafU6f/116118
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Tring Sport 3
+http://new-pro.tv:8080/99622282/etbVXafU6f/116120
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE",Tring Sport 4
+http://new-pro.tv:8080/99622282/etbVXafU6f/116121
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE" ,Eurosport 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116122
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE", Eurosport 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116123
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE", TSN 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116155
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE", TSN 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116156
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE", TSN 3 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116157
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvWw1Ms7/YACINE.png" group-title="YACINE", TSN 4 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116158
 
 
 
