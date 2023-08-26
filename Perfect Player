@@ -188,16 +188,16 @@ https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=
 #########################   LIVE EVENT   ##############################
 #######################################################################
 
-#EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",AFF u23 
+#EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",RTB HD
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b2196000_sleng.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",AFF u23*
+#EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",SCTV FHD
 http://103.166.27.2:800/play/a015
-#EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",AFF u23
+#EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",TRUE SPORT 2
 https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",AFF u23 
+#EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",SCTV
 http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/162141
 ##https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",AFF u23 
+#EXTINF:-1 tvg-id=" tvg-name="AFF U23" tvg-logo="https://i.postimg.cc/Hst0FDx5/AFFU23.jpg" group-title="LIVE EVENT",VTV 
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
 
 
