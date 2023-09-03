@@ -1329,37 +1329,6 @@ https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 #EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="Sports",Sky Sport Arena
 https://kusnadipepenk.github.io/ntn/skyare.m3u8
 
-#EXTINF:-1 group-title="Sports",Usee Sport 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298577
-#EXTINF:-1 group-title="Sports",Usee Sport 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298578
-
-
-#EXTINF:-1 group-title="Sports",Champions TV 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
-#EXTINF:-1 group-title="Sports",Champions TV 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
-#EXTINF:-1 group-title="Sports",Champions TV 3
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
-#EXTINF:-1 group-title="Sports",Champions TV 5
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298491
-#EXTINF:-1 group-title="Sports",Champions TV 6
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298492
-
-#EXTINF:-1 group-title="Sports",beIN Sports 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
-#EXTINF:-1 group-title="Sports",beIN Sports 3
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
-#EXTINF:-1 group-title="Sports",NBA TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298558
-
-#EXTINF:-1 group-title="Sports",SPOTV 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298570
-#EXTINF:-1 group-title="Sports",SPOTV 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298571
-
-#EXTINF:-1 group-title="Sports",MNC Sports 1
-http://ae2.aatvbox.club:8880/12mk160078/31623992/60351
 #EXTINF:-1 group-title="Sports" group-title="Sports",MNC Sport 2
 http://premiumiptvmk.com:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/298548
 
@@ -1578,27 +1547,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=825538&extens
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", EDGE SPORT
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=1014266&extension=ts&play_token=4CrIQYgTPx
 
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT WORLD 
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=110726&extension=ts&play_token=uMRmFltpZ0
-
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", Arena FIGHT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=1107630&extension=ts&play_token=TWqbGoZTFU
-
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683135&extension=ts&play_token=HlAf6ZvWPE
-
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", WWE
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=571184&extension=ts&play_token=baf9OekgLV
-
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", X SPORT
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=127257&extension=ts&play_token=STK29jNcrs
-
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", PRIMIER FIGHT
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1121749&extension=ts&play_token=zIhRRcBhiR
-
-#EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", POLSAT SPORT FIGHT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97239&extension=ts
-
 #EXTINF:-1 tvg-logo="-------" group-title="FIGHT SPORT", FIGHT BOX
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61800_&extension=ts
 
@@ -1705,34 +1653,6 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298357
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 http://37.49.229.56:8080/kingtveuex/lAEPMRIE4jqjMamv/298358
 
-#EXTINF:0 tvg-id="" tvg-name="ssc1" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT PREMIUM",SSC 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/280132
-#EXTINF:0 tvg-id="" tvg-name="ssc2" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT PREMIUM",SSC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/280137
-#EXTINF:0 tvg-id="" tvg-name="ss3" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT PREMIUM",SSC 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/280134
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="SPORT PREMIUM",ELEVEN SPORTS 1
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/347
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="SPORT PREMIUM",ELEVEN SPORTS 2
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/3643
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="SPORT PREMIUM",ELEVEN SPORTS 3
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/3644
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="SPORT PREMIUM",ELEVEN SPORTS 4
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/3645
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT PREMIUM",CANAL+ SPORT 1
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/69426
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT PREMIUM",CANAL+ SPORT 2
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/343
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT PREMIUM",CANAL+ SPORT 3
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/33580
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT PREMIUM",CANAL+ SPORT 4
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/78322
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
@@ -1748,16 +1668,6 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://i.imgur.com/40BbQUd.png", SONY SPORTS TEN 5 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-#EXTINF:0 tvg-id="AstroSuperSport.my" tvg-name="astro supersport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/146068
-#EXTINF:0 tvg-id="AstroSuperSport2.my" tvg-name="astro supersport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 2
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157556
-#EXTINF:0 tvg-id="AstroSuperSport3.my" tvg-name="astro supersport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 3
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157557
-#EXTINF:0 tvg-id="AstroSuperSport4.my" tvg-name="astro supersport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 4
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157558
-#EXTINF:0 tvg-id="AstroSuperSport5.my" tvg-name="astro supersport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 5
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/287792
 #EXTINF:-1 tvg-logo="" group-title="SPORT PREMIUM", ORANGE Sport 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38422_&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="SPORT PREMIUM", ORANGE Sport 2
@@ -1767,15 +1677,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38424_&extens
 #EXTINF:-1 tvg-logo="" group-title="SPORT PREMIUM", ORANGE Sport 4
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extension=ts
 
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT PREMIUM", ORANGE Sport 1 HD
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=56040&extension=ts&play_token=Ugwsqo2rrU
-#EXTINF:-1 tvg-logo="" group-title="SPORT PREMIUM", ORANGE Sport 2 HD
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=56039&extension=ts&play_token=HlNJpOcKKm
-#EXTINF:-1 tvg-logo="" group-title="SPORT PREMIUM", ORANGE Sport 3 HD
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=208009&extension=ts&play_token=sXtPsnpRdm
-#EXTINF:-1 tvg-logo="" group-title="SPORT PREMIUM", ORANGE Sport 4 HD
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=92680&extension=ts&play_token=5q15VVXkYC
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT PREMIUM", POLSAT SPORT PREMIUM 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97242&extension=ts
@@ -1789,64 +1690,12 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97239&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97241&extension=ts
 
 
-#################  THAI SPORT  ######################
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football 1 TH [Thai]" tvg-logo="" group-title="THAI SPORT",Premier Football 1 TH [Thai]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115757
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1  [ENG]" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 1  [ENG]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115758
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1 [Thai]" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 1 [Thai]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115759
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 1-X [Thai]" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 1-X [Thai]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115760
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 2  [ENG]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115762
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2  [ENG]" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 2  [ENG]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115508
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 2-X [ENG]" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 2-X [ENG]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115509
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 3
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115510
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3 [ENG]" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 3 [ENG]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115511
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 3-X" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 3-X
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115512
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 4
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115513
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 4-X" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 4-X
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115768
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football HD TH 5" tvg-logo="" group-title="THAI SPORT",Premier Football HD TH 5
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115515
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 1  [ENG]" tvg-logo="" group-title="THAI SPORT",Premier Football TH 1  [ENG]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115516
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 1-X [Thai]" tvg-logo="" group-title="THAI SPORT",Premier Football TH 1-X [Thai]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115771
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 2 [ENG]" tvg-logo="" group-title="THAI SPORT",Premier Football TH 2 [ENG]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115518
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3" tvg-logo="" group-title="THAI SPORT",Premier Football TH 3
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115520
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3 [ENG]" tvg-logo="" group-title="THAI SPORT",Premier Football TH 3 [ENG]
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115521
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 3-X" tvg-logo="" group-title="THAI SPORT",Premier Football TH 3-X
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115522
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 4" tvg-logo="" group-title="THAI SPORT",Premier Football TH 4
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115523
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 4-X" tvg-logo="" group-title="THAI SPORT",Premier Football TH 4-X
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115524
-#EXTINF:-1 tvg-id="" tvg-name="Premier Football TH 5" tvg-logo="" group-title="THAI SPORT",Premier Football TH 5
-http://zzportals.com:2095/xkP4Nh6b/eF1BeMqg/115525
-
-
 
 ####################### FOOTBALL CLUB #########
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREHf5Vq19Bkg9rDlGTRLTaxfRdsXbHhWMQhw&usqp=CAU" group-title="FOOTBALL CLUB", MUTV
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=45324&extension=ts&play_token=OwHIPoa0iZ 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl17ZjZCJ21cKlPNEIScxLjjBOKUB7kLiKog&usqp=CAU" group-title="FOOTBALL CLUB", MILAN TV
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691246&extension=ts&play_token=wdpy8uaE34 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtQRHjRZlYfBxxA73H4WfyIESKEmbK6T1lA&usqp=CAU" group-title="FOOTBALL CLUB", REAL MADRID TV
-http://foxx-tv.com:9600/play/live.php?mac=00:1A:79:AB:11:B9&stream=55543_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHrR_ih_g1rYHvSaKFC9y_7LGFbuB4zJWjw&usqp=CAU" group-title="FOOTBALL CLUB", BARCA TV
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/1170
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYnsZoGidP8S19kGUQd8C-WBNlVfajCpthpg&usqp=CAU" group-title="FOOTBALL CLUB", LAZIO TV
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=691244&extension=ts&play_token=zMlRAkEXDp 
@@ -1863,36 +1712,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=107430&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzn46J_9eH1PGRchZniqLoBoSovSKzFfby7A&usqp=CAU" group-title="FOOTBALL CLUB", BTV BENFICA
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=983567&extension=ts&play_token=KIl56CmfeQ
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkXhbSwjuSP-XuaUPzDRs9BBg1vWmOUpSGg&usqp=CAU" group-title="FOOTBALL CLUB", GALATASARAY TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7875_&extension=ts&play_token=FcCkSLTtTN
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6MCmhuaV1Un8Zx7XUHnSWxUVBOANby0lDZb4pTCroTioIBaVx1ewjJEO&s=10" group-title="FOOTBALL CLUB", FENERBACE TV
-http://jb.worldip.nl:80/play/live.php?mac=00:1A:79:B4:FD:02&stream=7874_&extension=ts&play_token=FcCkSLTtTN
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="MALAYSIA", Animax
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157486
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="MALAYSIA", Astro Arena
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157485
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="MALAYSIA", Astro Awani
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157478
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="MALAYSIA", Astro Cricket
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157565
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="MALAYSIA", Astro Oasis
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157489
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="MALAYSIA", Astro Prima
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157467
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" group-title="MALAYSIA", Astro Ria
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/158347
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="MALAYSIA", Astro SuperSport
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146068
