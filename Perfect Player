@@ -415,20 +415,6 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/116158
 
 ###########################  OLAHRAGA  ####################################
 ############################################################################
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-#EXTINF:-1 tvg-id="" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/ssc1.webp" group-title="OLAHRAGA",SSC 1
-https://webudit.cdnbos.lol/lb/premium614/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-#EXTINF:-1 tvg-id="" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/ssc2.webp" group-title="OLAHRAGA",SSC 2
-https://webudit.cdnbos.lol/lb/premium615/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-#EXTINF:-1 tvg-id="" tvg-logo="https://sports.sstp.cloudns.pro/img/sports/setantasportsukraine.webp" group-title="OLAHRAGA",Setanta Sports
-https://webudit.cdnbos.lol/lb/primasetantaukraine/index.m3u8
 
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="OLAHRAGA",Sporttv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
