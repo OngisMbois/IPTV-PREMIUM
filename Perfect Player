@@ -416,7 +416,17 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/116158
 
 ###########################  OLAHRAGA  ####################################
 ############################################################################
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k5szkb15/BT-Sport-1.png" group-title=" OLAHRAGA ", BT Sport 1
+http://raw.bitnode.pm:81/giorgi/giorgi/20360
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wvBZHjZQ/BT-Sport-2.png" group-title=" OLAHRAGA ", BT Sport 2
+http://raw.bitnode.pm:81/giorgi/giorgi/20366
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bJFMvjjc/BT-Sport-3.png" group-title=" OLAHRAGA ", BT Sport 3
+http://raw.bitnode.pm:81/giorgi/giorgi/20371
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cCgzg5sK/BT-Sport-4.png" group-title=" OLAHRAGA ", BT Sport 4
+http://raw.bitnode.pm:81/giorgi/giorgi/322582
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="OLAHRAGA",Sporttv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="OLAHRAGA",Sporttv 2
