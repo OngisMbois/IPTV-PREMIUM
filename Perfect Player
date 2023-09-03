@@ -416,17 +416,14 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/116158
 
 ###########################  OLAHRAGA  ####################################
 ############################################################################
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k5szkb15/BT-Sport-1.png" group-title=" OLAHRAGA ", BT Sport 1
-http://raw.bitnode.pm:81/giorgi/giorgi/20360
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wvBZHjZQ/BT-Sport-2.png" group-title=" OLAHRAGA ", BT Sport 2
-http://raw.bitnode.pm:81/giorgi/giorgi/20366
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bJFMvjjc/BT-Sport-3.png" group-title=" OLAHRAGA ", BT Sport 3
-http://raw.bitnode.pm:81/giorgi/giorgi/20371
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cCgzg5sK/BT-Sport-4.png" group-title=" OLAHRAGA ", BT Sport 4
-http://raw.bitnode.pm:81/giorgi/giorgi/322582
+#EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="OLAHRAGA",KSA Sports 1 HD
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="OLAHRAGA",KSA Sports 2 HD
+https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:-1 tvg-id="KSASports3.sa" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="OLAHRAGA",KSA Sports 3 HD
+https://edge.taghtia.com/sa/16.m3u8
+#EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://i.imgur.com/TNZEKP6.png" group-title="OLAHRAGA",KSA Sports 4 HD
+https://edge.taghtia.com/sa/17.m3u8
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="OLAHRAGA",Sporttv 1
 https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 #EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="OLAHRAGA",Sporttv 2
@@ -542,6 +539,17 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115433_&exte
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115805_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhsnEyJlU37o_mIrCwRY9VIFRkHRxrF7jA&usqp=CAU" group-title="OLAHRAGA", TRUE FIGHT
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&extension=ts
+
+#EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="SPORTS THẾ GIỚI",TNT Sports 1 Brasil  
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="OLAHRAGA",TNT Sports 2 Brasil  
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports3Brazil.br" tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="OLAHRAGA",TNT Sports 3 Brasil  
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brazil.br" tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="OLAHRAGA",TNT Sports 4 Brasil  
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="OLAHRAGA",TNT Sports 5 Brasil  
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 ######################     SKY SPORT   #######################################
 #EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT NEWS
