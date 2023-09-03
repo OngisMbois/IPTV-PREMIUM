@@ -415,25 +415,22 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/116158
 
 ###########################  OLAHRAGA  ####################################
 ############################################################################
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="OLAHRAGA", RMC SPORT 1 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/92
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="OLAHRAGA", RMC SPORT 2 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/93 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="OLAHRAGA", RMC SPORT 3 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/94
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="OLAHRAGA", RMC SPORT 4 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/95
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="OLAHRAGA", RMC SPORT 5 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/482
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="OLAHRAGA",Sporttv 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="OLAHRAGA",Sporttv 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="OLAHRAGA",Sporttv 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+#EXTINF:0  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="OLAHRAGA",Sporttv 4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+#EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="OLAHRAGA",Eleven 1
+https://kusnadipepenk.github.io/ntn/ele1.m3u8
+#EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="OLAHRAGA",Eleven 2
+https://kusnadipepenk.github.io/ntn/ele2.m3u8
+#EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="OLAHRAGA",Eleven 3
+https://kusnadipepenk.github.io/ntn/ele3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCf2ju6QgElzFs2d5TwBjXnOkoMM5OTVlow&usqp=CAU" group-title="OLAHRAGA", PRIMA SPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=207928&extension=ts&play_token=dFnGxysxCj
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh6d8maztDXq41pR7qJVIGqtq9ngyXTDlxlQ&usqp=CAU" group-title="OLAHRAGA", PRIMA SPORT 2
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85698
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqVMN_hgRl4Ob3ewKRyrpZ3XgjZbUwQ4E_g&usqp=CAU" group-title="OLAHRAGA", PRIMA SPORT 3
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85700
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYluvX38aicLQBG7sUySHIDff-Vk0zM9NxKg&usqp=CAU" group-title="OLAHRAGA", PRIMA SPORT 4
-http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/85699
-
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="OLAHRAGA", TSN 1 HD (CA)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21006.m3u8
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="OLAHRAGA", TSN 2 HD (CA)
@@ -458,34 +455,35 @@ http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157557
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157558
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="OLAHRAGA",Astro SuperSport 5
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287792
-#EXTINF:-1 group-title="OLAHRAGA", ||AR|| Bein Sports Premium 1 HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20500.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||AR|| Bein Sports Premium 2 HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20501.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||AR|| Bein Sports Premium 3 HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20502.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||AR|| beIN SPORTS 1 HD EN
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20533.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||AR|| beIN SPORTS 2 HD EN
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20534.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||AR|| beIN SPORTS 3 HD EN
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/20535.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||PT|| Sport TV 1  HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5332.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||PT|| Sport TV 2 HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5337.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||PT|| Sport TV 3  HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5339.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||PT|| Sport TV 4  HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/5343.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||PL|| Eleven Sports 1 HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/3046.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||PL|| Eleven Sports 3 HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/3047.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||PL|| ELEVEN SPORTS 4 HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/3048.ts
-#EXTINF:-1 group-title="OLAHRAGA", ||PL|| Eleven Sports 2 HD
-http://formule.link:80/live/ZainTV01/cOzGlRl4ovUl/3053.ts
+
+#EXTINF:0  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="OLAHRAGA",Arena 1 Sport
+https://kusnadipepenk.github.io/ntn/arns1.m3u8
+#EXTINF:0  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="OLAHRAGA",Arena 2 Sport
+https://kusnadipepenk.github.io/ntn/arns2.m3u8
+#EXTINF:0  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/Arena-Sport-3-1.png" group-title="OLAHRAGA",Arena 3 Sport
+https://kusnadipepenk.github.io/ntn/arns3.m3u8
+#EXTINF:0  tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png" group-title="OLAHRAGA",Arena 4 Sport
+https://kusnadipepenk.github.io/ntn/arns4.m3u8
+#EXTINF:0 tvg-logo="https://media.info/i/lf/0/1507600205/1554.png" group-title="OLAHRAGA",Sky Sport PL
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+#EXTINF:0 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="OLAHRAGA",SuperSport PL
+https://kusnadipepenk.github.io/ntn/superprem.m3u8
+#EXTINF:0 tvg-logo="https://techcentral.co.za/wp-content/uploads/2019/09/supersport-2156-1120.jpg" group-title="OLAHRAGA",Supersport GOLF
+https://kusnadipepenk.github.io/ntn/golf2.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="OLAHRAGA",Sony Ten 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="OLAHRAGA",Sony Ten 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="OLAHRAGA",Sony Ten 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sony_TEN_logo.png/1200px-Sony_TEN_logo.png" group-title="OLAHRAGA",Sony Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:0 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="OLAHRAGA",Eleven Sport 1
+https://kusnadipepenk.github.io/ntn/elesp1.m3u8
+#EXTINF:0 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="OLAHRAGA",Eleven Sport 2
+https://kusnadipepenk.github.io/ntn/elesp2.m3u8
+#EXTINF:0 tvg-logo="https://beisbolenvivo.com/wp-content/uploads/2023/04/dcr34.png" group-title="OLAHRAGA",Eleven Sport 3
+https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/d4c9a82eabcea9ef8c626da20887aa40.png" group-title="OLAHRAGA", BEIN SPORT 1 TR
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=41811_&extension=ts
 #EXTINF:-1 tvg-logo="http://magott.net:80/images/3fe05b7b5fa9e0c4f4e647e0dd514177.png" group-title="OLAHRAGA", BEIN SPORT 2 TR
