@@ -238,7 +238,7 @@ http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162138
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="🇮🇩LIGA 1🇮🇩", LAGA 3
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162138
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="🇮🇩LIGA 1🇮🇩", LAGA 4
-http://mu03.wanicelife.com:8880/live/6m190086/58889297/60411.m3u8
+http://tvkuonline.my.id:25461/riyad/riyad/14
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="🇮🇩LIGA 1🇮🇩", LAGA 5
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
@@ -588,11 +588,9 @@ https://nxanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157578
-
+http://tvkuonline.my.id:25461/riyad/riyad/11
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INews
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157579
-
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 ##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165054
@@ -602,14 +600,10 @@ http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV HD
-http://protv.fun:80/play/live.php?mac=00:1A:79:BF:D2:44&stream=683098&extension=ts&play_token=qHlQKxEaLV
-##https://github.com/OngisMbois/iptv/raw/main/mnctv.m3u8
-
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157591
-##http://103.180.119.90:9911/stream/channelid/172523773?profile=pass
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="NASIONAL",TVRI SPORT HD
 http://210.210.155.37/qwr9ew/s/s107/index.m3u8
 
@@ -620,8 +614,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298550
-
+http://tvkuonline.my.id:25461/riyad/riyad/24
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="NASIONAL",MOJI 3
 https://github.com/thefirefox12537/streams/raw/master/moji_2.m3u8
 
@@ -633,15 +626,12 @@ https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/162138
-##https://github.com/thefirefox12537/streams/raw/master/indosiar_2.m3u8
-
+http://kuchini.site:8080/live/LeCyGodF/thYAg86ShLywX9FL/162138.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="NASIONAL",INDOSIAR HD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162138
-
+http://iptvtree.net:8080/137f5990/123a71f365/162138
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="trans tv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NASIONAL",TRANS TV HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
 
@@ -650,8 +640,7 @@ https://github.com/thefirefox12537/streams/raw/master/transpitu_playback.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",TRANS 7 HD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162502
-
+http://tvkuonline.my.id:25461/riyad/riyad/15
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="NASIONAL",ANTV HD
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 
@@ -749,7 +738,7 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197972
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196480
+http://tvkuonline.my.id:25461/riyad/riyad/413
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
