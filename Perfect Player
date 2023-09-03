@@ -433,6 +433,18 @@ https://kusnadipepenk.github.io/ntn/ele2.m3u8
 https://kusnadipepenk.github.io/ntn/ele3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCf2ju6QgElzFs2d5TwBjXnOkoMM5OTVlow&usqp=CAU" group-title="OLAHRAGA", PRIMA SPORT 1
 http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=207928&extension=ts&play_token=dFnGxysxCj
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 1 
+https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 2 
+https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 3 
+https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 4 
+https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 5 
+https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
+
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="OLAHRAGA", TSN 1 HD (CA)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21006.m3u8
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="OLAHRAGA", TSN 2 HD (CA)
