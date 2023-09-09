@@ -189,7 +189,8 @@ https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=
 #########################   LIVE EVENT   ##############################
 #######################################################################
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xCyK0ZHX/Super-Sport-Premier-League.png" group-title=" SuperSport ", SuperSport Premier League
-http://raw.bitnode.pm:81/giorgi/giorgi/38703
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
+##http://raw.bitnode.pm:81/giorgi/giorgi/38703
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFz7xm3r/Super-Sport-La-Liga.png" group-title=" SuperSport ", SuperSport LaLiga
 http://raw.bitnode.pm:81/giorgi/giorgi/38698
@@ -217,6 +218,26 @@ http://raw.bitnode.pm:81/giorgi/giorgi/38709
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FzT3SJTm/Super-Sport-Variety-4.png" group-title=" SuperSport ", SuperSport Variety 4
 http://raw.bitnode.pm:81/giorgi/giorgi/38710
+
+#################################   EURO QUALIFIYING ################################
+#####################################################################################
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XqN9J1xF/Euro-Qualifying.png " group-title=" EURO 2023 ", Euro Qualifying 1
+https://livenflstream.xyz/playlist/stream_1.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XqN9J1xF/Euro-Qualifying.png " group-title=" EURO 2023 ", Euro Qualifying 2
+https://livenflstream.xyz/playlist/stream_4.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XqN9J1xF/Euro-Qualifying.png " group-title=" EURO 2023 ", Euro Qualifying 3
+https://livecdn-iptv001.rumsport.com/stream/147553/stream/147553_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XqN9J1xF/Euro-Qualifying.png " group-title="  EURO 2023 ", Euro Qualifying 4
+https://livecdn-iptv001.rumsport.com/stream/756/stream/756_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XqN9J1xF/Euro-Qualifying.png " group-title=" EURO 2023 ", Euro Qualifying 5
+https://livecdn-iptv001.rumsport.com/stream/757/stream/757_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XqN9J1xF/Euro-Qualifying.png " group-title=" EURO 2023 ", Euro Qualifying 6
+https://livecdn-iptv001.rumsport.com/stream/2314/stream/2314_hd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 1 HD
@@ -540,7 +561,7 @@ http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115805_&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkXhsnEyJlU37o_mIrCwRY9VIFRkHRxrF7jA&usqp=CAU" group-title="OLAHRAGA", TRUE FIGHT
 http://iptvworld.nl:2095/play/live.php?mac=00:1A:79:B8:92:AF&stream=115500_&extension=ts
 
-#EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="SPORTS THẾ GIỚI",TNT Sports 1 Brasil  
+#EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="OLAHRAGA",TNT Sports 1 Brasil  
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports2Brazil.br" tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="OLAHRAGA",TNT Sports 2 Brasil  
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
