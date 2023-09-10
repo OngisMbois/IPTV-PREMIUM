@@ -1059,7 +1059,646 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&exten
 #############   VOD   ##############################
 ####################################################
 
-###EXTINF:-1  tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="VOD"
-https://raw.githubusercontent.com/OngisMbois/VOD/main/Ongis%20VOD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPH8WAOpyxCg4OqOHq8Mb62Wwqg1uqdT0SQw&usqp=CAU" group-title="VOD 2023",AntMan & The Wasp Quantumania (2023) Cam
+https://1w61yw.bn.files.1drv.com/y4m8UXhfIG370pBt4WSO5h6IFOuvwmraw5Y0RwaCweWGDM2aPTzpQTSPqMLHDRUtHoU4KhyY2kMIHjAgtR0vIf9VSJsoL4qb1VW6wXfO4OseNzTwxS0kAcLGwfnDPx7PdY-NL_FdyhExR9XhTvP9LWxGkYIh1EdFc471BHVqCWBns-fEAofXBScelmm9QliwtKf50z1aHHnKJim_2iOayKLcw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRbsXMGjwmRCkWJdIISWLpgdX4dWsKgP--A&usqp=CAU" group-title="VOD 2023",Ambush (2023)
+https://dej3pa.bl.files.1drv.com/y4mRJktXu5Fz45U8uqe-kwVhQewwDY8KDOCIs7bpz_xUCw3J3Dvu0Dnj-T2BtNEKAJqcjkxNZU-XmHHKGjv55m7_nZpY4WWso2DrRLtuWRfKeTznPwKwILwVwPVQByy1FOxQ_qoAw74fXm3Oof3v81WAzhe2LifGZoFexgr6cvI_6unLnD70hYgR9wWmkI8Dk-BcDpNxAOU3YUEsfz5rusqIQ
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Xt0q2bHBzd0/14035041647842474454_mq.jpg?v=63919330" group-title="VOD 2023",Candy Land (2023)
+https://wxkrnw.bn.files.1drv.com/y4mrD8SmhFYCGWfa9dhm_KbSXiDH3bQTOuFtVIlQRH2wUR4v1-O5aDoBNZeqhWDKnK90flm1m0UL406TqjxYQOTfZKpRbXRcCSnGdl8hR3fE_QkgrafjAGKLsKte-YZ222_BpqXPZt4vf7BvCW45OGr6Q7yGksjoAu3dOx4lpz7t_f3JGYVvFpd86LaWviZz1PUvifQ2a96x0vGrKj8kPqNgw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1TVTSxbarRRFyd24dzYPy_N1VzyUfLL3eKA&usqp=CAU" group-title="VOD 2023",Consecration (2023)
+https://1w4avw.bn.files.1drv.com/y4mXj6BDLNSK13_BlmYSRAXAXFHTSqAkNLPEQSo2x4LIpxKHzH1k4QhwrTOvn3wWVsqQybEPUlFvS81roSo1FFRlpdt8PDeR4cTKfElwHOHQDlZXhLzPz08G4OUERSp0jFCAgaON4yCVaFNSOOx_Uom74JfJfN-kcAOYVqkeaWDs5ZN0XR1Ig2EveThcGtdJuIp5EBn3i1H6AgSJfd0mhh_bw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn6qbLQsROCAegZ9wJJOf23zgr4Cu4CW60HA&usqp=CAU" group-title="VOD 2023",Detective Knight Independence (2023)
+https://dehcya.bl.files.1drv.com/y4mI61EJ8VzFkQsrnEnglIfijYZtT-4J7ww-EpPU_i6WubMqeG1XvX1FFT1ian5d6ZN_LYIJ6HYkGFm8B1qKryUlOayTLgu4-Baka1Bn1p2jRS_tTwmrHoGxRzfZpVLDXPOUkUxOBIhSTGbPWaXaQKqMMaV8Rc6rrfRYYPbItdTE0_EYqamlN6y5Yzjmc2yN2AMTtDiKnINacVdlmcQJepJFg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAx1jkfle9qRhG7VBnKaZtVY3EZBPPIa-QXA&usqp=CAU" group-title="VOD 2023",Domme (2023)
+https://prgreg.sn.files.1drv.com/y4mGkwmdfDXemPikJVjbAJ2vWFh4DMsAjBl4j9VACsJKGpfNob1wgsJVZu465u72zV9E7f2U1PG2VQ3ikkgi_xOX3eTBUD2tLygp-6cAIVfZ9f-RIv4SZS774B-7Nu3PDuFO1oXTFsgpLHf7g2-zdedddW_nM14nQVxwBnDDN6XwUqIyZIZwaXvTFi9CKMFwrXECoYbr2YJe7vc-qjm6vVBuA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNV3n_ThGCzQq8t6pBUqYUarlyczQ7pZMysQ&usqp=CAU" group-title="VOD 2023",Fast X Cam (2023)
+https://ligepw.sn.files.1drv.com/y4mZNRojpnXBnpdJ9YIWR5C1iONnt1fvZR5rKF9fKfmVTy1PJJoQ-S08JC_BZRt7JsF4rXXnNeJG0sdmQvyKiRygKVQqgcBzs8Cjjb2TvJ8kywS8KSuSiyQlYZRP2WLGURU8yd3tSXilFCTnNmj3cEDYDczB1jGzN-X-TdhqItvlcGhfiDaK8g4-qWFFEXLwdERWOwU_V-Wv-yruZ-xNqJ41w
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIKWWXa1rrBcg29bCXsv_NfPRWxcCp-2Z2g&usqp=CAU" group-title="VOD 2023",Gangnam Zombie (2023)
+https://os9rtq.bn.files.1drv.com/y4mp6OqS9_R25sCWGl5aBcVZ1dfPqGHMo8vCJ2N53b1CGoF0XuujIT92_sMajPd3BF5eoO1bufQYN7KWF2-2DfAZ3VpDnRzC7eFpwmalY-0j9j2dy-dkhiq7uHV-pRNRNGIwFotIRuMiaolMnTZhqwT-q3AoZi4j5--Y2jYQu5Vy5kngfr6-8OgDq8Hyut4pqs4sHUexysqR77ycQwyFJKmgw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGuSOL-ZV4hd6OQPGSbJ6Qj9ulHxTvVN9YQg&usqp=CAU" group-title="VOD 2023",House Party (2023)
+https://www.dropbox.com/s/k4ww0fi8co8wmtt/dzifp-housepart2023.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgH8R3zKl5RAyivUaQVcneVbimiOaG3CKwhw&usqp=CAU" group-title="VOD 2023",John Wick Chapter 4 (2023)
+https://www.dropbox.com/s/6cayjjw87le2mea/dzifp-johnwick4.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpMcvoZz8oeo7vUGCKh1TIKQbW09h0Hyc-Q&usqp=CAU" group-title="VOD 2023",Jung-E (2023)
+https://v9jsrq.bn.files.1drv.com/y4mIzWm6ep4dLlpJl5yidqxs4KMCY7jn702X2KPd7KP3ssVrPk6oacEY3bes9PEPh56RH9S4VZsbqyZunuJgRdWNfNlK96O-MjjFDusSnfDlgqrvfspAYxdpyN-gzF_IrrskC8Jh-st-KhHJQHHp9UKqc69Nu5BjvrY7yQr2qsTBo7O0XpCIid055xcpoPYsbJYJWDQg6vRJr8oV2DjfUvXWw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2r9G8oGoZwP7Dpp24tJsiDuayeotkh5ExQ&usqp=CAU" group-title="VOD 2023",Legions (2023)
+https://www.dropbox.com/s/dp9fgcucj73ch9i/D21.FUN-Legions-2023-1674958792.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRslP6dayRtg4x1TrABFWCfdmpggJJJbWK8Uw&usqp=CAU" group-title="VOD 2023",Love At First Kiss (2023)
+https://d72ljg.bl.files.1drv.com/y4midZer4jCfLV7bz2kNqUN08ZH4e_Yo_V_WgNZ_2ZNuctrCLL3uWwq6yJTjAe0a47Pa5Rkr_zEDmUEgUSqRHxn_fv-5ueR8WpqmAkbCwPhBLur31-9V8Ltk4hcToahJdGuHyGLAlVUlCCCoXEL2Tkr9lxLvSlDv_qR_fK4-LOoubEOa01XXhrpt4KgDNTT_xgJw80UBHMMe7dTlC-kGa43iA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7SalnP7kyCyrYpGuXAGcrJSONAFNFggERXw&usqp=CAU" group-title="VOD 2023",Magic Mike Last Dance (2023)
+https://dehxnq.bl.files.1drv.com/y4mkaUL9fMZggtGm7_eyciaMdjfBXxA-AatfjJYtXL_IxEsTtixDc850hHlyHBwegl7wcI9iFBIJOzgzpCn7W7o8nKsauhijkVgQDSZCsws98f1cx5YIM7e6A7QLylMZL09aLaAusYZs8IUSOD6eBv9FBUqdJT0iJ59U1vy9xFrvFkbe34iTzjnpJZa7jHrHPCwwwks67RE0uY65kp1NGgxCw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK07FNygIyiztFOa7FwY8JsRjPjJTN6_CU9w&usqp=CAU" group-title="VOD 2023",Missing (2023)
+https://1uncpg.bn.files.1drv.com/y4mDH850VcBg2R2C5ivleS0mjjIP9zqdWTWbvHBKK5aeZnnakb97ad1QMFkcux63aL64UwAdE9VjwB5EODfgkAx6plmaB2nZytm1iHfnaaFmCiriRhkS0UoIlyHkBLyU11XtUS9feLVp3OcovNJSHiObjptohExmmVbHOhvGGgHTtquUjOU0f283H1N-CIQQ3HKwu6bUa-vcn3uO-efVjafVQ
+
+#EXTINF:-1 tvg-logo="https://img7.cdn.cinoche.com/images/fe290c3d75e8a53c841f12edfe820b8a.jpg" group-title="VOD 2023",Night Train (2023)
+https://www.dropbox.com/s/ctr2usfjv9bphwy/D21.FUN-Night-Train-2023-1674777782.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMV0JnsaohDhYoE_aLMOI8zIyz7Uhr2Er48A&usqp=CAU" group-title="VOD 2023",Panther Swat (2023)
+https://osqqqa.bn.files.1drv.com/y4mY-uslm7LZjbUzNqDXfKhvlMh35DY_RZlX2UNmil6xc8bSY4A73ayRknCknz0TPw92Tl5XK90enhqpIrQOjk-btqK0HXZO84jQ9P_dvNK1hMTCYYH26yyDHOtnpThvObAX-gzCJu091GsuZSzidURzn_A3KLy-W0wUWf_w-ilJnaqN3X7B2_hMvqB5lNgk633EksXk5SfwVrwqQs0JVLVrg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQF8XOSYAeR1V7TbOmLm-mHpu4t86Zayq-HA&usqp=CAU" group-title="VOD 2023",Plane (2023)
+https://www.dropbox.com/s/bmvat7xcbxxvx4j/D21.FUN-Plane-2023-1675423071.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/Peter_Pan_%26_Wendy_poster.png" group-title="VOD 2023",Peterpan & Wendy (2023)
+https://www.dropbox.com/s/mg94zxkcfjoedvq/D21.FUN-Peter-Pan-Wendy-2023-1682681957.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHylI1lWr_n86mgJ7EKj7AwKTrwZ78XH813g&usqp=CAU" group-title="VOD 2023",Supercell (2023)
+https://www.dropbox.com/s/rvofrvr53a2wva0/dzifp-supercell2023.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFa8mfPMJyfnxsiuAapEl0FfaM-CM3Fy48Q&usqp=CAU" group-title="VOD 2023",The Devil Conspiracy (2023)
+https://www.dropbox.com/s/sivvl3w17h0n6d6/D21.FUN-The-Devil-Conspiracy-2023-1677941881.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AuyboR1pLnqgqV_L1uD8Rgz5rtU7GkMeRA&usqp=CAU" group-title="VOD 2023",The Girl Who Escaped:The Kara Robinson Story (2023)
+https://nsg5bq.dm.files.1drv.com/y4mNjakybgeh-ZU6uq253IAlNMXwaeZZ_BfrU0ybWWPL1n_ftSCgNwc1_cjFH16oCmJvXZT6I5sILrmd4ZQqV7Ylsjg4OekVvpUUgtpqpONgGBDAEE64UvGfxqiKM3eQWsYWnHmWtLA46YuV0x9q8UBgy61Laszmz0G_dxQl5XTfvtT7KonaxJx0p3EOZCZ9uBGnNq3jhvfR8Wwk1JPyawN3A
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJMiSnhpf2-5uINkdqEimQxu0Ygj9qg5PiA&usqp=CAU" group-title="VOD 2023",The Park (2023)
+https://8kpldg.dm.files.1drv.com/y4mXK2VOY_h17-VDctu6u-iu5ghwJLJo-1IbvR3UdUITcDueslfSG1g4gF8oPDWeu0yQTdckmnr-JNXIZU8KcwE8us0bY1o4_E6T6lK4a-K1owPjCNxJu_P0VO6aQBXx7lvpzvuKNQpfkPDMNz4RnK5qTojhWpwjJr11-LlgepIiKTLbJ23kKuqARDe8NIrZpGFdvR1c2BqYgMNY0RUXhyKig
+
+#EXTINF:-1 tvg-logo="https://s6.makimbo.xyz/wp-content/uploads/2023/02/film-the-point-men-2023-lk21-d21.jpg" group-title="VOD 2023",The Point Man (2023)
+https://d70ksg.bl.files.1drv.com/y4mIr9UBkryS4f2HBVTqu4f5dNCKq0nBd5NBNX1OS92SZHdY3xKnba3Vw85VKg0UOByEZVqUy4gn50wAnvivYVbdW3wVWTRD70X1Q4r-HMcoBIhdXvPwJy8u0xDcTLOETXB7c9NBd6hFyyTe5bwIPPJcwPbiTyMVTMulbiDZ-PHzT148F-hLpjlL3FqqOyYLYZdOFMC6K-QjhngUhtragV1rg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HBVwPX7CYEp68Vrg1qP7XtvBCj1iw-84Qg&usqp=CAU" group-title="VOD 2023",The PornHub Money Shot (2023)
+https://prishg.sn.files.1drv.com/y4mfLAt-N8De16KvT_FXfnt8y8AXrpxp8yvN3WbS06UQztzxbudI56Zy9S50F1orIK4qoZXOEiCkYDK-_PI-wPmRY_az5G62TYnQEaC87M0fuGHYAxohZFtWKSus5zeRD2nUPQA9KV6l8zdAV4iMAGgwbTrPhhZuRIizDT1QkNBHClYrpZsuuZU6gR48tYZez2cPbd875rhYsiplvz5weaXaA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tQ3iY59mZUR2vwlW8NkBheBTlgd5Tu_jMg&usqp=CAU" group-title="VOD 2023",The Ritual Killer (2023)
+https://rzwang.sn.files.1drv.com/y4mWM88yWuK8ZM-Uxp8O3OXlaLd1z1Yj371r2iiiHsfuN9bfvmcsYKCrGjFfybMT1ywIjznvgBADeAva2hMS2vfHGO4tyDDaNlg9LAmWaJn62OKog7kvtJwIZF3A5Am6tGICdJ6EwQ4dTgOdI5mTS8S2Bi6BnHxcVC7VJYu6YHlezJ3ODHkBFYO-kOMBcMuPd-HbqfYLSiRzhCg9qRLwMHoLA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-lmPlqROh8byvjOs_nWpMMDX7_q3RIBsMTA&usqp=CAU" group-title="VOD 2023",The Super Mario Bross Movie (2023)
+https://www.dropbox.com/s/jcq80k98w4al71r/driveid-160454-hdrip-1080-terbit21-com-the-super-mario-bros-movie-2023.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFkM2EzMjItYzdmNS00OGE3LThlNmYtZWM5MmU4NDI3N2I5XkEyXkFqcGdeQXVyMTAxMTM4NzU@._V1_FMjpg_UX1000_.jpg" group-title="VOD 2023",Tonight You Are Sleeping With Me (2023)
+https://dejwka.bl.files.1drv.com/y4m3apa3Z8UzavP7dTzRto86QOUa5KST4zazdGlUtdijtl4jKxHaq1bASyhZfY8J_T1OShyZrKGQaN5iv1tGH8HANxNWbj5gEheuVZ73Mwg6QckLliXq6o22UOixj7ci9AkCXd9Bk9qQDBUm2aDGZ8ktmkMgAB6oWmBNTYlV2D5c-12UOysQqUmkTexDR_kiPb62mb3RN90DjmAgVYbWlzY1Q
+
+#EXTINF:-1 tvg-logo="https://asianwiki.com/images/f/f1/Stolen_Identity_Korean_Movie-p1.jpg" group-title="VOD 2023",Unlocked (2023)
+https://www.dropbox.com/s/50xasxs7dpqp892/dzifp-unlocked2023.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEit5fixHp9gSvOReTJbcjbkGsAFPD5RqY-g&usqp=CAU" group-title="VOD 2023",Unwelcome (2023)
+https://d71amw.bl.files.1drv.com/y4mZy-3nzCjN4rZVz5s8UvThmii2bL0aSpcnyfNvDI1iTnooezXNhDjtS4YfvPdvcOzYXbiWhkgWr1z835TPx6820ZQIPHGsBUHVjJrfiZ2Lgk0Xb5mWWKT1swvbOXLJ0BAYUXg_dNp7pypl2vGPMciolaQ6WynbqvR_YwwwWsg3wyst0wBbTbjbki6WM3suPhB-Phgw0Xm1YIwlR5fbvlo3Q
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqL8zEfnW61W5koZRS3UB6lTFa8bCY5AEjbg&usqp=CAU" group-title="VOD 2023",We Have A Ghost (2023)
+https://os8ncq.bn.files.1drv.com/y4msw_INM7T5PYVeetJc4Yk5t78BXaBIjVgZ6LaxPaQ_KPjdetQN07WQMOwvKQAspuzoU5zuBHW0_IxQ6mjynZTo3bfEdUnOSFIxPtssgKda1hNi5xQa2mHya3JMiSRGJW9KtEKkDty3lWi2N3wneYfpEqmfOM6OsTyvMw9H8tsOqKDL1h9859iEQd_oGkl6C2jH1CpERhmqWDSXN2eKljXtw
+
+#####VOD2022#######
+
+#EXTINF:-1 tvg-logo="https://bit.ly/mrtv-pic" group-title="VOD 2022",Supported By @DZIFP
+https://www.dropbox.com/s/v245s1tho5jl0gh/mrtvkuinfo.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6rh1c39fvie0d5x/dzifp-2037-2022pic.jpg?dl=1" group-title="VOD 2022",2037 (2022)
+https://www.dropbox.com/s/h4mn0oyrexguotx/dzifp-2037-2022mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw0aPnAc0ngN937zugzgL8-x8RAWDw7RDyRA&usqp=CAU"group-title="VOD 2022",A Man Called Hero (2022)
+https://gwgubg.db.files.1drv.com/y4mHnAsj_zCGSf7_qfNDNU71K6fYMpd8RJUWmoc6g_TINRF44B28XJZm-1cZoslqNqwvH7SkfMYkN0sNv0to2YLqVSIitT-hIhsLjvC_emvi7MabctRWJJmDBft-etkHWZJz3pPWMyaIsVes1nrWho6WhDGmkzlyJSNO9ux79iArfTcKU_7kgDejsT6tfMX-wmIJwnd8tjQdq2ldXirskuyog
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZpQnBu4UFLZtDohP1mSZDuRHH8h2TcFRoIQ&usqp=CAU" group-title="VOD 2022",A Man Called Otto (2022)
+https://www.dropbox.com/s/yxbgpqn7jf1txsv/Nonton%20Film%20A%20Man%20Called%20Otto%20%282022%29%20Sub%20Indo%20Lk21%20-%20INDOXXI-A%20Man%20Called%20O.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-qeHxj1m_wzYnwPd9mOHujJJdcn70cGH4g&usqp=CAU" group-title="VOD 2022",Avatar (2022)
+https://ju4qxw.sn.files.1drv.com/y4mf07dCormcLGWYRn_rR8aB-5NNNlF1uohfQI3VcMPanpj6Pjd6dWORLfrhDCp5aCVMZlFQpTHlFa8Yf8PXROTIySSnYUzYMpLvt5HvR92aiOwzBfPAMo7oQJg1y_lmG3MOTsqGFt0DHtJrOEftp4v2wWq5zNxGOY5a9vwpBGPG2WY4pDzpa0wUXyBIUCLo0QrhRSOvgwZYH41W9dWLrJfzA
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/osbnfnb2ug3xtxi/dzifp-babysitter-2022pic.jpg?dl=1" group-title="VOD 2022",Baby Sitter (2022)
+https://www.dropbox.com/s/498l4dou7ykxauj/dzifp-babysitter2022mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJMWlxALWZOc1LyF9Bzis7KpXdE9lywkyJA&usqp=CAU" group-title="VOD 2022",BattleField : Fall Of The World (2022)
+https://www.dropbox.com/s/pco6pccpjhvvvvv/dzifp-battlefield22mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaPHZuK5LlBv7zAM3VamJBsLifardEntXfw&usqp=CAU" group-title="VOD 2022",Beast (2022)
+https://www.dropbox.com/s/kslicm2mqmk265s/dzifp-beast22.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgw20FY_9YyREjL8qIbAsaRVKnaLWyZWYRQ&usqp=CAU" group-title="VOD 2022",Black Adam (2022)
+https://h9yoya.am.files.1drv.com/y4mFwsvJUy9pjV6BFZzt_NQH_IkxfAcO9_7XDMGfsf-FbYdyx5zyea5mYLxhx8GtAOHdckhAjP4ThTKB0ppXpwzve56IxApPwqTyb1dSu6q_UB4AcLCKGMGhgGq-19Pq4QcXxNXv3F-zxGwChGry8KDskyL-NLHL88kN9FEgwOBhAr2MNLlDlRAKyKKxtrPSnBKf9PNBTziGX7ItoJX4W0Cig
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/87VZeYnyNFQrXz6d6bbU5tOXQ88.jpg" group-title="VOD 2022",Blowback (2022)
+https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss/[SAVEFILM21.INFO] Blowback.2022.720P.Webrip.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRpPWs6ORf208axptMMNZW-lJzIXVE9daHA&usqp=CAU"group-title="VOD 2022",Boxing Champion Mother(2022) 
+https://rc7j1a.db.files.1drv.com/y4mNANtz_-DaauDZiNsPfmC8TEaib_aQJPvKLLaDWHSZEuAJJfEOZptjOMOc_JrmGMT8dpo5H7y9Rw77V3ipkDyw6wWagdlPZ5YNcxB4RoBpzK7rp04PPTcuqOUyFKnv8-0SY5677RV6GU0nTkBfvAvqnLfCUyFYa5A2zWv8yNwH5639MqZFiePgZW17_wi1cIJHX5qi7qRBDBKB1MYi9hPaw
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU5MGFhY2QtNDg2MC00MjExLWFiOTktOTkwMjI5ZjhlMzM0XkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_.jpg" group-title="VOD 2022",Delivery By Christmast (2022)
+https://ekbyga.sn.files.1drv.com/y4m4NiZgg0UgXupct8gzrKLl3RV5X0juk3b2Ia50NTiNrtVZUPJ7HYDDl9QGIpSifiS8AFToA9cr-NFCuRe8GAwa2RoK3OjvWcfDbA9JL_qKD3875U7s0XvOxNn6K-tDhxvxfywtxy0YzJbp9gVm_IJZoD4zvmN9rGnKBpGc7sGeukkvfipM-S4nQFvYEABuum1MORLbMZhopRvBZJbWAsLLQ
+
+#EXTINF:-1 tvg-logo="https://s1.indexmovies.xyz/wp-content/uploads/2022/12/film-demonic-christmas-tree-2022-lk21-d21.jpg" group-title="VOD 2022",Demonic Christmas Tree (2022)
+https://ekyoag.sn.files.1drv.com/y4mC03ZJoswhF9pZw9pwL2XdZ4wQ2Nv7dtfIvHqVZ9HonF8hXgntJ9YG2JtUnnmjJhw380NWMFPogjlAAkV8ociR_HElEd0oYfr7AzMmZiOOJn47OWpaH-rxhZ1ixASZix314ho_sr7Pj4WDrYy4x8ZDsCfmgq108pNwUboZicRB7qE0dR48gIZ4nJQZWJpge_IsPtQoVrFDVTSlFz1ZzJmbg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0-9RDu3TIY6q8KRm9e-_hKDWflfnWyM8hg&usqp=CAU" group-title="VOD 2022",Decibel (2022)
+https://ju7a0w.sn.files.1drv.com/y4mfz5K2c7KTA_XxjZSfUce3dKlGh-u4M-QwZMK0mcRijKHAUhT_WKAdcmCK94Nq5dM6JCjuJEIqw9RnOcDoYtwosSNaM_LY5CqReU5vrHsuCxWfPGlRCwUzDafEB0M-d1o4wf3RAyS3wU6iaxpYBoJ5-VPBqJQJ-bHrOOVe57vgUQ8UnnvP_sPiDLllQ3LLSMWwMpr38Xydk-QlUfNeuA-_g
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg" group-title="VOD 2022",Doctor Strange in the Multiverse of Madness [HD] (2022)
+https://q4vukw.ch.files.1drv.com/y4mWl314iiKXe7ni1bfSb0p4uQjQ4KDKIPyR0aBM5XCwNDN-Ly0er1WuI7qhO6mnJKZkpJDKGZ1MbUcnYUoyn1lsSS6YzYHJEUowCvX5iN788nIOd9Ok2BkraHkjvpK4MfWKQjc602sSjanvE0WWaXMux5wEb-wjChyL3Z8UkO3V0ZbnYOK4kPLe7yznb0sSfHk_d-AfL3DUyNMldGCXm4XXw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnnkGXrSX2UVFi3psBjNSuZFHU7QAQZw7xOw&usqp=CAU" group-title="VOD 2022",Do You Think Iam Sexy (2022)
+https://www.dropbox.com/s/dm9ddo85y4h7355/dzifp-douthinkimsexymov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-S07QgUSlQD7jhO1hQGvRabigeQwS0yY-0w&usqp=CAU" group-title="VOD 2022",Emancipation (2022)
+https://232j4a.by.files.1drv.com/y4mAbdmWeM6JISRDpMdVSAanvwWphN87ye84jIQGslY2jn_UBy9P62wa__Lr23QpQE9P6ELH7x3VLUPPFD5EjMsFpbn0AyjS20IdUbAS3jlpaU92CellhouEzUO_yvZgNdcZB24B8e8oUyWcgIwKDJFuOVlFsFmwragIyPLvwTf88-zVMd1S2DfhPOcFvIk0I_2Gb8QVszzuP6fvc3yXnumHw
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/q77qpnhcn1cji9e/dzifp-emergencydeclarationpic.jpg?dl=1" group-title="VOD 2022",Emergency Declaration (2022)
+https://www.dropbox.com/s/3stt3lwj155w9z9/dzifp-emergencydeclarationmov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/cn7x24jt26e09cf/dzifp-failpic.jpg?dl=1" group-title="VOD 2022",Fall (2022)
+https://www.dropbox.com/s/p1u2dur8ikkekj2/dzifp-fail.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Ln7Q0UeV2w-Y6Yrr6pHhW_WezS6pFK6fNA&usqp=CAU" group-title="VOD 2022",Girl Friday (2022)
+https://qilfnw.db.files.1drv.com/y4mNQaZiwx8h84YfBqwiHlKE5D6BJr7XWPiTSWCgWAcvrMtAxPd6JYvwy9lBjraKS0id7X06sBZ7Lneh7WZnVoTWxC85niK9b4HOyTc6yYFdMhiGVRKOcYUhyO40_lFkwUeXbYKDGAHoO4KwRxiqMgmNiaN9neNIDsAGhgOmsrWm8eI2CwwY6ktSx4wXCj-VqS_bB6CUqrLoNEfNGU3B4NwPw
+
+#EXTINF:-1 tvg-logo="https://s2.indexmovies.xyz/wp-content/uploads/2022/12/film-halimun-2022-lk21-d21.jpg" group-title="VOD 2022",Halimun (2022)
+https://www.dropbox.com/s/75woq7pnb4wmp4f/dzifp-halimun2022.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/3qc94olx5oi127n/dzifp-hansanrisingdragon.jpg?dl=1" group-title="VOD 2022",Hansan Rising Dragon (2022)
+https://www.dropbox.com/s/3eww6jjha2sq0i0/dzifp-hansanrisingdragonMov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/a6mrkidofkqho87/dzifp-insidethemindofcatpic.jpg?dl=1" group-title="VOD 2022",Inside The Mindset Of A Cat (2022)
+https://www.dropbox.com/s/ijvazsg2c4lt3u3/dzifp-insidethemindofacatmov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/12/film-killer-design-2022-lk21-d21.jpg" group-title="VOD 2022",Killer Design (2022)
+https://www.dropbox.com/s/dqhtsottaiyq9m1/dzifp-killerdesign2022.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbICrw0FcucGF7SJ4Q3tW5DsEZqwXMIUjT1g&usqp=CAU" group-title="VOD 2022",Mahlukat (2022)
+https://fuwnqw.db.files.1drv.com/y4mmaEiaYKkf2tkf7-PSUtQnbJYMcR3U6LqNIpXVtdixqr6Jf3c-cUfuTXwJP86fuTlW2s6GgoTmZ6NDoWX02fptDkJwUw9DOdirBbQ6Hfu8fE6pEXD3HRNd06MHyvSdu1DMw19BmDzpv98AR0eiT0nRFZoXyoJd_-EZ-y1U600T9jPzPnCryEhTw0qu8oedovTeaMXb1hqrhDUsi3BJFwYPQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUg5OmcM-5eNtXnC9VmpGNjKLPZH-RWhEjQ&usqp=CAU" group-title="VOD 2022",Megan (2022)
+https://1unjqq.bn.files.1drv.com/y4mBlrdWrTgFP8Vtuz2oaJVP2-BZp7xKgtTd8ISbXn8UMISN5fqT4MES6CoUm0uJqgKcQzHs7NCEV7GZnec1qv7L6knuIpc6gxnFgwxS64Zz5RwP41evwQ-5J2X3Fnmk3nv3GdXLPyMpoaXK9IvsnedcAE1vAnBSweT5WlYRJtJMy0DbkO2vqE8BPS2AqHfP1vwggWX21RuIQo8GgX72WfN2A
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Morbius_%28film%29_poster.jpg/220px-Morbius_%28film%29_poster.jpg" group-title="VOD 2022", Morbius (2022)
+https://h9yhgq.am.files.1drv.com/y4mrs7uGKhpXTaP178vnVDZXWj9bY8cHAkIQqambQ62-wp0uSFQpYzJFn0VSGvsgVa4zH_pdfLX51XLGsG7PuryW1hMvqcQskOrv_vpFU-cHOvYpgefzec6x0_oin6QZPROA_Fx1pgQoD6wUOs1D1dUD50UHe0vB0OZa_rXOOL1Vq88XwPq-k-BKBo8vK86YElLnojyC4ropOCtwxmyOZ3IRA
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qb774gqc2r37txl/dzifp-orphan-first-kill-2022pic.jpg?dl=1" group-title="VOD 2022",Orphan First Kill (2022)
+https://www.dropbox.com/s/hn7x2edt7o1jc2y/dzifp-orphan-first-kill-2022mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/edRmta5mJHrnmRmcHiH3RVDtaZE.jpg" group-title="VOD 2022",Runway 34 (2022)
+https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss/[SAVEFILM21.INFO] Runway 34 2022 Webrip 720P.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/jFwdKKDmgzKjZGFnSJma7I5XMpk.jpg" group-title="VOD 2022",Sarkaru Vaari Paata (2022)
+https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss/Sarkaru Vaari Paata MBOM CHANNEL.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wbe0giocn7c6ofc/dzifp-seoulvibepic.jpg?dl=1" group-title="VOD 2022",Seoul Vibe (2022)
+https://www.dropbox.com/s/zroppf9jsktrqpl/dzifp-seoulvibemov.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zSI_2RfKldrShIp8DLPk9EWnDCNg3kAzjA&usqp=CAU" group-title="VOD 2022",Sugar (2022)
+https://www.dropbox.com/s/mig53ifo0k9ufs4/dzifp-sugar2022.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/nloojh65ppatzsu/dzifp-theadmprojectpic.jpg?dl=1" group-title="VOD 2022",The Adam Project (2022)
+https://www.dropbox.com/s/uu6w9xveddxg6yu/dzifp-theadamprojectmov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjybo-WjYZJPVMGd1YP2W212CEI_JgvMa6VQ&usqp=CAU" group-title="VOD 2022",The Big Four (2022)
+https://v9hytq.bn.files.1drv.com/y4m2SI1NOoByt0GNwrUoJDihbrjPsFRXk8dCla9QREz5FOLxsuyIgGSm6mrOyZXj0wLOE4itpz-Nas8_tjv4kqbgmSISMRzMTBIfefpkyjxdsWP1qH8Q1Q3GuvL6QHKPp-2sZZBed5HNppkj-xq1s1mAVW0qCiL0s4ht-CFjJPKO1RfFE9rbUrq57FFwXs4NGA9pHKkiY1WiAb-3u57wTPVXg
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRnS8FThdjcXLFkk4_W6iAWNSku2Jb1oq9g&usqp=CAU" group-title="VOD 2022", The Closed Door (2022)
+https://m.vidio.com/videos/5159043/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/hv5cvrf0tsuc917/dzifp-the-escort-wife-2022pic.jpg?dl=1" group-title="VOD 2022",The Escort Wife (2022)
+https://www.dropbox.com/s/v2jimnasur8e7al/dzifp-the-escort-wife-2022mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlLe0SGqRcwpb1P4HYU2XC2U-kbGC__icv_A&usqp=CAU" group-title="VOD 2022",The Harbinger (2022)
+https://www.dropbox.com/s/9303eop0ma8sex9/dzifp-theharbinger22.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi7VeXT2JW0GjV38kxio4KlMcDEKfA_mFacQ&usqp=CAU" group-title="VOD 2022",The Red Book Ritual (2022)
+https://lckodq.bl.files.1drv.com/y4mJc7WCDE1r5O291p2JFDq0eaYZPzwZO1NRv3y8R_Bk44fKOCmlcjtT6b8gQXQcElpFwUgkMTCx4dL5Opnp046CNarhTLzqtJHOTh1yoHOWz62qJXeKse-4Q-G9m3GndBLpRhXsW_CkdOSOoKpNjJjmpYw0kEnz_Jl9GQw4KY_FPv2UEW9GC60XFFKR4yVo3WwLeq7uOHZGWQQpMiS57hksA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYb9ezjGiXW6zRYFTa4s94XeUdPnnhSIkVWw&usqp=CAU"group-title="VOD 2022",The Roundup (2022)
+https://wr2naw.am.files.1drv.com/y4md5C12kBc2BD9JzXNbAKdG_lAhGDs2HAjAVCHLg3qi1Scxq2Psg-LtYKa6eXTveqZh3zP4gSalN0PKxtqfHy3LybLu531G_JMW_V97Mm8VHD4VVTzEsY4ICFW561cIWd2f3Bi905OfXEBi0H7iBP5wwr2BklxS4DTODavxGJU20FBwZqZx0vyToY4C7OAIbFNuNLlRK60Fzp6cUONszEY5g
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/9bexbcqyotmnmqn/dzifp-tinycinepic.jpg?dl=1" group-title="VOD 2022",Tiny Cinema (2022)
+https://www.dropbox.com/s/0nth6640gsdl3pq/dzifp-tinycinem.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/puYMnAhpo3EL7y1cbA3ZlOxSeZh.jpg" group-title="VOD 2022",Top Gun: Maverick (2022)
+https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/BOxOpiss/Top Gun Maverick (2022) HDCAM - ZMovieZ.mp4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/u98xr2on34elcei/dzifp-where-the-crawdads-sing-2022pic.jpg?dl=1" group-title="VOD 2022",Where Crawdads Sing (2022)
+https://www.dropbox.com/s/xr2fmohn97mznbx/dzifp-Where%20the%20Crawdads%20Sing%20%282022%29mov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/81lgp1qebcofewm/dzifp-zanox22.jpg?dl=1" group-title="VOD 2022",Zanox (2022)
+https://www.dropbox.com/s/3rg3ja4a9kd9ztf/dzifp-zanox22mov.mp4?dl=1
+
+#############VOD2021##########
+
+#EXTINF:-1 tvg-logo="https://bit.ly/mrtv-pic" group-title="VOD 2021",Supported By @DZIFP
+https://www.dropbox.com/s/v245s1tho5jl0gh/mrtvkuinfo.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQydAHQWWIts9NZP3b71cGsrFckwCEQeTGTtQ&usqp=CAU" group-title="VOD 2021",Army Of Thieves (2021)
+https://www.dropbox.com/s/4yqbirhonvujsj6/driveid-132162-webdl-1080-terbit21-com-army-of-thieves-2021.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Encounter_poster.jpeg/220px-Encounter_poster.jpeg" group-title="VOD 2021",Encounter (2021)
+https://www.googleapis.com/drive/v3/files/16PXCqg9yitNAoJGESRcV49aZPZCmMfLi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-UzLedrh7B1G6Z20EHpobIUlN2UR29KVNg&usqp=CAU" group-title="VOD 2021",Ghostbusters:Afterlife (2021)
+https://1ummeq.bn.files.1drv.com/y4m5xqg2IwdGcXQDFuRxNOnFMdvcFGQlIougYyJiUwrlqu8AsjxQJone-E0LOZ4I7KUKcBd6X-Fi0ewmD1J7JeJcV7R9dkkfVIGS2AkY5RZgCI5lgSWnXWppooQOYySqVNUgOM2rAaaqM7GIsiJUrx3HL6wbivnxCtVWpHxUNUeEsfcfhnVy2dDZdw8lTYhWTQ5GgsXE1YSRlAjxNJ15AD9oQ
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/u3dlkqvcriaqkn8/dzifp-ratdisasterpic.jpeg?dl=1" group-title="VOD 2021",Rat Disaster (2021)
+https://www.dropbox.com/s/15s73oravqe2ice/dzifp-ratdismov.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="https://s0.indexmovies.xyz/wp-content/uploads/2022/01/film-tokyo-revengers-2021-lk21-d21.jpg" group-title="VOD 2021", Tokyo Revengers (2021)
+https://www.dropbox.com/s/tuvgzlwven20bqo/dzifp-tokyo-revengers.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOAITU5INupt4_NKdiFUAMYD5yEU_DzbJrg&usqp=CAU" group-title="VOD 2021", Yellow Dragon Village (2021)
+https://3vllhw.ch.files.1drv.com/y4mbP4pdtTtovHS9r27VS8i0csOgh7_sQnwQws0R-RTDuhxvnlaHHWYY_d8jcGE24dstRf-JhxnLEKjae_O4AanuZA-pll4dJTJm552cXUomk4C4lqKu0p_vr78EWx98f8S-0t0R7JHqSW0nd1T4g7VfO95ldlPfEMaNVf06cbE4XjQaP2Dg1qUtikxGOLexUJ-IFKHVbQ6WoaYfhjDvZ1plA
+
+#EXTINF:-1 tvg-logo="https://rc5iya.db.files.1drv.com/y4mC2bhkHadLfX57oSb0ud3ZaR3fqgI-YI6bCeJwjMYK1JPVu7SBLjRoShlNT8aa7DR4IFaJmouoC11BGHC7gXDCtOJ6xnorYA6c89nnhj6Omu1yJpAMA5GvKqxkfSkxeopkWSN7K5jn1OHAowtcd8A0_bftGEfOnt5RHmMpJnO2NG3is3uh74Nz3CYjhBvvP10t2PkapRh80nr127mk_HWYA" group-title="VOD 2020&UNDER",365 Days (2020)
+https://rc4zvg.db.files.1drv.com/y4mjW5KN3lvouxY8s3QaAB6lVPweSQga_wybVVZTU68Xikk0cP0NEyU-g5oDSLrA8PNECQF-pCaXwoqgfdj3NVTBUjs3KTjFXgGmgpQ4FWJqUtDgvMqqMj5HnvehylMxVUzlkjBJX4Op-7Mmd6aBvI6scfnav4qQs5m3lWoVgzts8aNm1kHmbFUuxcxdLZlMC3Zj5xq6LeT_DkWzcEJ-Pdovw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwIKZIZjrTPPnY0LfzWtdt1qAd8FncQKW5w&usqp=CAU" group-title="VOD 2020&UNDER",3G (2013)
+https://m.vidio.com/videos/5203886/common_tokenized_playlist.m3u8
+
+########2020 UNDER#####
+
+#EXTINF:-1 tvg-logo="https://bit.ly/mrtv-pic" group-title="VOD 2020&UNDER",Supported By @DZIFP
+https://www.dropbox.com/s/v245s1tho5jl0gh/mrtvkuinfo.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoErQeTNvsHtT9e5tsQ6Q5Eby6uTCjIJ2nUA&usqp=CAU" group-title="VOD 2020&UNDER",Alive (2020)
+https://lv2rbg.ph.files.1drv.com/y4mcwBj9BjHziVvHDvBa6Zq5cVYA6yNNjzuh51muXdUBJljR0sspQ2MTbu8xaYv2Lun-zDzS0AA_7bEkbT1Ki8K3YvDn6vruXvE-qTGjnwSYRoB7HrtDfd28_adh6_BwmINt_Mu0wbk5D-wljhT2NNAuWjDLB-P-GoDgflM2a9gB2L-b4qaBwyqgw63znvzXE-jln9Rx1xanysO2j8NvoB8fg
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zodDzU5hL._SY606_.jpg" group-title="VOD 2020&UNDER",Annabelle 2 (2017)
+https://ia801400.us.archive.org/35/items/SEREMM/gm21.Annabelle.2.Creation.2017.mp4
+
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/gIUGY3y2n5jifFMZZZXkCK4-LJYPbWEVW1Lt4GeObQs6UIHULJTs_ExHDUn1-9SLNTI4UAomvAmEQ9az3ov2fD25swERmnRmTICeLaDGFFAZm7dNiL28=s0-d" group-title="VOD 2020&UNDER",Annabelle Come Home (2019)
+https://ia801400.us.archive.org/35/items/SEREMM/gm21.live.Annabelle.Comes.Home.2019.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReekn8OhgNhZk2gLEhKsDC9Eq5hFyIL9bUcA&usqp=CAU" group-title="VOD 2020&UNDER",Anta Fazila (2018)
+https://m.vidio.com/videos/5151724/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOpneLmEgLyfv8qiHoRhJdh-yuCQ7qZNDbA&usqp=CAU" group-title="VOD 2020&UNDER",AntMan (2015)
+https://1w5q4g.bn.files.1drv.com/y4mSJm-GHomyGQWnLK83QUyn6IvfVwyhGyBVH2y-BQ0pPJZdChZOql49L-TTbaFqb6yNobmZt-S95zJmzQW3UvEqa4hGSXk6efEbPWmy1obNGHtzCVLDLtPmCCBdHzxjaPX_L5R1ajp5uwN8hkiC-aeHf0KqZG1BpKhU80Myxy1SokFJQtdEcV7A6MyMp4BZGr44cenc3z-4xaCYgBZ8Y2o4w
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6KwrbWG0NcsMkO4pKCzUvSI99Iv1TnKG5Q&usqp=CAU" group-title="VOD 2020&UNDER",AntMan & The Wasp (2018)
+https://1w5jpq.bn.files.1drv.com/y4m2JVRwVPMXxMTzaklJ01_RoQBJYXeJ4KWAb63UNTIPpex2_euIZRTGNRoEot_1NeLWOp6w6BZBcoHGlslyS_1qfxYnXQNIhbOP4T5Ac4xHx5dDhdKeB7qkEsx2CyjsFUR5dw0Y9bIRVnpFwVfCr4KE3x-Fg3qxfFzltty5jyYLIxLT_8vq2xliSlbAqdbgeuR3oi8Ids8Sh3Y5XQ15a384w
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUSAdYtsG5zleZ0bboOOFVRU3Q51zpRViXQ&usqp=CAU" group-title="VOD 2020&UNDER",antrum (2018)
+https://www.dropbox.com/s/jer0jgibfva5op9/driveid-104575-terbit21-com-antrum-the-deadliest-film-ever-made-2018.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSsbuHlv4cs-jW4rTUEJBIc9aQ7hcJ6LXxTA&usqp=CAU" group-title="VOD 2020&UNDER",anunaki (2017)
+https://www.dropbox.com/s/k5r4eh4uw6s6ymh/driveid-125415-webrip-1080-terbit21-com-anunnaki-2018.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5c/Apocalypto_poster.jpg" group-title="VOD 2020&UNDER",Apocalypto (2016)
+https://www.dropbox.com/s/f4592lhkkj5l0kg/dzifp-apoclypto2016.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/Avengers_Endgame_poster.jpg" group-title="VOD 2020&UNDER",Avengers End Game (2019)
+https://pudfwg.sn.files.1drv.com/y4maU47cy_ilMXGoDyW5r166zR2b5G0c0w_LikE7iqNvOuDqrsZHer29Fs9Hzh4HYXzh3iV31AQcn2dcbtgqcfIwP_iqAoObfVf3J2r8LoPUz3cA9TnBFnmgdTZy8p6euXZ0Eu4oL_OdMVP7_ODknEt9Bn5Exwrzm6Z3w7jV4QOTWqdKoOB5OH-XU8XDDdY0aqW8EFO4luBMXnUvhZUCMzuzg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Best_of_Times_%282009%29_film_poster.jpg/220px-Best_of_Times_%282009%29_film_poster.jpg" group-title="VOD 2020&UNDER",Best of Times (2009)
+https://www.googleapis.com/drive/v3/files/1t8LQvHW-kUen31vk5JBvd5W20GyqUhCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/otwm27xwgke8orh/dzifp-brutalpic.jpg?dl=1" group-title="VOD 2020&UNDER",Brutal (2017)
+https://www.dropbox.com/s/bnr2dsisvl40yjm/dzifp-brutaljap.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfxQhYKM5JOfHNCYsQTN06EqUsYddfzMc99A&usqp=CAU" group-title="VOD 2020&UNDER",Captain America:The First Avenger (2011)
+https://1uonhq.bn.files.1drv.com/y4mwWdl2-ur3pHGdlxOieGMghH9TV4ILGYHkgDptmBJL_VOUONgcA2u96JHSfBBS_maTFhMS8NzMFNmCDAyuYwv-oSP2huSV3ANbcfiHbqEUt8H6qRbwSOwh01DzRZF9ro6vzcB2Cv7JeDC2wqIvbPv__ckftNxn36WlZNVhwj7uYf_CRMX7Vk2cR02Sy0ddUXgt_67iGdTgSmQXmqrWSZLYQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA3F8qpV7spmZ-ODH0B7XdZEBoj9mOqNmzUQ&usqp=CAU" group-title="VOD 2020&UNDER",Captain America:Civil War (2016)
+https://q4uq8q.ch.files.1drv.com/y4m53raq3anFTfojalGdhouI7Nc2W-1OWS_xuF8LuNlE7fVlfEjkRw26KGRUaGhWucaV1830stMZnJ50KToJXxzAqzxN3Amsi99P2wC9GzDFjfsx7QaiK3EAiEJn4FZFv4j8-yQImsJpRsnfOevO4LRKf2SL319WYYLlZqkF3MruJz2udLiusCOfODewIgXd6PM7xtWZmo8tZnbX-yuHv2WIQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYvYy1SSauDDD3--fHTjByaoLqeQr6UYyGvQ&usqp=CAU" group-title="VOD 2020&UNDER",Countdown (2012)
+https://www.googleapis.com/drive/v3/files/1RAqWtug7WmtmrfzwvohJG9_n9iXk1CCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMlitdKBsCob_PRjcQQdxt2-yPj2VGuVnGA&usqp=CAU" group-title="VOD 2020&UNDER",Clash Of Titans (2010)
+https://ekbddg.sn.files.1drv.com/y4mlHX-RMnJRUsi8PiEinWCHVjux0f28Whd2AE7eo5SsueAMYM5nWTJ9OPikA7ISdr7keA1K7pyk_IICT3JG0YHgQ8Zw3pBqIWnaTZwI6arkbJDgWc3YrIM2m7C7-RzDWgXvS1ML_-gvJexbKj3naIlmgotQSMEUZlo_JmN34IA3B5p5IPSM_AcjqQFRcIm4BLq98L4z0HxOYp8kTqeHd3Xuw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBiTxQddwGdoZfeTE9Lv4Bkeio64M__si3w&usqp=CAU" group-title="VOD 2020&UNDER",Close My Eyes (2017)
+https://m.vidio.com/videos/7029816/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTjA5zWGBIxJqlewv7SQSc42xOv4b_LJwkJg&usqp=CAU" group-title="VOD 2020&UNDER",Dorm (2006)
+https://www.googleapis.com/drive/v3/files/1L6HtY85Xt0lbPm6RqUsX8CoNadMdlQc_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/jfw2yf7aujmohr0/dzifp-drivencrazypic.jpg?dl=1" group-title="VOD 2020&UNDER",Driven Crazy (2019)
+https://www.dropbox.com/s/pbgj2ppo7lij53n/dzifp-drivencrazymov.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsLMkQ4S4EbGpLacotepIEXrmk3KR21b_hjA&usqp=CAU" group-title="VOD 2020&UNDER",Escape Room (2017)
+https://m.vidio.com/videos/7023720/common_tokenized_playlist.m3u8?digest=-1d7be
+
+#EXTINF:-1 tvg-logo="https://ph9rxw.ch.files.1drv.com/y4mt54sMQYjMhOmX_U3dHKunGF4cA511Y00geHT0cX08CPuh3pMo1ZbcJFNBElr1bVm6qGQvIit8DhaSXzdZ-jrxUpV3t6gVBB47KS7me3RuVEWUJCHiy0vqORrYI0snVRxefxsviepZ6rHlbJHB79-CeyMdiaCdlgmTOoMbQz4LlsVg-mA0p5NKHbUk42JyVcRjZrbXRCJoHW-Ryjj8AT7lg" group-title="VOD 2020&UNDER",Fifty Shades Grey (2015)
+https://phphsa.ch.files.1drv.com/y4mQHOFTRyqqaEtQDoksmT5VcpXdw88BYn-qI-1Pa-E13IGeErXq-BkgdkqmcjduXuZKcjReEoSBBeUe0I4_6AHqPSar6eWIqE-fdC5SGbIFFd3KoL__paM5PjLdNwVHjgcyjauaZq-tkCgMTA4R_zJfpYMZ8DwMj-MKEbUNDQLtwkwlBLkZWLenELSvsnVK2bTtXeRmlZ7iri92zGlYWkLXQ
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf05Ga13P1JRojmDhOXJKgwWaSd7ybmOtnOA&usqp=CAU" group-title="VOD 2020&UNDER",Final Destenation (2000)
+https://www.dropbox.com/s/vybli0d77g2dhj0/driveid-123022-terbit21-com-final-destination-2000.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/piz2ncu70yknqlw/dzifp-girl-lost-a-hollywood-story-2020pic.jpg?dl=1" group-title="VOD 2020&UNDER",Girl Lost A Hollywood Story (2020)
+https://www.dropbox.com/s/sxsrkj8gvsx1psl/dzifp-girl-lost-a-hollywood-story-2020pic.jpg?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ta_nm05nFK5WD99r19LSCqrs87ByWXmX8w&usqp=CAU" group-title="VOD 2020&UNDER",Hello Mr.Billionaire (2018)
+https://www.dropbox.com/s/xgio0i3aodjvufx/dzifp-hellomrbillioner2018.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCIpyo08BfCsrx8tmyelLj0fmi-fq8powTug&usqp=CAU"group-title="VOD 2020&UNDER",Heaven And Hell (Wong Jorn Pid) (2012) 
+https://cdn.jwplayer.com/manifests/LQyO9E5V.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlEVBhLnvty1UFDLqSXCd1BNUWJQVZB40zpg&usqp=CAU" group-title="VOD 2020&UNDER",Iam Hero (2015)
+https://www.dropbox.com/s/yejssbcsmc5f2b3/dzifp-iamahero2015.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Immortals_poster.jpg" group-title="VOD 2020&UNDER",Immortals (2011)
+https://m.vidio.com/videos/2006203/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Iron_Man_%282008_film%29_poster.jpg" group-title="VOD 2020&UNDER", Iron Man (2008)
+https://dl.dropboxusercontent.com/s/wjygq8gdl6d9xb7/-%20Iron%20Man%20%282008%29%20jf.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/Iron_Man_2_poster.jpg" group-title="VOD 2020&UNDER", Iron Man 2 (2010)
+https://dl.dropboxusercontent.com/s/qdix7rehc2x52t2/-%20Iron%20Man%202%20%282010%29%20jf.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmGyZ0FFK0m4HHK5PjKAiGBp9gO_OBg70bDA&usqp=CAU" group-title="VOD 2020&UNDER", Iron Man 3 (2013)
+https://3vnmkw.ch.files.1drv.com/y4mo57RONqjUjzQ-jwOYJlydv9HpMqCKEijNP-jTce6e9kstl37Nw-sKqTGZE2XU4_P_antlTZ4CinYrmIqtdDWjyLwUgbdRkPy1TB_gR_BUSzwVUCCpElcxwD083yAFNbPN7rDIYuSxvRrgI4E9vmha4mNS0P_xEW2IahMaiy-BrFiNqnXOKGlO6KGU7cXTA35pH9x-Jmwoxa-iLUBu1N9HA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqURqD0BSNAHzrJqgfvL2JANFNzOKv0Y7ig&usqp=CAU" group-title="VOD 2020&UNDER",John Wick (2014)
+https://www.dropbox.com/s/gl6ctabivwp7fug/John%20Wick%20%282014%29%20-%20Gabut21%20Nonton%20Film%20Streaming%20Online%20Dunia21%20Layarkaca21.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJcneezR32yC6zcackktJCHT2ABYGszeJ6w&usqp=CAU" group-title="VOD 2020&UNDER",John Wick 2 (2017)
+https://www.dropbox.com/s/lvrcjbaeehtjjij/dzifp-johnwickchap2.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxtj5NfgmtjDsSGMkFDB1UCNCeEVAfigZ_PA&usqp=CAU" group-title="VOD 2020&UNDER",John Wick 3 (2019)
+https://www.dropbox.com/s/trtqyephtb3mmnc/john-wick-chapter-3-parabellum-2019%281%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://s6.indexmovies.xyz/wp-content/uploads/2016/08/film-jurassic-park-1993.jpg" group-title="VOD 2020&UNDER",Jurassic Park (1993)
+https://e2ktna.by.files.1drv.com/y4maEexMaAAZ4YLeiOOkAwqdx3OESDKPfMvvTBToHXwmuzENR7D-VelDDkCWIwcypS-ke2ML5LCkOm_oEPh6LUXnVsko_klJInwABKy0h5O4peSFbEGExiToR4AEX_f03iqGi1_grcaPqFUL_ZlOdKMcMg1y6tdgc_SCgarUSccXq2OMfQq9GbBmwZaBOU_vZpq5NKy5zCK6KAcWnrhZP9O3w
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OEaS1gb-xZ6qGoy9X8PU4pNCXAf9t1369Q&usqp=CAU" group-title="VOD 2020&UNDER",Last Chance (2009)
+https://m.vidio.com/videos/5406729/common_tokenized_playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://rc5psq.db.files.1drv.com/y4mfIPaIswWzkWkNI-DHZLJvgUG89cLFaH3yaq7bfHU-aYQlS4yJcin1y_rj_s3aWpRiNOJ8zkNZJouiNE4qWFkPioJ7_8o__5qzncOT30RJYx6-ov-NlqEMrvmtyNu5frB6uC4N9d7V6IkDonEFppGqtndMDmImtX9cNRnarUMzIfHGDMQ0ZPWJrR3OwVabscC67TAieJdXoG44L_0qlgDJQ" group-title="VOD 2020&UNDER", Miracle In Cell No.7 Korea version (2013)
+https://rc6fxq.db.files.1drv.com/y4mbbOearWI5vZgbLLhHhSMRnP3MvAMOJT5Re1-BE6l7PpR30W2_uSrE4Rqg4YsWf5_BC1nCxPAvIYyoj-kY_2By30LofLZ8c7KAHgWmmg-IUU5FMTp1i7NbmHJXIPpMejhPijCqNEcAgCk6LqnF8kvg0nKqFUIHogl1DeR48BVlKVB3wgi685vj8J9CV40SfqBThdFiLflNdR9gCJN9v_gFw
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/eybzszU.jpg" group-title="VOD 2020&UNDER", Okja (2017)
+https://4prpea.by.files.1drv.com/y4mRJoyOVIWsmCya9Ja3p6fp_k3SioM1ZlaHnMm2lIjPbzqWsWdhZj4QwjwZ9M5jXEJHd558WE169RUkL_FiBRDJtaqUzCtygyKBdVbcH02x-4wAiNZEeMUt2Jc7gVV4-nu0PD3ezZwCnjgH6n5zd72lTzygR1_vwTnOOuKpexf-U7Wc9aNTnoLaP9_Jgq5Di9Fzk3OCBFeOD3rwNTEbmRVEw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNjbebV9Z1RJihjUCntBTem39Nq0eAt-raw&usqp=CAU" group-title="VOD 2020&UNDER",Operation Mekong (2016)
+https://v9htig.bn.files.1drv.com/y4mAb3gWPOBbTj9-hScyzY_9wEyDty4Co_pz5UbQNw8TXTmXaKe6ZRRf0mE7Iqi1_FzhDHlFPhtKprZQlBVOGQ_G51sLojQLDagKHa5nZdymE-Vtzusx8Qp141PTAWIjf1y6faSP2DpEH4Lz703pPAEBz4ckKEbD_sr-teLH1xSJCiLBqwvbmlFaGnEIWjVAi1NuOk6PFUELHU0BKomuuEmsg
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Pacific_Rim_-_Uprising_%282018_film%29.jpg" group-title="VOD 2020&UNDER", Pacific Rim Uprising (2018)
+https://dl.dropboxusercontent.com/s/rinppgsy74iz7x8/%20-%20Pacific%20Rim%20Uprising%20%282018%29%20jf.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlWiRTqFN3AsJdhyWvApxC3A6znQcHXdH1A&usqp=CAU"group-title="VOD 2020&UNDER",Sanjana (2018)
+https://m.vidio.com/videos/5158390/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Skyscraper_%282018%29_film_poster.png" group-title="VOD 2020&UNDER", SKYSCRAPER (2018)
+https://dl.dropboxusercontent.com/s/vho2go25eggmjev/-%20Skyscraper%20%282018%29%20jf.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYST1pcCuE9Dx355Qdved_3hU-vLPlhoqDkQ&usqp=CAU" group-title="VOD 2020&UNDER",Slaxx (2020)
+https://wxisfa.bn.files.1drv.com/y4mvlsu581gstLAFJsQUNnqMMaNdoV0cUnzaFKDd3wrEKcm9EdwFQwWP3Y4UGT-y0nOIE0ITutfazAqsqRnt6qOKhrDqIsxz_Ci0ArfRikIJWT5LQZA2g92bNLCCUEp9TP0phjuFRdE8sJz375ZehTbQcI5vXtpRPk-WfjY3v4SzwGKXLdxWuEgQ7IOQukJpBMYW72zZBP0GM7MXmBwDZ2o2w
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8psqP_2kp5GTTBmWwqzg01iLxN16Gukii_g&usqp=CAU" group-title="VOD 2020&UNDER",Swordfish (2001)
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bU6nkTSbOpipHz8rpR8gcIQuhJeQu70tPw&usqp=CAU"group-title="VOD 2020&UNDER",Tai Hong2(Tai Hong Tai Hien) (2014)
+https://cdn.jwplayer.com/manifests/TQz63n4y.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6MNFv2riwvonxUUS2On46xu1azKlhO5yhvQ&usqp=CAU"group-title="VOD 2020&UNDER",Take Me Home (2016)
+https://cdn.jwplayer.com/manifests/Pyq0hajt.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVc97hMF5trmbLebuwmz2Fc36GghM7ejpdcw&usqp=CAU" group-title="VOD 2020&UNDER", The Gangster, The Cops, The Devil (2019)
+https://wzc9ha.db.files.1drv.com/y4mcmwyIr70BxEm3JWm2E8cwGQ1TOlVc9QtXMF_SDeaTajHlL1dE1Cb6sCTanOEi5xWzLuSZ4IrdCq2VvVcwBZkxcGF65Sof9jd9LB39_r-96-ZwimSvu5j_qA5cfEWbvjbw_8txPsnUkWv-XzdFM97B7PdH_tGSCF25IvD_Ga0GEhE09MhRfbHR-Xkg6MIohS-vt3qiPyJlOSLVOVhccrZ1g
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEftvW529tdvwEvrKjKdLv3uN-za-5vtct4A&usqp=CAU"group-title="VOD 2020&UNDER",The Meat Grinder (Cheuuat Gaawn Chim) (2009)
+https://cdn.jwplayer.com/manifests/GfVm1Q4x.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/The_mummy.jpg" group-title="VOD 2020&UNDER", The Mummy (1999)
+https://2310cw.by.files.1drv.com/y4mXMfQn3Dg-avJvq9FW-guEAlFtH7mZzMwbjkpNyaZb9D3-0tRcDiUgCpMnVkAvpY6Caf-diVu8RiORClDHThWcjjPk4V0Y4ioUdEqu3A1qY_vthRbJw2Cy6T-EtlmymbQiZqC230BHe5cahgStu5cX82kNRWiygt7EVNtr1mydXjWPu0_oy_KVunpad4_PtzLvZNdl5HaFiRFTQlkePzZmA
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/The_Mummy_Returns_poster.jpg" group-title="VOD 2020&UNDER", The Mummy Return (2001)
+https://e2nppq.by.files.1drv.com/y4mslY73F_TV6pxcA57EA3lQG-z8SW5P910Y09ZiCQTub5DTFrjHlLZa6qLAxYPCbhq0bpnbWQueD5eUvwiJ6przTyQmt68m8k-4RyJyAarYU5DajUDACs8O__vHAAQX8A2Oqt1eY8A29q-E4vDk_aXot81LJ0tJzyjvnJZj4NlcHeerlIvi6R0GNLErv1voxPFxVM2R-yM_9QR59OZKW0FoQ
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrcaYafzZs16_HI9HPQqMGfHkPggOuTD4j_w&usqp=CAU" group-title="VOD 2020&UNDER", The Mummy : Tomb Of The Dragon Emperor (2008)
+https://e2npvw.by.files.1drv.com/y4m028tTPKwePVeXX7elqEzR6gL-zP9dElTIszqYdUjWrIs6x6Di2G6eNse90cBKYuQjprwSNapjfA7PaWM_ziAvOjnvImXeX1KzrQgNrCoiTca3yy-Oe3PwpbVgtQiKcMUbRXayA-XGgoPJ8WaTdSQF0XdvS4K5xL1R7N1R-xyLClBiiKLo3BfBjMjyZQ9nxzxCSHXFlQyV_pOCZ4i4J4oBA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt__CpMm3xuhamyquD3XIjHK2QpMNsLolJMg&usqp=CAU" group-title="VOD 2020&UNDER", The Equalizer 2 (2018)
+https://dl.dropboxusercontent.com/s/0tjkh8s85wnax1w/-%20The%20Equalizer%202%20%282018%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClgtmwYDmJ-aqS2-dwl0zxQT46rGv783fgQ&usqp=CAU" group-title="VOD 2020&UNDER", The Incredible Hulk (2008)
+https://dl.dropboxusercontent.com/s/ic4littizw9k2zm/-%20The%20Incredible%20Hulk%20%282008%29%20jf.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdZWC6NHhaFKHDAibAM8PylLqDp45mKzR_rw&usqp=CAU" group-title="VOD 2020&UNDER",The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcoecv1AdptFYKFAen9gIY72aobEC8qnxjrg&usqp=CAU" group-title="VOD 2020&UNDER",The Three Stooges (2000)
+https://www.dropbox.com/s/3mdp9b9zdra5zfi/driveid-137786-webrip-1080-terbit21-com-the-three-stooges-2000.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/D96200H.jpg" group-title="VOD 2020&UNDER", Tunnel (2016)
+https://www.dropbox.com/s/g7la5wx5a5ou8b0/dzifp-tunnel.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjG_Nea5yR91NMszZbVJbzkFgbLR_PuFGD0w&usqp=CAU" group-title="VOD 2020&UNDER", Unstoppable (2018)
+https://4ps0mw.by.files.1drv.com/y4mRvqku-Z-iI7TWP6nT_fcPQAgtQzsssfWQNBZcKAkyzfSusOCnz0s7t8Xb31_h6IpQRXannuxoW4L0YxEM3GMGY-8fTFUEm06tWQu2FkXjcEuP1GjN-dxZnColTnFKSBcRKAkMBBBuNRzefSr_3BOogx_l8YzHbR4yiF4D2TqbkOEUvoJ_1KyzsC19KmU5HDGo42297-PLQ7jdOVWeJFRxA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiU49ONa7pRc4Lv5n34MRY9BB8pfhdgHEX6w&usqp=CAU" group-title="VOD 2020&UNDER",Welcome Home (2019)
+https://m.vidio.com/videos/7024007/common_tokenized_playlist.m3u8?digest=-58279
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7jMv2OCyYzzlGCe6B_L0k6T771X73iCwuLg&usqp=CAU" group-title="VOD 2020&UNDER",Wish Upon (2017)
+http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/6doKB2T.jpg" group-title="VOD KIDS", Abominable (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495543
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg" group-title="VOD KIDS", Aladin (1993)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495592
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgH6bGl2-Wz_1DkoNrCioTIGXIOK35n4xw2A&usqp=CAU" group-title="VOD KIDS", Alfa & Omega (2010)
+https://m.vidio.com/videos/2074374/common_tokenized_playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg" group-title="VOD KIDS", A'Shaun the Sheep Movie: Farmageddon (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495546
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRBWE-MPvKAhe2rS2D-m8BiIHFAZRSb4GXw&usqp=CAU" group-title="VOD KIDS",Baby Bos : Christmas Bonus (2022)
+https://ju7hgg.sn.files.1drv.com/y4mrysQ3-USHhLUV4fm89v-VRWrrPCuwpStaIFOgrQqvQbWrot_dEv4lLCxUDa0oo6Cps3N03EMSjD5_yaQyxLMW2s-W-G-QAeXGj_jHhJ5m6llBBuHGy1JhuVymiVELEp1ASOtilG_5dPAf0ef-G1oXEHggBRWGRPsC3ymCCNIpfv5xZFvImK6nT1d34EZASgsOr_r7d1rzCD2HkdtLwe6oA
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf1914vPqqgiR7FkDEarlmszzYOtZGH8AxZQ&usqp=CAU" group-title="VOD KIDS",Barbie In The Nutcracker (2001)
+https://rniarg.am.files.1drv.com/y4ma15A3h8aAkLc87U5EwoEQ9imepob8Kh-XGcu2PjbdtUv6pnu-wsLweTQz6K96ipI4oGJjLlovXv-o7VHE7k8nwwz2JMM_gI-q7ykb4gJoLfjb_8Bl0qq1rqUdWOEY3KHrhqvcWIV8dCJ6Q-xBCXYz-ghJNrKSeSAf_37yk2xXG0gvawPZuHE0XwYerCGsv3Cwt5q0F_xc5sPIZT1Iix-Cw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRL5YEEUqz_K5KDBXC0l-y0eLW9F7Rtzaxg&usqp=CAU" group-title="VOD KIDS",Barbie : Mermaid Power 2022
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLm8Ts6kFGJgesDdOeGqtuwRFO3T9Knraz8Q&usqp=CAU" group-title="VOD KIDS",Batman n Superman : Battle Of The Super Sons 2022
+
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HmYjXF.jpg" group-title="VOD KIDS", Batman Ninja (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495547
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/nQBOzqA.jpg" group-title="VOD KIDS", Big Hero 6 (2014)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495544
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/JInxoDt.jpg" group-title="VOD KIDS", Bilal: A New Breed of Hero (2015)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495626
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BrceGo5.jpg" group-title="VOD KIDS", Brave (2012)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495545
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/kl80F2h.jpg" group-title="VOD KIDS", Cinderella the Cat (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495619
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg" group-title="VOD KIDS",Chip n Dale Rescue Rangers DUB INDO (2022)
+https://sin1.contabostorage.com/652a7ec1761b4a9786b159d26b8231dc:deliperi/NGEFILM21.Chip.n.Dale.Rescue.Rangers.2022.Dub.Indo.WEB-DL.720p.mp4
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/PWoYCT6.jpg" group-title="VOD KIDS", Coco (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495618
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/rzs8qbxy69exp0x/dzifp-dcleaguepic.jpg?dl=1" group-title="VOD KIDS",DC-League Of Super Pets (2022)
+https://www.dropbox.com/s/aioyjrpnnicnd4n/dzifp-dcleague.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/u89e0K9.jpg" group-title="VOD KIDS", Dragon Nest: Warriors' Dawn (2014)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495568
+
+EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KKMYnZu.jpg" group-title="VOD KIDS", Dragon Quest: Your Story (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495594
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/MsnZYOa.jpg" group-title="VOD KIDS", Duck Duck Goose (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495617
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ivSLobG.jpg" group-title="VOD KIDS", Ejen Ali: The Movie (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495595
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Sw_fKgyKZGsgTZ0Dvjo4CEpbgzZb-FO2Ow&usqp=CAU" group-title="VOD KIDS",Fire Heart (2022)
+https://rngbuw.am.files.1drv.com/y4mnvLkYhhn97ItS4bVqwbN3mu3DULnqYZ6tJ1u7QV8_4AZb5eS1rBIRA88R-liXpNO9uFXOZ2sfCNaGYuQed92gf8U6xqI16Ue3Im9DS_pwhp7noWXeFm0UpN-tiag0SwlQo4DyaI0wZRcoSnAleDAh4Ga7JxWtRRNM-J4-8EWk60Q-dqjzWZ0zOjJjVQ5WhnkSbxemguK6FVz_YqH2VgAvA
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/gWE4ZKR.jpg" group-title="VOD KIDS", G-Force (2009)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495591
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoIXziSxIPdNe8hFDXflR40F-vhPP0T7Br5w&usqp=CAU" group-title="VOD KIDS", Home (2015)
+https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YAuVdml.jpg" group-title="VOD KIDS", Klaus (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495558
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyQZVn8XI5jzcfmjl8DKdYIsW_oHa35zg4zA&usqp=CAU" group-title="VOD KIDS",Lego Star Wars Summer Vacation (2022)
+https://dv8qla.am.files.1drv.com/y4mhkxGO9P-pmmxNykYdRT4x35IrjgJYmJIjPtebRr6AxlzVLE5Qvtw2y0hvZlBIHEL0suRMT3MQ4vJWW7RwPku6C0SzDRkKV5h9LxOjHHtKPBU8ai2E1FYKZa56Xdxt2Ib9mDkRSKawhLGKLaJIXPwYQD-ZV76WjVAduShXP6Lp8gzGcoLHOhH8DJh8rxJky_we1ZBCgkI15Wcj8IxNWI_5g
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/8kjgm3608j7qoq1/dzifp-lightyearspic.jpg?dl=1" group-title="VOD KIDS",Lightyear (2022)
+https://www.dropbox.com/s/3ey2r1296b6kugc/dzifp-lightyearsmov.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EodiiFj.jpg" group-title="VOD KIDS", Lilo & Stitch (2002)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495579
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdArrp7XtEeXUjc3TAmLzJ5pp4jIyh2G6aFQ&usqp=CAU" group-title="VOD KIDS",Luck (2022)
+https://qinewg.db.files.1drv.com/y4mqIGcWtsLkKYQhyrEIRJSG2gs_ucQ-Rz9x_EryO8seytOGdRGeSkV9JxQOUbyiTeHMR-CwAmshsPfDS2ifxN5Yhm9Y-PubDrQooBSqanymSmDnZSk6KxMPUTWGVMABz8_EUfe9UGVikDS48BBVskaE5o-nxdfPutN80qfCZJAD_S57LvWKqt3a470pdD9m6EZIfQlpPK-txHLnRjq3U16gA
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HUIh40G.jpg" group-title="VOD KIDS", Luis and the Aliens (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495606
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxbD_OYtR2iVkzeVE3bofjcYpIDanMB_2gSw&usqp=CAU" group-title="VOD KIDS",Marmaduke 2022
+
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/h33B4m5.jpg" group-title="VOD KIDS", Mars Needs Moms (2011)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495593
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/DBhTp1D.jpg" group-title="VOD KIDS", Monsters University (2013)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495552
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXNXpUJo00jkVL35XTSGmDrpHeNYTJqRI_w&usqp=CAU" group-title="VOD KIDS",Teen Titan Go! DC Super Hero Girls : Mayhem In The Multiverse 2022
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOALcFsgsBm7ZRdfTOYANnJ2Bg8sy6bisb2g&usqp=CAU" group-title="VOD KIDS",My Father's Dragon 2022
+
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w185/8FAkwIBnd5eGlSJBrJfJVMWAbhI.jpg" group-title="VOD KIDS", My Little Pony: The Movie (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495541
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BgYDlV3.jpg" group-title="VOD KIDS", Ne Zha (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495597
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7BM73j8.jpg" group-title="VOD KIDS", Next Gen (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495612
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdArrp7XtEeXUjc3TAmLzJ5pp4jIyh2G6aFQ&usqp=CAU" group-title="VOD KIDS",Night At Museum : Kahmunrah Rises Again 2022
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xUmHVVm.jpg" group-title="VOD KIDS", Onward (2020)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495596
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/wnmgw67gnhq73if/dzifp-paws%20of%20fury.jpg?dl=1" group-title="VOD KIDS",Paws Of Fury (2022)
+https://www.dropbox.com/s/vjxmv7vu23diha8/dzifp-pawsoffurymov.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dYdsgjq.png" group-title="VOD KIDS", Peter Rabbit (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495582
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ymkau64d3xwo5at/dzifp-pinnochiopic.jpg?dl=1" group-title="VOD KIDS",Pinnochio (2022)
+https://www.dropbox.com/s/ekv28mz3l1rlv9u/dzifp-pinnochiomov.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/FEJLyE0.jpg" group-title="VOD KIDS", Playmobil: The Movie (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495581
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ooSS6ek.jpg" group-title="VOD KIDS", Ploey (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495620
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1ZO45Fg.jpg" group-title="VOD KIDS", Rabbit School - Guardians of the Golden Egg (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495605
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/kS9Ckkl.jpg" group-title="VOD KIDS", Racetime (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495614
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/hIbPFdg.jpg" group-title="VOD KIDS", Ralph Breaks the Internet (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495586
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9g6qcRzHM7NGnCT1Kz370DCOjq4NSw1fkZA&usqp=CAU" group-title="VOD KIDS",Scrooge : A Christmas Carol 2022
+
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5GGpZyZ.jpg" group-title="VOD KIDS", Spark: A Space Tail (2016)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495621
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/E7sPvZ2.jpg" group-title="VOD KIDS", Spider-Man: Into the Spider-Verse (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495615
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/slalaPk.jpg" group-title="VOD KIDS", Spies in Disguise (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495601
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/fSaLFvF.jpg" group-title="VOD KIDS", Steven Universe: The Movie (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495611
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/LrWJF1R.jpg" group-title="VOD KIDS", Superman: Red Son (2020)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495599
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/R0GwKBj.jpg" group-title="VOD KIDS", Tad: The Explorer (2012)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495570
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/cZGo5gT.jpg" group-title="VOD KIDS", Tarzan (2013)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495598
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/09NKdAq.jpg" group-title="VOD KIDS", The Addams Family (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495578
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tPDZ81o.jpg" group-title="VOD KIDS", The Animatrix (2003)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495587
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ar3OoG1.jpg" group-title="VOD KIDS", The Big Bad Fox and Other Tales (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495589
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KgEZwRW.jpg" group-title="VOD KIDS", The Boss Baby (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495627
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/a4EPNnZ.jpg" group-title="VOD KIDS", The Breadwinner (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495624
+
+#EXTINF: -1 tvg-logo="httpshttp://img.prntscr.com/img?url=https://i.imgur.com/iPBjM6y.jpg" group-title="VOD KIDS", The Emoji Movie (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495628
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4OtEB--vcdHR0OmE92R1zrsOEzCXV3UsYA&usqp=CAU" group-title="VOD KIDS", The Reef (2006)
+https://m.vidio.com/videos/2073961/common_tokenized_playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/j55g93cnf51hbxo/dzifp-theseabestpic.jpg?dl=1" group-title="VOD KIDS",The Sea Beast (2022)
+https://www.dropbox.com/s/7gpu900xg6vh365/dzifp-theseabeastmov.mp4?dl=1
+
+EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dfgGzkm.jpg" group-title="VOD KIDS", Throne of Elves (2016)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495562
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G2YFstX/tom-and-jerry.jpg" group-title="VOD KIDS", Tom And Jerry (2021)
+https://www.dropbox.com/s/9to19xl4idjrtvh/Tom-And-Jerry-2021-1614389078-720p.mp4?dl=1
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/VRq7FPM.jpg" group-title="VOD KIDS", Trolled (2018)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495607
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iIJrON9.jpg" group-title="VOD KIDS", Trolls (2016)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495577
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9kh7oB9.jpg" group-title="VOD KIDS", War of the Worlds: Goliath (2012)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495590
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8JOcZCv.jpg" group-title="VOD KIDS", White Snake (2019)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495588
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/S1F4lse.jpg" group-title="VOD KIDS", Woody Woodpecker (2017)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495625
+
+#EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HhuFjaO.jpg" group-title="VOD KIDS", Wreck-It Ralph (2012)
+https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495585
