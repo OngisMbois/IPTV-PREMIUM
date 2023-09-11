@@ -729,7 +729,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165058
 
 #EXTINF:-1 tvg name tv one "group-title="NASIONAL",TVOne
-http://210.210.155.37/qwr9ew/s/s105/index.m3u8
+http://103.166.27.2:800/play/a01h
 ##http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="kompas tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="NASIONAL",Kompas TV
@@ -748,7 +748,73 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3XG1FXh/20230518-221343.png" group-title="NASIONAL" ,Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+#################  LOKAL  ########################
+##################################################
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",INDOSIAR HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a016
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",MENTARI HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a018
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",MOJI HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a017
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",SCTV HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a015
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",TRANS 7 HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01c
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",TRANS TV HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01b
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",ANTV HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01g
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",TVONE
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01h
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",Aswaja TV
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a020
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",CNBC INDONESIA HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01e
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",CNN INDONESIA HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01d
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",COMING SOON
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a02c
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",DREAMWORKS
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a027
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",Dangdut Tivi
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01x
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",Hadi TV
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01v
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",JTV
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01s
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",KOMPASTV HD
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a019
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",LAGU TV
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01u
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",Madu TV Nusantara
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01y
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",PARAMOUNT NETWORK
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a02a
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/287VLgm7/migrasi-aso1.png",RuaiTV
+#EXTGRP: LOKAL DIGITAL
+http://103.166.27.2:800/play/a01w
 ###########################################################################################################################
 ##################  MOVIES  ########################################################################################
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -883,7 +949,14 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264774
 #EXTINF:-1 group-title="Movies",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 ##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165079
-
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 01
+http://kuchini.site:8080/kodicologne/48e237edd2/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 02
+http://kuchini.site:8080/kodicologne/48e237edd2/298527
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 03
+http://kuchini.site:8080/kodicologne/48e237edd2/298528
+#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 04
+http://kuchini.site:8080/kodicologne/48e237edd2/298529
 
 
 ######################################### DENSTV ######################################
