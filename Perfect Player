@@ -729,8 +729,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165058
 
 #EXTINF:-1 tvg name tv one "group-title="NASIONAL",TVOne
-http://103.166.27.2:800/play/a01h
-##http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="kompas tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" group-title="NASIONAL",Kompas TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
@@ -1046,7 +1045,8 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 http://210.210.155.37/uq2663/h/h22/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="DENSTV", ANIPLUS
-http://210.210.155.37/dr9445/h/h02/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8|referer=https://www.dens.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111
+##http://210.210.155.37/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="DENSTV", ANIMAX
 http://210.210.155.37/dr9445/h/h144/index.m3u8
