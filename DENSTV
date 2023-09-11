@@ -45,7 +45,7 @@ https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100
 #EXTINF:-1 group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/antv.jpg",ANTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/03.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/NET.%20HD-FirstMedia-Chl-411.jpg" group-title="NASIONAL",NET. HD
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/NET.%20HD-FirstMedia-Chl-411.jpg" group-title="National TV",NET. HD
 http://210.210.155.37/qwr9ew/s/s08/01.m3u8
 ##http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/kompas-new.png",Kompas TV
