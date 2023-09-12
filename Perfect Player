@@ -225,6 +225,12 @@ http://raw.bitnode.pm:81/giorgi/giorgi/38697
 http://raw.bitnode.pm:81/giorgi/giorgi/38690
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCxScxPk/AFC-U-23-Asian-Cup-logo.png" group-title="LIVE EVENT",LIVE INDONESIA VS TURKMENISTAN
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCxScxPk/AFC-U-23-Asian-Cup-logo.png" group-title="LIVE EVENT", LIVE INDONESIA VS TURKMENISTAN
+https://obevcimanyd179314182.thapcam.link/live/may7/chunklist.m3u8
+
 
 #################################   EURO QUALIFIYING ################################
 #####################################################################################
