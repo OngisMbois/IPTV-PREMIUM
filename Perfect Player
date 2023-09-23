@@ -583,6 +583,26 @@ http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157485
 http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/287793
 #########################   LIVE EVENT   ##############################
 #######################################################################
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title=" SuperSport ",PT: SPORT TV 1
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1483
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title=" SuperSport ",PT: SPORT TV 2
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1486
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title=" SuperSport ",PT: SPORT TV 3
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1489
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 1
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1499
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 2
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1503
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 3
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1506
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 4
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1509
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 5
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1512
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 6
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1515
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xCyK0ZHX/Super-Sport-Premier-League.png" group-title=" SuperSport ", SuperSport Premier League
 http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
 ##http://raw.bitnode.pm:81/giorgi/giorgi/38703
