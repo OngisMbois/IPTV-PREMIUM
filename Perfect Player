@@ -998,7 +998,8 @@ http://kuchini.site:8080/F30140/f3de2280/157591
 http://tvkuonline.my.id:25461/riyad/riyad/8
 ##http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
-http://iptvtree.net:8080/live/joeBt/FBe7D5gDbFzmWdAx/157591.m3u8
+http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
+##http://iptvtree.net:8080/live/joeBt/FBe7D5gDbFzmWdAx/157591.m3u8
 #EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="NASIONAL",TVONE
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="NASIONAL",TVONE *
