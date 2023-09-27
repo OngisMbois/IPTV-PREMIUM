@@ -657,16 +657,18 @@ http://80.252.37.194:5000/udp/233.233.233.7:12000
 http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 1 
-http://103.166.27.2:800/play/a016
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 2
 http://gamsgo.cyou:8080/kingtveuex/lAEPMRIE4jqjMamv/162138
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 3
 http://kuchini.site:8080/F30140/f3de2280/162138
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 4
-http://tvkuonline.my.id:25461/riyad/riyad/14
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
+##http://tvkuonline.my.id:25461/riyad/riyad/14
 ##https://179720687.global.cdnfastest.com/live/sd-y0or5jhz2o6eqwz/chunklist_w404145794.m3u8
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 5
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/298549
+##http://humiptv.live:8080/live/tarun589853/5787489bcsh/151186.ts
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 6
 http://kuchini.site:8080/F30140/f3de2280/298549
 ##http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
