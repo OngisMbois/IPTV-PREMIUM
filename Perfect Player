@@ -745,7 +745,14 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=317784&extens
 
 ###########################  OLAHRAGA  ####################################
 ############################################################################
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19995009_ico.png?ts=1660430078" group-title="OLAHRAGA",Astro SuperSport 1
+https://m3.ballnaja.com/live/assp1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994996_ico.png?ts=1660430115" group-title="OLAHRAGA",Astro SuperSport 2
+https://m3.ballnaja.com/live/assp2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19994961_ico.png?ts=1660430151" group-title="OLAHRAGA",Astro SuperSport 3
+https://m3.ballnaja.com/live/assp3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="OLAHRAGA", TRUE SPORT PREMIER 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="OLAHRAGA", TRUE SPORT PREMIER 2 
