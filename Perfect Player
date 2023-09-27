@@ -564,6 +564,38 @@ http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157584
 #EXTINF:-1 tvg-id="" tvg-name="ID: ZooMoo" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="Indonesia",ID: ZooMoo
 http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/264751
 
+#######################  ASIAN GAMES  #####################
+###########################################################
+
+#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 1
+https://cabor1.unregister.xyz/watermark/cabor_720p/index.m3u8
+
+
+#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 2
+https://cabor2.unregister.xyz/watermark/cabor_720p/index.m3u8
+
+JUDO 
+#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 3
+https://cabor3.unregister.xyz/watermark/cabor.m3u8
+
+BOXING
+#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 4
+https://cabor5.unregister.xyz/watermark/cabor_720p/index.m3u8
+
+TENIS MEJA
+#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 5
+https://cabor6.unregister.xyz/watermark/cabor.m3u8
+
+HOKKY
+ #EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 6
+https://cabor7.unregister.xyz/watermark/cabor.m3u8
+
+BEACH VOLLEYBALL
+#EXTINF:-103 group-title="Asian game RCTI+" tvg-logo="https://i.postimg.cc/tJPkXjVj/rcti.jpg",RCTI+ 7
+https://cabor8.unregister.xyz/watermark/cabor_720p/index.m3u8
+
+
+
 ############# Malaysia ##########
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1
 http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/146068
