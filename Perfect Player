@@ -719,25 +719,6 @@ http://iptvtree.net:8080/EyQcvdQmdH/3373082b90/264751
 
 #########################   LIVE EVENT   ##############################
 #######################################################################
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title=" SuperSport ",PT: SPORT TV 1
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1483
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title=" SuperSport ",PT: SPORT TV 2
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1486
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title=" SuperSport ",PT: SPORT TV 3
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1489
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 1
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1499
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 2
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1503
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 3
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1506
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 4
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1509
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 5
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1512
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 6
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1515
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xCyK0ZHX/Super-Sport-Premier-League.png" group-title=" SuperSport ", SuperSport Premier League
 http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
@@ -1777,68 +1758,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3
 ####################   BEIN SD  ###########################
 ##########################################################
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium SD 1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161419.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium SD 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161420.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium SD 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161421.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161422.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161423.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161424.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 4
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161425.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 5
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161426.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 6
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161427.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS SD 7
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161428.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN Sport English SD 1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161429.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium LOW 1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161430.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium LOW 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161431.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS Premium LOW 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161432.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 1
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161433.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 2
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161434.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 3
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161435.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 4
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161436.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 5
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161437.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 6
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161438.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN LOW", beIN SPORTS LOW 7
-http://humiptv.live:8080/live/tarun589853/5787489bcsh/161439.ts
 
 
 ###########################################################################################################################################################
@@ -2211,32 +2130,32 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/fA1VMU6.png" group-title="SPORT PREMIUM",beIN SPORTS English 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://webudit.cdnbos.lol/lb/premium61/index.m3u8 
+http://webudit.webdicdn.lol/lb/premium61/index.m3u8 
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/CuTvIIo.png" group-title="SPORT PREMIUM",beIN SPORTS English 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://webudit.cdnbos.lol/lb/premium90/index.m3u8 
+http://webudit.webdicdn.lol/lb/premium90/index.m3u8 
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/qUfw7db.png" group-title="SPORT PREMIUM",beIN SPORTS English 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://webudit.cdnbos.lol/lb/premium46/index.m3u8 
+http://webudit.webdicdn.lol/lb/premium46/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png" group-title="SPORT PREMIUM",beIN SPORTS PREMIUM 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://webudit.cdnbos.lol/lb/premium98/index.m3u8 
+http://webudit.webdicdn.lol/lb/premium98/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="SPORT PREMIUM",beIN SPORTS PREMIUM 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://webudit.cdnbos.lol/lb/premium99/index.m3u8 
+http://webudit.webdicdn.lol/lb/premium99/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="SPORT PREMIUM",beIN SPORTS PREMIUM 3
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/108.0.0.0 Safari/537.36 
-http://webudit.cdnbos.lol/lb/premium100/index.m3u8 
+http://webudit.webdicdn.lol/lb/premium100/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PsL4AzP.png" group-title="SPORT PREMIUM", beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
