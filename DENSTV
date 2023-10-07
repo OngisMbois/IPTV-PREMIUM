@@ -668,6 +668,86 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
+##################  SPORT TV ######################
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/e364dd59-562b-4157-a44a-c11c3b728557.jpeg", Bein Sports 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230728/video/394df566-c126-426a-854a-c41b75025213.jpeg", Bein Sports 2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png", True Premier Football 3
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1 group-title="SPORT TV" tvg-id="" tvg-logo="", Astro Supersport 1
+https://m3.ballnaja.com/live/assp1/chunks.m3u8
+#EXTINF:-1 group-title="SPORT TV" tvg-id="" tvg-logo="", Astro Supersport 2
+https://m3.ballnaja.com/live/assp2/chunks.m3u8
+#EXTINF:-1 group-title="SPORT TV" tvg-id="" tvg-logo="", Astro Supersport 3
+https://m3.ballnaja.com/live/assp3/chunks.m3u8
+#EXTINF:-1 group-title="SPORT TV" tvg-id="" tvg-logo="", Astro Supersport 4
+https://m3.ballnaja.com/live/assp4/chunks.m3u8
+
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
+https://edge1.laotv.la/live/THD7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro - EPL 1" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="SPORT TV",EPL - Astro - EPL 1
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/63112
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro - Epl 2" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="SPORT TV",EPL - Astro - Epl 2
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/63113
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro - EPL 3" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="SPORT TV",EPL - Astro - EPL 3
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/63114
+#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro - EPL 4" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="SPORT TV",EPL - Astro - EPL 4
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/63598
+#EXTINF:-1 group-title="SPORT TV",UK - Sky Sport Premier Leage HD
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/59988
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORTS 1 PT" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="SPORT TV",ELEVEN SPORTS 1 PT
+http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412908
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORTS 2 PT" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="SPORT TV",ELEVEN SPORTS 2 PT
+http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412909
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORTS 3 PT" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="SPORT TV",ELEVEN SPORTS 3 PT
+http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412910
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORTS 4 PT" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="SPORT TV",ELEVEN SPORTS 4 PT
+http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412911
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORTS 5 PT" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="SPORT TV",ELEVEN SPORTS 5 PT
+http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412912
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN SPORTS 6 PT" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="SPORT TV",ELEVEN SPORTS 6 PT
+http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412913
+#EXTINF:-1 group title="SPORT TV", SPORT TV +
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1481
+#EXTINF:-1 group title="SPORT TV", SPORT TV 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1483
+#EXTINF:-1 group title="SPORT TV", SPORT TV 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1486
+#EXTINF:-1 group title="SPORT TV", SPORT TV 3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1489
+#EXTINF:-1 group title="SPORT TV", SPORT TV 4
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1492
+#EXTINF:-1 group title="SPORT TV", SPORT TV 5
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1495
+#EXTINF:-1 group title="SPORT TV", SPORT TV 6
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/281487
+#EXTINF:-1 group-title="SPORT TV" tvg-id="match-football1" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Маtch Futbol 1
+http://stream.cvmtv.site/MF1?token=live
+#EXTINF:-1 group-title="SPORT TV" tvg-id="match-football2" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png",Маtch Futbol 2
+http://stream.cvmtv.site/MF2?token=live
+#EXTINF:-1 group-title="SPORT TV" tvg-id="match-football3" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Futbol 3
+http://stream.cvmtv.site/MF3?token=live
+#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="QA: beIN Sports Xtra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="SPORT TV",QA: beIN Sports Xtra 2
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/283294
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png"  group-title="SPORT TV",ZA: SuperSport Premier League
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/11642
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png"  group-title="SPORT TV",ZA: SuperSport LaLiga
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/194358
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png"  group-title="SPORT TV",ZA: SuperSport Grandstand
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/194353
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png"  group-title="SPORT TV",ZA: SuperSport Football
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/38575
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",beIN Sports 1 Indonesia
