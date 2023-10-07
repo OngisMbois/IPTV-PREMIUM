@@ -635,6 +635,38 @@ https://av-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 
 @@@@@@@ SPORTS @@@@@@@
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2017/06/05/5934e30041259-formula-1_665_374.jpg" group-title="FORMULA 1", F1 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=295373&extension=ts
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2017/06/05/5934e30041259-formula-1_665_374.jpg" group-title="FORMULA 1", F1 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=83453&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2017/06/05/5934e30041259-formula-1_665_374.jpg" group-title="FORMULA 1", F1 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=83453&extension=ts&play_token=TP5qtHk8iF
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2017/06/05/5934e30041259-formula-1_665_374.jpg" group-title="FORMULA 1", F1 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
+#EXTINF:-1 tvg-logo="https://thumb.viva.co.id/media/frontend/thumbs3/2017/06/05/5934e30041259-formula-1_665_374.jpg" group-title="FORMULA 1", F1 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQ5V0PL/sony1x-big-copy.png" group-title="SONY SPORT", SONY SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6LSwRR/sony2-big-copy.png" group-title="SONY SPORT", SONY SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JK4mN5/sony3-big-copy.png" group-title="SONY SPORT", SONY SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jh49r5r/sony4-big-copy.png" group-title="SONY SPORT", SONY SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGbwjw6/sony5-big-copy.png" group-title="SONY SPORT", SONY SPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
