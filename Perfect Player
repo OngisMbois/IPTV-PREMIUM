@@ -385,45 +385,6 @@ https://kusnadipepenk.github.io/ntn/ele1.m3u8
 https://kusnadipepenk.github.io/ntn/ele2.m3u8
 #EXTINF:0  tvg-logo="https://mma.prnewswire.com/media/1475754/Eleven_logo.jpg" group-title="OLAHRAGA",Eleven 3
 https://kusnadipepenk.github.io/ntn/ele3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCf2ju6QgElzFs2d5TwBjXnOkoMM5OTVlow&usqp=CAU" group-title="OLAHRAGA", PRIMA SPORT 1
-http://protv.fun:80/play/live.php?mac=00:1A:79:73:BF:36&stream=207928&extension=ts&play_token=dFnGxysxCj
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 1 
-https://cdn3.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 2 
-https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 3 
-https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 4 
-https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png" group-title="OLAHRAGA",Premier Sports 5 
-https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
-
-#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="OLAHRAGA", TSN 1 HD (CA)
-https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21006.m3u8
-#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="OLAHRAGA", TSN 2 HD (CA)
-https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21005.m3u8
-#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn3.png" group-title="OLAHRAGA", TSN 3 HD (CA)
-https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21004.m3u8
-#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn4.png" group-title="OLAHRAGA", TSN 4 HD (CA)
-https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21003.m3u8
-#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="OLAHRAGA", TSN 5 HD (CA)
-https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="OLAHRAGA",beIN Sports 1
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165105
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="OLAHRAGA",beIN Sports 3
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298506
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="OLAHRAGA",Astro SuperSport
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="OLAHRAGA",Astro SuperSport 2
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="OLAHRAGA",Astro SuperSport 3
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="OLAHRAGA",Astro SuperSport 4
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157558
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="OLAHRAGA",Astro SuperSport 5
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287792
-
 #EXTINF:0  tvg-logo="https://toploni.com/wp-content/uploads/2022/10/arena_sport_1.png" group-title="OLAHRAGA",Arena 1 Sport
 https://kusnadipepenk.github.io/ntn/arns1.m3u8
 #EXTINF:0  tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="OLAHRAGA",Arena 2 Sport
@@ -852,14 +813,6 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264774
 #EXTINF:-1 group-title="Movies",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 ##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165079
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 01
-http://kuchini.site:8080/kodicologne/48e237edd2/298526
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 02
-http://kuchini.site:8080/kodicologne/48e237edd2/298527
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 03
-http://kuchini.site:8080/kodicologne/48e237edd2/298528
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 04
-http://kuchini.site:8080/kodicologne/48e237edd2/298529
 
 
 ######################################### DENSTV ######################################
@@ -868,28 +821,6 @@ http://kuchini.site:8080/kodicologne/48e237edd2/298529
 
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="DENSTV",Ongis TV
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg" group-title="DENSTV", DENS LIVE 1
-http://210.210.155.37/x6bnqe/s/s100/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg" group-title="DENSTV", DENS LIVE 2
-http://210.210.155.37/uq2663/h/h998/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg" group-title="DENSTV", DENS PLAY
-http://210.210.155.37/x6bnqe/s/s37/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg" group-title="DENSTV", DENS LIFESTYLE
-http://210.210.155.37/x6bnqe/s/s101/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="DENSTV", LEARNING & KNOWLEDGE
-http://210.210.155.37/x6bnqe/s/s36/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="DENSTV", DENS SHOWBIZ
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/117.jpg" group-title="DENSTV", DENS FOOD CHANNEL
-http://210.210.155.37/x6bnqe/s/s38/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="DENSTV", METRO TV
 http://210.210.155.37/uq2663/h/h12/index.m3u8
@@ -947,28 +878,6 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg" group-title="DENSTV", EGG NETWORK TV
 http://210.210.155.37/uq2663/h/h22/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="DENSTV", ANIPLUS
-https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8|referer=https://www.dens.tv/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111
-##http://210.210.155.37/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg" group-title="DENSTV", ANIMAX
-http://210.210.155.37/dr9445/h/h144/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg" group-title="DENSTV", MY KIDZ
-http://210.210.155.37/uq2663/h/h191/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/116.jpg" group-title="DENSTV", TOONZ KIDZ
-http://210.210.155.37/x6bnqe/s/s14/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg" group-title="DENSTV", HITS
-http://210.210.155.37/dr9445/h/h37/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg" group-title="DENSTV", HITS MOVIES
-http://210.210.155.37/dr9445/h/h38/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg" group-title="DENSTV", AXN
-http://210.210.155.37/dr9445/h/h141/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg" group-title="DENSTV", ROCK ENTERTAINMENT
 http://210.210.155.37/dr9445/h/h16/index.m3u8
@@ -1233,20 +1142,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="Sports",Ongis TV
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://i.ibb.co/n6V5V6C/tsn-1-ca.png" group-title="Sports",TSN 1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21006
-
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://i.ibb.co/4p1PbSh/tsn-2-ca.png" group-title="Sports",TSN 2
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181852
-
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://i.ibb.co/BZbQYV5/tsn-3-ca.png" group-title="Sports",TSN 3
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181853
-
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://i.ibb.co/4W7z5m9/tsn-4-ca.png" group-title="Sports",TSN 4
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21003
-
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://i.ibb.co/Bq2cfRc/tsn-5-ca.png" group-title="Sports",TSN 5
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21002
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU" group-title="Sports", PEACOCK PL
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032457&extension=ts&play_token=cvcqACl3FV
@@ -1726,15 +1621,6 @@ https://webudit.vipboxtv.stream/lb/premium595/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.vipboxtv.stream/lb/premium596/index.m3u8
 
-#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://hometv.pw/logo/sports/rmc_sports.jpg" group-title="SPORT PREMIUM",RMC Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium119/index.m3u8|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://hometv.pw/logo/sports/rmc_sports.jpg" group-title="SPORT PREMIUM",RMC Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.vipboxtv.stream/lb/premium120/index.m3u8|referer=https://widevine.licenses4.me/
-#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-logo="https://hometv.pw/logo/sports/rmc_sports.jpg" group-title="SPORT PREMIUM",RMC Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#http://he11o.akadatel.com/iptv/47PC7ECLXZM7EV/2547/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PsL4AzP.png" group-title="SPORT PREMIUM", beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1778,13 +1664,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=38425_&extens
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97242&extension=ts
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT PREMIUM", POLSAT SPORT PREMIUM 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97243&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT PREMIUM", POLSAT SPORT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97238&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT PREMIUM", POLSAT SPORT FIGHT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97239&extension=ts
-#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="SPORT PREMIUM", POLSAT SPORT EXTRA
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BF:A4:88&stream=97241&extension=ts
-
 
 
 ####################### FOOTBALL CLUB #########
@@ -1865,22 +1744,6 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157557
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia", Astro SuperSport 4
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157558
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="Malaysia", Astro SuperSport 5
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/287792
-
-################  LIGA CHAMPION  #################
-#EXTINF:-1 tvg-ID="" tvg-name="LIGA CHAMPION" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="LIGA CHAMPION",EVENT 1
-http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412902
-#EXTINF:-1 tvg-ID="" tvg-name="M+ LIGA DE CAMPEONES 2 ES" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="LIGA CHAMPION" ,EVENT 2
-#EXTINF:-1 tvg-ID="" tvg-name="M+ LIGA DE CAMPEONES 3 ES" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="LIGA CHAMPION" ,EVENT 3
-http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412904
-#EXTINF:-1 tvg-ID="" tvg-name="M+ LIGA DE CAMPEONES 4 ES" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="LIGA CHAMPION",EVENT 4
-http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412905
-#EXTINF:-1 tvg-ID="" tvg-name="M+ LIGA DE CAMPEONES 5 ES" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="LIGA CHAMPION",EVENT 5
-http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412906
-#EXTINF:-1 tvg-ID="" tvg-name="M+ LIGA DE CAMPEONES 6 ES" tvg-logo="http://vodkom.com:25461/Logo/champions-league.png" group-title="LIGA CHAMPION",EVENT 6
-http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412907
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", 01. ETV Live Event
@@ -2002,16 +1865,6 @@ http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298510
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", CGTN Documentary
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298511
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", Champion TV 1
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298512
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", Champion TV 2
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298513
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", Champion TV 3
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298514
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", Chinese Drama
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298516
