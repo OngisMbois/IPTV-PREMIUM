@@ -543,6 +543,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_149952
 http://apel-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD
 http://103.150.197.226:25461/live/kalingga/VLRBY9PXuR/3365.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI HD*
+http://www.goldentv.tech:25461/171023/171023/25665
 ##http://iptvtree.net:8080/live/joeBt/FBe7D5gDbFzmWdAx/157591.m3u8
 #EXTINF:-1 tvg-id="TVONE.id" tvg-name="TVONE" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png" group-title="NASIONAL",TVONE
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
