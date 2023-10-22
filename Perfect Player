@@ -1125,7 +1125,55 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3
 
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="Sports",Ongis TV
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="Sports",BEIN SPORT 1 PREMIUM 🇶🇦
+http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8
+#EXTINF:-1 group-title="Sports",BEIN SPORT 3 PREMIUM 🇶🇦
+http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
+#EXTINF:-1 group-title="Sports",NOVA SPORT 1 🇸🇰
+http://185.188.188.235/live/novasport1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" group-title="Sports",AU: beIN Sports 3
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/35340
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dd9092b9b5cd89506da4d6ba6ab8939d.svg" group-title="Sports",AU: ESPN
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/294449
+#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/fb92789b21c6126b4225207c332bd82a.svg" group-title="Sports",AU: ESPN 2
+http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/35326
+#EXTINF:-1 group-title="Sports",NOVA SPORT 2 🇸🇰
+http://185.188.188.235/live/novasport2/playlist.m3u8
 
+#EXTINF:-1 group-title="Sports",NOVA SPORT 3 🇸🇰
+http://185.188.188.235/live/novasport3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
+http://185.188.188.235/live/novasport4/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",CT SPORT 🇸🇰
+http://185.188.188.235/live/ctsport/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",SPORT 1 🇸🇰
+http://185.188.188.235/live/sport1/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports",SPORT 2 🇸🇰
+http://185.188.188.235/live/sport2/playlist.m3u8
+#EXTINF:-1 group-title="Sports", Q sport 🇰🇬
+http://89.254.128.5:22280/qsport/index.m3u8
+
+#EXTINF:-1 group-title="Sports",TNTSPORTS 1 🇧🇷
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="Sports", TNTSPORTS 2 🇧🇷
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="Sports",TNTSPORTS 3 🇧🇷
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="Sports", TNTSPORTS 4 🇧🇷
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="Sports", TNTSPORTS 5 🇧🇷
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="Sports", ESPORTE INTERACTIVO 🇧🇷
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU" group-title="Sports", PEACOCK PL
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032457&extension=ts&play_token=cvcqACl3FV
@@ -1188,9 +1236,8 @@ https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 ##https://webudit.cdnhks.lol/lb/premium35/index.m3u8|referrer=https://streamservicehd.click/
 https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 
-#EXTINF:-1  tvg-logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" group-title="Sports",Sky Sport Arena
-https://kusnadipepenk.github.io/ntn/skyare.m3u8
-
+#EXTINF:-1 group-title="Sports", Setanta Sports 1 HD 🇷🇺
+https://tv.movielab.pro/942/video.m3u8
 
 ###########################################################################################################
 ##################  LIFESTYLE  ##################################################################
