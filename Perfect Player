@@ -129,29 +129,6 @@ udhdhdjdjdjduudjdhsgvsyshhsyyhdbb
 
 hdhdhdhdhbddhjd
 
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",Now Sport Premier
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",Now Sport 1
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032489&extension=ts&play_token=tuyullxt@.ts
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSPORT 2
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 3
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032477&extension=ts&play_token=tuyullxt@.ts
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 4
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032476&extension=ts&play_token=tuyullxt@.ts
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 5
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032475&extension=ts&play_token=tuyullxt@.ts
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 6
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 7
-http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
 
 
 
@@ -208,38 +185,41 @@ https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=
 
 #########################   LIVE EVENT   ##############################
 #######################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xCyK0ZHX/Super-Sport-Premier-League.png" group-title=" SuperSport ", SuperSport Premier League
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
-##http://raw.bitnode.pm:81/giorgi/giorgi/38703
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFz7xm3r/Super-Sport-La-Liga.png" group-title=" SuperSport ", SuperSport LaLiga
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186985
-##http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/1143059
-##http://raw.bitnode.pm:81/giorgi/giorgi/38698
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cL27Tw0L/Super-Sport-Football.png" group-title=" SuperSport ", SuperSport Football
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186981
-##http://raw.bitnode.pm:81/giorgi/giorgi/38694
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8kmHD7BZ/Super-Sport-Variety-1.png" group-title=" SuperSport ", SuperSport Variety 1
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187005
-##http://raw.bitnode.pm:81/giorgi/giorgi/38707
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FsFxKhTN/Super-Sport-Variety-2.png" group-title=" SuperSport ", SuperSport Variety 2
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187006
-##http://raw.bitnode.pm:81/giorgi/giorgi/38708
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr2Y1Wcy/Super-Sport-Variety-3.png" group-title=" SuperSport ", SuperSport Variety 3
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187007
-##http://raw.bitnode.pm:81/giorgi/giorgi/38709
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FzT3SJTm/Super-Sport-Variety-4.png" group-title=" SuperSport ", SuperSport Variety 4
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187008
-##http://raw.bitnode.pm:81/giorgi/giorgi/38710
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QtpqFCLx/Super-Sport-Motorsport.png" group-title=" SuperSport ", SuperSport Motorsport
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186989
-##http://raw.bitnode.pm:81/giorgi/giorgi/38700
-
+######################     SKY SPORT   #######################################
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT CALCIO
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692416&extension=ts&play_token=YhfOXWSG12
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT MOTOGP
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT F1
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT NBA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692419&extension=ts&play_token=0U5QR5bFGs
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT TENNIS
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692431&extension=ts&play_token=zKyDwE3Cw4
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT NEWS
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83448&extension=ts&play_token=39xQduqNy6
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT ACTION
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83456&extension=ts&play_token=qiFg78s00D
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT ACTION IT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692425&extension=ts&play_token=mfFAWKIb2Z
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT ARENA
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83455&extension=ts&play_token=LeRid4FSfn
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT ARENA IT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692435&extension=ts&play_token=s8alaxVAYe
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT CRICKET
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83454&extension=ts&play_token=ztJeMHyfna
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT F1 IT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT MIX
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30495&extension=ts&play_token=LoXZTnEnq7
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT RACING
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83446&extension=ts&play_token=MqLZVaiCao
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT GOLF
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83451&extension=ts&play_token=Qm3z3S8n0h
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT GOLF IT
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692441&extension=ts&play_token=MvGc4Llgzz
+#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT 24
+http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692438&extension=ts&play_token=acstavTUsy
 
 
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 1 HD
@@ -256,32 +236,12 @@ http://80.252.37.194:5000/udp/233.233.233.7:12000
 http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg" group-title="ELEVEN SPORT ", ELEVEN SPORTS 1 
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412908
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg" group-title="ELEVEN SPORT ", ELEVEN SPORTS 2 
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412909
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg" group-title="ELEVEN SPORT ", ELEVEN SPORTS 3 
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412910
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg" group-title="ELEVEN SPORT ", ELEVEN SPORTS 4 
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412911
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg" group-title="ELEVEN SPORT ", ELEVEN SPORTS 5 
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412912
-
-#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/M2nFcPNSng4Kk8XHictEk.jpg" group-title="ELEVEN SPORT ", ELEVEN SPORTS 6 
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412913
-
-
-
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 1 
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
+http://tvnid.x10.mx/vidio/master.m3u8
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 2
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/162138
+http://tvnid.x10.mx/vidio/master.m3u8
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 3
-http://xtv.ooo:8080/owais1/12345/350972
+http://tvnid.x10.mx/vidio/master.m3u8
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 4
 http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298549
 ##http://tvkuonline.my.id:25461/riyad/riyad/14
@@ -293,15 +253,6 @@ http://tvnid.x10.mx/vidio/master.m3u8
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="LIGA KONOHA", LAGA 6
 http://kuchini.site:8080/F30140/f3de2280/298549
 ##http://humiptv.live:8080/live/tarun589853/5787489bcsh/151181.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 1
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115615_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 2
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115616_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 3
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115617_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 4
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115618_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://media3.giphy.com/media/P7k6tr6Gmek344gqPY/200w.gif?cid=82a1493bpn7jmze4mu3ldoij7fwetocfsoogm88kfo7xuzhq&ep=v1_gifs_related&rid=200w.gif&ct=s" group-title="EVENT BOLA", BOLA 1
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=1040328&extension=ts&play_token=33OqsgppFx
@@ -376,8 +327,7 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extens
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2 HD" group-title="OLAHRAGA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3k
 ###http://eu37-filmax.tk/15707f288c4d54c99b82cfc25e10f39f/index.m3u8?token=Z2Vsbzk2Nnx8TnpVME16SXh8fGFmY2ZlZGMzZjM3YjEwMDU0YmQ5MDNlZmI1NmNmZjhi
-#EXTINF:-1 tvg-logo="https://sports.sstp.cloudns.pro/img/sports/ziggosportselect.webp" group-title="OLAHRAGA", ZIGGO SPORT SELECT NL
-http://pandar.plus:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412918
+
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="OLAHRAGA",True Premiere 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
@@ -389,15 +339,15 @@ https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="OLAHRAGA",True Premiere 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="OLAHRAGA",True Premiere 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
+https://www.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier5.png" group-title="OLAHRAGA", True Premiere 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-#https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png" ,K+ SPORTS 1
 http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.m3u8
 
@@ -479,44 +429,6 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="OLAHRAGA",TNT Sports 5 Brasil  
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-
-######################     SKY SPORT   #######################################
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT NEWS
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83448&extension=ts&play_token=39xQduqNy6
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT ACTION
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83456&extension=ts&play_token=qiFg78s00D
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT ACTION IT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692425&extension=ts&play_token=mfFAWKIb2Z
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT ARENA
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83455&extension=ts&play_token=LeRid4FSfn
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT ARENA IT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692435&extension=ts&play_token=s8alaxVAYe
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT CRICKET
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83454&extension=ts&play_token=ztJeMHyfna
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT F1
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83453&extension=ts&play_token=U71gOhaI4v
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT F1 IT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692428&extension=ts&play_token=cz0KKH7WWe
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT MIX
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=30495&extension=ts&play_token=LoXZTnEnq7
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT RACING
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83446&extension=ts&play_token=MqLZVaiCao
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT GOLF
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=83451&extension=ts&play_token=Qm3z3S8n0h
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT GOLF IT
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692441&extension=ts&play_token=MvGc4Llgzz
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT NBA
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692419&extension=ts&play_token=0U5QR5bFGs
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT MOTOGP
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT TENNIS
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692431&extension=ts&play_token=zKyDwE3Cw4
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT 24
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692438&extension=ts&play_token=acstavTUsy
-#EXTINF:-1 tvg-logo="---------" group-title="SKY SPORT", SKY SPORT CALCIO
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692416&extension=ts&play_token=YhfOXWSG12
-
-
 
 
 ##############################################################################################################################################
@@ -1118,6 +1030,38 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3
 ####################   BEIN SD  ###########################
 ##########################################################
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xCyK0ZHX/Super-Sport-Premier-League.png" group-title=" SuperSport ", SuperSport Premier League
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
+##http://raw.bitnode.pm:81/giorgi/giorgi/38703
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RFz7xm3r/Super-Sport-La-Liga.png" group-title=" SuperSport ", SuperSport LaLiga
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186985
+##http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/1143059
+##http://raw.bitnode.pm:81/giorgi/giorgi/38698
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cL27Tw0L/Super-Sport-Football.png" group-title=" SuperSport ", SuperSport Football
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186981
+##http://raw.bitnode.pm:81/giorgi/giorgi/38694
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8kmHD7BZ/Super-Sport-Variety-1.png" group-title=" SuperSport ", SuperSport Variety 1
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187005
+##http://raw.bitnode.pm:81/giorgi/giorgi/38707
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FsFxKhTN/Super-Sport-Variety-2.png" group-title=" SuperSport ", SuperSport Variety 2
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187006
+##http://raw.bitnode.pm:81/giorgi/giorgi/38708
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nr2Y1Wcy/Super-Sport-Variety-3.png" group-title=" SuperSport ", SuperSport Variety 3
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187007
+##http://raw.bitnode.pm:81/giorgi/giorgi/38709
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FzT3SJTm/Super-Sport-Variety-4.png" group-title=" SuperSport ", SuperSport Variety 4
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187008
+##http://raw.bitnode.pm:81/giorgi/giorgi/38710
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QtpqFCLx/Super-Sport-Motorsport.png" group-title=" SuperSport ", SuperSport Motorsport
+http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2186989
+##http://raw.bitnode.pm:81/giorgi/giorgi/38700
+
+
 
 
 ###########################################################################################################################################################
@@ -1129,31 +1073,16 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8
 #EXTINF:-1 group-title="Sports",BEIN SPORT 3 PREMIUM 🇶🇦
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6124/index.m3u8
+
 #EXTINF:-1 group-title="Sports",NOVA SPORT 1 🇸🇰
 http://185.188.188.235/live/novasport1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png" group-title="Sports",AU: beIN Sports 3
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/35340
-#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dd9092b9b5cd89506da4d6ba6ab8939d.svg" group-title="Sports",AU: ESPN
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/294449
-#EXTINF:-1 tvg-id="" tvg-name="AU: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/fb92789b21c6126b4225207c332bd82a.svg" group-title="Sports",AU: ESPN 2
-http://kuchini.site:8080/Houngst20001/XHK3BBKK4V8R8A20EQ/35326
 #EXTINF:-1 group-title="Sports",NOVA SPORT 2 🇸🇰
 http://185.188.188.235/live/novasport2/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports",NOVA SPORT 3 🇸🇰
 http://185.188.188.235/live/novasport3/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports",NOVA SPORT 4 🇸🇰
 http://185.188.188.235/live/novasport4/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",CT SPORT 🇸🇰
-http://185.188.188.235/live/ctsport/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",SPORT 1 🇸🇰
-http://185.188.188.235/live/sport1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports",SPORT 2 🇸🇰
-http://185.188.188.235/live/sport2/playlist.m3u8
 #EXTINF:-1 group-title="Sports", Q sport 🇰🇬
 http://89.254.128.5:22280/qsport/index.m3u8
 
@@ -1686,6 +1615,33 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157557
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia", Astro SuperSport 4
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157558
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",Now Sport Premier
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",Now Sport 1
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032489&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSPORT 2
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 3
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032477&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 4
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032476&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 5
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032475&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 6
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="NOW SPORT",NowSport 7
+http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
+
+
+
 
 ----- MEDIACROP ASIAN GAMES -----
 #EXTINF:-1 group-title="ASIAN GAMES CHINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAucpTwWlxNKBOmew0fK_iMyeERQuJMmslw&usqp=CAU",LIVE EVENT
