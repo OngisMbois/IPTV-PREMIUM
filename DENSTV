@@ -571,21 +571,7 @@ https://mangga-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 <==========Sports==========>
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",beIN Sports 1 Indonesia
-https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",beIN Sports 3 Indonesia
-https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
-
-#EXTINF:0 tvg-id="ext" group-title="Sports",Usee Sport1
-https://delivery.ksa.my.id/stream/macan_sport_3/playlist.m3u8?token=ym1wtrp
-
-#EXTINF:0 tvg-id="ext" group-title="Sports",Usee Sport2
-https://delivery.ksa.my.id/stream/macan_sport_4/playlist.m3u8?token=ym1wtrp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -751,16 +737,7 @@ http://stream.cvmtv.site/MF1?token=live
 http://stream.cvmtv.site/MF2?token=live
 #EXTINF:-1 group-title="SPORT TV" tvg-id="match-football3" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",Маtch Futbol 3
 http://stream.cvmtv.site/MF3?token=live
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="QA: beIN Sports Xtra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1c82a29d4cd31c80c4afe5693af065f8.jpg" group-title="SPORT TV",QA: beIN Sports Xtra 2
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/283294
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png"  group-title="SPORT TV",ZA: SuperSport Premier League
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/11642
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png"  group-title="SPORT TV",ZA: SuperSport LaLiga
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/194358
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png"  group-title="SPORT TV",ZA: SuperSport Grandstand
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/194353
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png"  group-title="SPORT TV",ZA: SuperSport Football
-http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/38575
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",beIN Sports 1 Indonesia
