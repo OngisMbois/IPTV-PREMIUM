@@ -268,14 +268,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 http://nyanv-live-cdn.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="NASIONAL",RCTI
-https://mantul.biz.id:443/ekos/748382/190.ts
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="" group-title="NASIONAL",MNC TV
-https://mantul.biz.id:443/ekos/748382/191.ts
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="NASIONAL",GTV
-https://mantul.biz.id:443/ekos/748382/192.ts
-#EXTINF:-1 tvg-id="" tvg-name="iNews TV" tvg-logo="" group-title="NASIONAL",iNews TV
-https://mantul.biz.id:443/ekos/748382/193.ts
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD 
 https://mantul.biz.id:443/ekos/748382/192.ts
