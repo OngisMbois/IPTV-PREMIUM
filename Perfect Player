@@ -188,8 +188,8 @@ https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 3
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 4
+https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 ###################################################################
 ####################### TV Nasional ###############################
 
@@ -558,18 +558,6 @@ http://80.252.37.194:5000/udp/233.233.233.7:12000
 http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO",Astro SuperSport
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/146068
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO",Astro SuperSport 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157556
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO",Astro SuperSport 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157557
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO",Astro SuperSport 4
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157558
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO",Astro SuperSport 5
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/287792
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="ASTRO", beIN Sports
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157561
 
 
 
@@ -806,13 +794,13 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="OLAHRAGA",Astro SuperSport 1
-https://m2.ballnaja.com/assp1/tracks-v1a1/mono.m3u8
+https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png" group-title="OLAHRAGA",Astro SuperSport 2
-https://m2.ballnaja.com/assp2/tracks-v1a1/mono.m3u8
+https://m3.ballnaja.com/assp2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="OLAHRAGA",Astro SuperSport 3
-https://m2.ballnaja.com/assp3/tracks-v1a1/mono.m3u8
+https://m3.ballnaja.com/assp3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="OLAHRAGA",Astro Supersport 4
-https://m2.ballnaja.com/assp4/tracks-v1a1/mono.m3u8
+https://m3.ballnaja.com/assp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="OLAHRAGA",True Premiere 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
