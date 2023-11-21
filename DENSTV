@@ -2,8 +2,8 @@
 123
 
 ########################  live event  ############################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 1 
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", RCTI
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157591
 ##EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 2 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", Live Event 3 
