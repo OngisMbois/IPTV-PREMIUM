@@ -1,9 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
-123
-#EXTINF:-1 group-title="Live" tvg-logo="http://logo.protv.cc/picons/logos/ONE-SPORT.png",PH| ONE SPORTS PLUS (HYPER HD)
-http://uhd3.one/play/live.php?mac=00:1A:79:00:18:8E&stream=926161&extension=ts
-#EXTINF:-1 group-title="live" tvg-logo="http://logo.protv.cc/picons/logos/ONE-SPORT.png",PH| ONE SPORT
-http://uhd3.one/play/live.php?mac=00:1A:79:00:18:8E&stream=731814&extension=ts
+
 ########################  live event  ############################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", RCTI
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157591
