@@ -13,7 +13,7 @@ https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
 #EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="National TV",RCTI
 https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-
+test123
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://cdn.ksa.my.id/gtv.png" group-title="National TV",GTV
@@ -919,6 +919,8 @@ http://rr.dens.tv/h/h94/01.m3u8
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTVHD.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",Motorvision TV HD
 http://rr.dens.tv/h/h09/01.m3u8
+
+NGINTIP APA BOSS????????
 
 #EXTINF:-1 tvg-id="ChannelNewsAsia.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",CNA
 http://rr.dens.tv/h/h29/index10.m3u8
