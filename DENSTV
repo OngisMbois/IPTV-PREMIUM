@@ -106,7 +106,40 @@ TEST
 
 
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qsm6b2kto5e9ldartt7p9/Aisplay.jpeg?rlkey=lje3a9dj71cddq87k5wcvru3t&dl=0" group-title="SPORTS", beIN Sports 1 AISPLAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qsm6b2kto5e9ldartt7p9/Aisplay.jpeg?rlkey=lje3a9dj71cddq87k5wcvru3t&dl=0" group-title="SPORTS", beIN Sports 2 AISPLAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qsm6b2kto5e9ldartt7p9/Aisplay.jpeg?rlkey=lje3a9dj71cddq87k5wcvru3t&dl=0" group-title="SPORTS", beIN Sports 3 AISPLAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qsm6b2kto5e9ldartt7p9/Aisplay.jpeg?rlkey=lje3a9dj71cddq87k5wcvru3t&dl=0" group-title="SPORTS", beIN Sports 4 AISPLAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qsm6b2kto5e9ldartt7p9/Aisplay.jpeg?rlkey=lje3a9dj71cddq87k5wcvru3t&dl=0" group-title="SPORTS", beIN Sports 5 AISPLAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qsm6b2kto5e9ldartt7p9/Aisplay.jpeg?rlkey=lje3a9dj71cddq87k5wcvru3t&dl=0" group-title="SPORTS", beIN Sports 6 AISPLAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/qsm6b2kto5e9ldartt7p9/Aisplay.jpeg?rlkey=lje3a9dj71cddq87k5wcvru3t&dl=0" group-title="SPORTS", beIN Sports 7 AISPLAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 
 ############################  DENS TV #############################
 #EXTINF:-1 tvg-id="3" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" group-title="🌀 Dens TV", Live Streaming 1
