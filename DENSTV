@@ -785,7 +785,14 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 
 
 ***************************************************************************HBO MAX ************************
-
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/boo.png" group-title="MOVIES", Boo
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
 
 
@@ -1598,6 +1605,78 @@ https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/K+Sport2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 1 Connect
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 2 Connect
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001
 
 
- 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 3 Connect
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="SPORTS",beIN Sports HD 4 Connect
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=94663e64ef81e90a9deeb0f1993ce11c:9d6f78876677b543cd4e18c846aa2481
+https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
+
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHCrkELZLN5nZeJHG855HRe1EPG_ijZezX4Ke3Wgv_Ew&s" ,Aio Sports 1
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8
+
+#EXTINF:-1 tvg-id="beINSports3.qa" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh75kpOR-iJ9E4vzX6OSJwa6dhFv4iRQ9A7r4nEfAulw&s" ,Aio Sports 2
+https://live.aionet.ir/hls/aiosport2/aiosport2.m3u8
+
+ #EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg" group-title="Optus SSH Aus",Optus Sports 01
+#EXTVLCOPT:http-user-agent=ExoPlayerLib.1.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
+https://optus.natannafalah.workers.dev/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg" group-title="Optus SSH Aus",Optus Sports 02
+#EXTVLCOPT:http-user-agent=ExoPlayerLib.1.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
+https://optus.natannafalah.workers.dev/v7/OptusSport2/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg" group-title="Optus SSH Aus", Optus Sports 03
+#EXTVLCOPT:http-user-agent=ExoPlayerLib.1.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea0621118ecd46ff982ca4af8c2a9837:3146695d2eed75d4b1e8005adeb2ebc6
+https://optus.natannafalah.workers.dev/v7/OptusSport3/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg" group-title="Optus SSH Aus", Optus Sports 04
+#EXTVLCOPT:http-user-agent=ExoPlayerLib.1.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbf70a6fc0bc4adb8bf777400ee12415:02b39b93bdeb41329fe32d9aae7d32d5
+https://optus.natannafalah.workers.dev/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2 Sport Premium HD (N) (T)" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg" group-title="Optus SSH Aus", Optus Sports 05
+#EXTVLCOPT:http-user-agent=ExoPlayerLib.1.6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecaa9c5e14941d89281e932dcb5a91a:b3b74ce2a4fa1dd8135b566c939fc19f
+https://optus.natannafalah.workers.dev/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
+
