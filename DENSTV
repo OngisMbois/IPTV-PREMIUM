@@ -1579,6 +1579,18 @@ https://webhdrunns.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://lewbli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://lewblivehdplay.ru
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985513801/2194b65aa33f_640_360.png",K+SPORT 1
+https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/K+Sport1/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985364950/60e55bc8f45a_640_360.png",K+SPORT 2
+https://cors-proxy.elfsight.com/https://edge1.laotv.la/live/K+Sport2/index.m3u8
+#EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://i.ibb.co/NZbFSN8/logo-channel-select.png" group-title="SPORTS", Ziggo Sport Select
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
+
 
 
  
