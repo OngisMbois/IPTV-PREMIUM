@@ -2,7 +2,10 @@ TEST
 404 NOT FOUND
 
 
-
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/18/d4/XWnNAq9y_o.jpg", tvg-id="" group-title="Optus Sport", Optus Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
+https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
 
 
