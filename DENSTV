@@ -1,20 +1,15 @@
 TEST 
 
 
-#EXTINF:-1 group-title="SPORT ASEAN" tvg-logo="http://kpluss.com.vn/wp-content/uploads/2018/05/Kplus_logo.png",K+1 
-http://is.am/5nv4
-#EXTINF:-1 group-title="SPORT ASEAN" tvg-logo="http://kpluss.com.vn/wp-content/uploads/2018/05/Kplus_logo.png",K+2 
-http://is.am/5ngn
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORT ASEAN",Astro SuperSport 1
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
-#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT ASEAN",Astro SuperSport 2
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59219
-#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SPORT ASEAN",Astro SuperSport 3
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
-#EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SPORT ASEAN",Astro SuperSport 4
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
-#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SPORT ASEAN",Astro SuperSport 5
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1713
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2120,3 +2115,60 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Brunei" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="Premier Sports 1" group-title="Extra Sports", Premier Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+https://linear034-ie-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="Premier Sports 1" group-title="Extra Sports", Premier Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+https://linear034-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="Premier Sports 1" group-title="Extra Sports", Premier Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
+
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="Premier Sports 2" group-title="Extra Sports", Premier Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
+https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="Premier Sports 2" group-title="Extra Sports", Premier Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
+https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="Premier Sports 2" group-title="Extra Sports", Premier Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
+https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORT ASEAN",Astro SuperSport 1
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORT ASEAN",Astro SuperSport 2
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59219
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SPORT ASEAN",Astro SuperSport 3
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
+#EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SPORT ASEAN",Astro SuperSport 4
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
+#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SPORT ASEAN",Astro SuperSport 5
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1713
+
+
