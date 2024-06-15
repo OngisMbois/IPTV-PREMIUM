@@ -198,6 +198,9 @@ https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_H
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="TEST",DIDAN TV HD
 https://live.tmk.ir/channel1/signal/stream_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="TEST",RUSH SPORT
+https://cors-proxy.elfsight.com/http://tv14s.xyz:8080/live/753468/894568/99568.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="TEST", LA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
