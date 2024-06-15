@@ -116,7 +116,7 @@ https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",ITV1
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",SPOTV STADIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
