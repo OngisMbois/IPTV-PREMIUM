@@ -115,42 +115,42 @@ https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 4
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://iili.io/JmorSyv.png" group-title="TEST",ITV1
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",ITV1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d9937d586414096948337ac314d79c1:22ca2e250b729982c97209e0ff3f7e9b
 https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://iili.io/JmorSyv.png" group-title="TEST",ITV2
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",ITV2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf2957d9327e42eebde873dcb48a7b7f:4ef5e263bbaf80d8daa9593d420d33d0
 https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09214/manifest.mpd
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://iili.io/JmorSyv.png" group-title="TEST",ITV3
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",ITV3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=272e9f1e2c83412cab74056d9d53bab3:8d1e6569c78dd567db5f69c84e776285
 https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00305/manifest.mpd
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://iili.io/JmorSyv.png" group-title="TEST",ITV4
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",ITV4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b169fb2c3214e429b66eb2e19fcafdf:90a98753d8f41ad08906243230975ff1
 https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://iili.io/JmorSyv.png" group-title="TEST",BBC 1
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",BBC 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6401e1fead9d4f43910aaad360f46dd0:598f5e4f10d4e040d25579478cadc4ee
 https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://iili.io/JmorSyv.png" group-title="TEST",BBC 2
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",BBC 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -158,7 +158,7 @@ https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd
 https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09003/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://iili.io/JmorSyv.png" group-title="TEST",BBC 3
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",BBC 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -166,14 +166,26 @@ https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09003/manifest.mpd
 https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09093/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://iili.io/JmorSyv.png" group-title="TEST",BBC 4
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",BBC 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d96572a0a9dd440b88c27268dc133399:4c1facad62ea4d7dd3ac59047520aa78
 https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09095/manifest.mpd
 
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",TV 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=748d32a5e8e64c7780df70a86a3fb1dc:e3deb83f5738e9ce4cdeb6cab7f473f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_HVC.mpd
 
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="TEST",TV 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
 
 
 
