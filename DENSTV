@@ -14,18 +14,6 @@
 
 
 
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wacthstream.com/stream_live/600_eng1./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MDA6MDEgQU0maGFzaF92YWx1ZT1NMTljb3VXdUdqQXl5b25ncEY0SVRRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTI2NjA=|Referer=https://wacth.tv
-
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1 
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
-
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truepremierfootball1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://playidturl1.github.io/epgtv/ch/PremierHD1_chunklist.m3u8
 
 
 
