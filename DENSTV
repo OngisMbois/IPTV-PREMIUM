@@ -17,8 +17,17 @@
 
 
 
-
-
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-logo="https://rentapi.blackboxsys.net/images/png/my-asp1hd.png" group-title="ASTRO PREMIUM",Astro Supersport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdHh_Kff4-kzcuh6nNJ_LLJ8/ts
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-logo="https://rentapi.blackboxsys.net/images/png/my-asp2hd.png" group-title="ASTRO PREMIUM",Astro Supersport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdC8ttQfzFCmEeV7vhxqIaN4/ts
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-logo="https://rentapi.blackboxsys.net/images/png/my-asp3hd.png" group-title="ASTRO PREMIUM",Astro Supersport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdDJ2F63ZpL79Bnr5OdgfzNQ/ts
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-logo="https://rentapi.blackboxsys.net/images/png/my-asp4.png" group-title="ASTRO PREMIUM",Astro Supersport 4
+http://bananatv.org:25461/play/qjTtd6c1Izx4JkSoVRirdNnlQnFFSvZmEhAn2e47uTI/ts
 
 
 
