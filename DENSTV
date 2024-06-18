@@ -1529,6 +1529,11 @@ https://testfunctionlive.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="FightSports.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/fight-sport.png " group-title=" SPORTS",Fight Sports
 https://testfunctionlive.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.imgur.com/RWkW7r6.png",CANAL+ SPORT 1
+http://145.239.5.177:8080/537/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/at0cjj1649340562.png",CANAL+ SPORT 2
+http://145.239.5.177:8080/538/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTS", BEIN 1 ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
