@@ -12,32 +12,6 @@
 
 
 
-#EXTINF:-1 group-title="LIVE EURO 2024" tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/programme/7650895/images/22810550?dsth=1080&dstw=1920&srcmode=0&quality=65&type=1&srcx=1&srcy=1&srcw=1/1&srch=1/1",TEST 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58cf48fdf76849ae9eda44bf8b1506b2:bdc640533aac8955a6293158210e0a7d
-https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
-
-
-#EXTINF:-1 group-title="LIVE EURO 2024" tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/programme/7648511/images/22810568?dsth=1080&dstw=1920&srcmode=0&quality=65&type=1&srcx=1&srcy=1&srcw=1/1&srch=1/1",TEST 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=748d32a5e8e64c7780df70a86a3fb1dc:e3deb83f5738e9ce4cdeb6cab7f473f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_HVC.mpd
-
-#EXTINF:-1 group-title="LIVE EURO 2024" tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/programme/7648511/images/22810568?dsth=1080&dstw=1920&srcmode=0&quality=65&type=1&srcx=1&srcy=1&srcw=1/1&srch=1/1",INDOSIAR
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e824a94067ce170cd05451776d10f94f:ffd2fe6eec520f3d07038d1b8df48f8b
-https://www.vidio.com/live/17474-asean-u16-boys-championship?schedule_id=3554880
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6WRnvr0/download-1.png" group-title="LIVE NOW",TIMNAS U16 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e824a94067ce170cd05451776d10f94f:ffd2fe6eec520f3d07038d1b8df48f8b
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17474_stream.mpd?hdnts=exp=1719843474~acl=/drm/dash/*~id=148329916~hmac=0aea2d13dd40cda21c611b971eef273ef6c03e07effa05ce2beb14330122a2da
-
 
 
 
@@ -163,6 +137,14 @@ https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=748d32a5e8e64c7780df70a86a3fb1dc:e3deb83f5738e9ce4cdeb6cab7f473f5
 https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",TV 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58cf48fdf76849ae9eda44bf8b1506b2:bdc640533aac8955a6293158210e0a7d
+https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
+https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
+
 
 #EXTINF:-1 tvg-name="" tvg-id="RAI1" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",RAI 1 HD 🇮🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
