@@ -143,7 +143,7 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_H
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58cf48fdf76849ae9eda44bf8b1506b2:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
-https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
+
 
 
 #EXTINF:-1 tvg-name="" tvg-id="RAI1" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",RAI 1 HD 🇮🇹
@@ -178,23 +178,17 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT", EURO 3 (MCOT HD)
-https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",TV1 🇪🇸
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA(TVMAX)
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA(WIN SPORT +)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA
+#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA (WIN SPORT)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://telecorporacion-es.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA (4)
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/581px-UEFA_Euro_2024_Logo.svg.png",
 #EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA(KORA)
@@ -2338,26 +2332,7 @@ https://live.mocdn.tv/out/v1/2e1d1b597e5345b59edc803895bad88b/manifest_L1.mpd
 
 
 
-#EXTINF:-1 group-title="Bics COPA AMERICA", TUDN
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", TVMAX
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", WIN SPORTS
-http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", WIN SPORTS+
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", TV AZTECA
-https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", TV CIUDAD
-https://sdmx.vip:443/belpley/sYqKZQrTZa/2055403.ts
-#EXTINF:-1 group-title="Bics COPA AMERICA", UNICANAL
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/chunklist_w984880022.m3u8?k=6980c82cf2f8826ebe702b27cedaa8378ce91c44410783288cd05392ba49f8e1&exp=1718557383
-#EXTINF:-1 group-title="Bics COPA AMERICA", ECDF
-http://177.53.153.20:8001/play/a040/index.m3u8
-#EXTINF:-1 group-title="Bics COPA AMERICA", ECDF
-http://tv.soccerplus.link:8000/julia35a/anticona34/868
+
 
 
 #EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/05/film-laroy-texas-2024-lk21-d21.jpg.webp" group-title="VOD 2024",LaRoy, Texas (2024)
