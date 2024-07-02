@@ -10,9 +10,23 @@
 </head>
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=f7ae1dc71cc58fb876b4e659174f9c10:d6739aee6c76741763992d37cc66f1b8
+#EXTINF:-1 tvg-id="808.astro" tvg-name="SPOTV2 STADIA" group-title="TEST" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277690310%27&EntityType=%27Item%27&EntityId=%27158968%27&Width=1920&Height=1080",SPOTV2 STADIA
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5149/default.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6o+kPMcQLkgc1EHFiy7LCA", "kid":"58ZQrHLc0DEUEYMqgnG7EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="808.astro" tvg-name="SPOTV STADIA" group-title="TEST" group-logo="https://i.ibb.co/mH4K4gc/UEFA-Euro-2024-Logo.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV-STADIA.png",808 SPOTV STADIA
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1nOa7mx2dBdjmS03zGbxuA", "kid":"964dxxzFj7h2tOZZF0+cEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="SPOTV2Stadia" ch-number="809" group-title="TEST" tvg-logo="https://iili.io/d2lEKpS.png",809 SPOTV2 STADIA
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5149/default.mpd
 
 
 
