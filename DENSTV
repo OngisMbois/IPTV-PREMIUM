@@ -144,6 +144,14 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_H
 #KODIPROP:inputstream.adaptive.license_key=58cf48fdf76849ae9eda44bf8b1506b2:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://i.imgur.com/S5k3QDO.png " group-title=" LIVE EVENT ",INDOSIAR
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/008.ts
+
+#EXTINF:-1 tvg-logo=" " tvg-id=".id" tvg-name=" " group-title="LIVE EVENT", Live 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+https://6d42a49f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c19ITFM/ffb442bd-ee86-4d86-8f75-34166743c752/2.m3u8
+
 
 
 #EXTINF:-1 tvg-name="" tvg-id="RAI1" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",RAI 1 HD 🇮🇹
