@@ -153,7 +153,7 @@ https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/008.ts
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/9721
 
-#EXTINF:-1 tvg-logo=" " tvg-id=".id" tvg-name=" " group-title="LIVE EVENT", Live 
+#EXTINF:-1 tvg-logo=" " tvg-id=".id" tvg-name=" " group-title="LIVE EVENT", FIFA+
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://6d42a49f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c19ITFM/ffb442bd-ee86-4d86-8f75-34166743c752/2.m3u8
 
@@ -190,9 +190,6 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
 #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT", RTB HD
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT", SONY TEN 2
-http://103.120.172.74:4800
-
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="LIVE EVENT", EUROSPORT 1 
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/eurosport/playlist.m3u8
@@ -210,29 +207,12 @@ http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT", INDOSIAR HD 1
 http://xtv.ooo:8080/MansoorWapda/258741/350972
 #EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT", INDOSIAR HD 2
-http://xtv.ooo:8080/owais1/12345/350972
+http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzskyrR98UXHe9FL_m7VFheY/ts
 #EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT", INDOSIAR HD 3
 http://iptvtree.net:8080/e891d265/89d742c3/162138
-
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg",Optus Sport 1
-http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/63928
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg",Optus Sport 2
-http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/63929
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",Now Premier Sports 1
-http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/69854
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",Now Premier Sports 2
-http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/69855
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",Now Premier Sports 3
-http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/69856
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png",Now Premier Sports 4
-http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/69857
 #EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA (WIN SPORT)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://yt3.googleusercontent.com/c4ht1v6TleNsx_3x7FWvClxF24VawKVHkwuLjGG1h7G4gFtqQUktfwMalREwhUsQlNSz8zeAUw=s900-c-k-c0x00ffffff-no-rj",Sky Sports Football
-http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/62555
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://yt3.googleusercontent.com/so_lrPh6XZG8QdMd5wMOFhLWAM8SfudqKoJhIe0vKUyk3LsQtNdCPvDtDtLSoTnZ4ZnrVLVm6Q=s900-c-k-c0x00ffffff-no-rj",Sky Sports Premier League
-http://2hubs.ddns.net:25461/iptvsolu//eI3mjZ1M7Y/62554
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/581px-UEFA_Euro_2024_Logo.svg.png",
 #EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ofRK-yK342xejmufie4HwL6tQzk3DSLYxg&s" group-title="LIVE EVENT",COPA AMERICA(KORA)
 https://kora-sa.live/hls/0/stream.m3u8
