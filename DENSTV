@@ -117,6 +117,10 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ky9NmXd/Screenshot-552-3242048562.webp" group-title="LIVE EVENT",INDOSIAR
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V)
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@paohd1/media-uril85awb_391.ts
 
 #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",SPORTSTAR 3 HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
