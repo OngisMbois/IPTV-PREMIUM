@@ -12,7 +12,19 @@
 
 
 
+#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 1
+http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
+#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 1
+http://108.181.123.13:8070/live/e9cd5f24/079fd2c9/162141.ts
+#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 1
+http://194.120.144.74:8070/live/e9cd5f24/079fd2c9/298550.ts
 
+#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 2
+http://108.181.132.217:8070/live/AmirBilali/76448035/162138.ts
+#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
+http://108.181.123.13:8070/live/AmirBilali/76448035/162141.ts
+#EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 2
+http://194.120.144.74:8070/live/AmirBilali/76448035/298550.ts
 
 
 
