@@ -33,6 +33,7 @@ http://cheaptv.online:8080/live/one-day-test-89fc/54CbToqS2c/162138.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
 http://iptvtree.net:8080/everton/7def2e7e/162141
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162141.m3u8
 #EXTINF:-1 group-title="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s",SCTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
