@@ -140,126 +140,59 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ky9NmXd/Screenshot-552-3242048562.webp" group-title="LIVE EVENT",INDOSIAR
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V)
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@paohd1/media-uril85awb_391.ts
-
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",SPORTSTAR 3 HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",SPORTSTAR 4
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE EVENT", USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
-https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",1 ONE HD 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
-https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",RTL SUPER 🇩🇪 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
-https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",Rush Sport
-http://tv14s.xyz:8080/live/753468/894568/99568.ts
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",TV 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=748d32a5e8e64c7780df70a86a3fb1dc:e3deb83f5738e9ce4cdeb6cab7f473f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV3_LT_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",TV 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=58cf48fdf76849ae9eda44bf8b1506b2:bdc640533aac8955a6293158210e0a7d
-https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title=" LIVE EVENT ",INDOSIAR
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/008.ts
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://i.imgur.com/S5k3QDO.png " group-title=" LIVE EVENT ",INDOSIAR HD*
-#EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
-http://filex.tv:8080/paramjeetsingh/002818/302264
-
-#EXTINF:-1 tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg " tvg-id=".id" tvg-name=" " group-title="LIVE EVENT", FIFA+
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-https://6d42a49f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c19ITFM/ffb442bd-ee86-4d86-8f75-34166743c752/2.m3u8
-
-#EXTINF: -1 tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",SONY TEN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12173
-#EXTINF: -1 tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",SONY TEN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12174
-#EXTINF: -1 tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",SONY TEN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12175
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="RAI1" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",RAI 1 HD 🇮🇹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d79467df269743b3aca99a9171c54878:a7d3bc19bd09db6b581833e4a6176c8f
-https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09101/manifest.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",CCTV 5
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",PRO TV 🇷🇴
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
-https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT", RTB HD
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="LIVE EVENT", EUROSPORT 1 
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE EVENT", EUROSPORT 1 
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/eurosport/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png" group-title="LIVE EVENT", EUROSPORT 2 
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE EVENT", EUROSPORT 2 
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",TV1 🇪🇸
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
+https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",COPA AMERICA(WIN SPORT +)
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT", INDOSIAR HD 1
-http://xtv.ooo:8080/MansoorWapda/258741/350972
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT", INDOSIAR HD 2
-http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzskyrR98UXHe9FL_m7VFheY/ts
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT", INDOSIAR HD 3
-http://iptvtree.net:8080/e891d265/89d742c3/162138
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",COPA AMERICA (WIN SPORT)
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/581px-UEFA_Euro_2024_Logo.svg.png",
-#EXTINF:-1 tvg-name="" tvg-id="Euro D" tvg-logo="https://markaberita.id/wp-content/uploads/2024/07/EHnkIHpU8AATSJH.jpg" group-title="LIVE EVENT",COPA AMERICA(KORA)
-https://kora-sa.live/hls/0/stream.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
-http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59220
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
-http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59219
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",Astro SuperSport 3 HD
-http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59218
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",Astro SuperSport 4 HD
-http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59217
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
+https://mwmpos03.akamaized.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
+https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif",LIVE 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON",BWF 1*
