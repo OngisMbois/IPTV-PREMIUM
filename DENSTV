@@ -26,6 +26,7 @@ http://iptvtree.net:8080/everton/7def2e7e/162138
 #EXTINF:-1 group-title="TEST" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
 http://extraott.com/live/7921751389/6097373662/45098.ts
+http://extraott.com/live/7921751389/6097373662/45098.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
 http://iptvtree.net:8080/everton/7def2e7e/162141
