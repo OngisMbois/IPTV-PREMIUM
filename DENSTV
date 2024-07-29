@@ -19,7 +19,8 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-https://play.gachor99.my.id:443/play/sO0pi4NyHs4kjc6reYfw9X36LjDRTc40c_9efItdi6g/.m3u8?7
+http://xtv.ooo:8080/live/83212539/43153928/351030.ts
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 1*
 https://kodonolonz.serv00.net/tol/ikitv-moji.m3u8
 
