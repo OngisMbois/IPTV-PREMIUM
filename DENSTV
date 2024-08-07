@@ -23,7 +23,8 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 http://xtv.ooo:8080/live/83212539/43153928/351030.ts
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/12/17/2546614556.jpg",MOJI 1*
-https://kodonolonz.serv00.net/tol/ikitv-moji.m3u8
+##https://kodonolonz.serv00.net/tol/ikitv-moji.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR 2
 http://iptvtree.net:8080/everton/7def2e7e/162138
