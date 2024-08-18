@@ -62,51 +62,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="TEST",Trans 7
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",1.True Premier Football 1
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://playidtv24.vercel.app/stream/now/premier1.m3u8
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",2.True Premier football 2
-https://playidtv24.vercel.app/stream/now/premier2.m3u8
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",3.True PremierHD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://playidtv24.vercel.app/stream/now/premier3.m3u8
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",4.True PremierHD 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://playidtv24.vercel.app/stream/now/premier4.m3u8
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",5.True PremierHD 5
-#EXTVLCOPT:http-referrer=https://7mthai.net
-#https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
-https://playidtv24.vercel.app/stream/now/premier5.m3u8
 
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://playidturl1.github.io/epgtv/ch/PremierHD1_chunklist.m3u8
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football  2 
-#EXTVLCOPT:http-referrer=https://livescorethai.net/
-https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
-https://playidturl1.github.io/epgtv/ch/truesport/PremierHD2.m3u8
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
-https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8?|Referer=https://freetvdd.com/
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True PremierHD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",True Premier HD 4
-#EXTVLCOPT:http-referrer=https://aisplay24hd.com
-https://cdn1.aws-live-streaming.com/ais/epl4/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",True PremierHD 4
-#EXTVLCOPT:http-referrer=https://7mthai.net
-https://streaming.livescorethai.net/iptv/bsb-epl4.stream/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
-https://cdn1.aws-live-streaming.com/ais/epl5/playlist.m3u8|Referer=https://aisplay24hd.com
-#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
-https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
-#https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https://livescorethai.net/
 
 
 
@@ -214,8 +170,25 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 #EXTINF: -1 tvg-name="Youtube Ongis Mbois" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="ONGIS-MBOIS", TIDAK UNTUK DIJUAL"
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF: -1 tvg-name="Youtube Ongis Mbois" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="LIVE EVENT", PLAYLIST INI GRATISS"
+#EXTINF: -1 tvg-name="Youtube Ongis Mbois" tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE EVENT", PLAYLIST INI GRATISS"
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",1.True Premier Football 1
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://playidtv24.vercel.app/stream/now/premier1.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",2.True Premier football 2
+https://playidtv24.vercel.app/stream/now/premier2.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",3.True PremierHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://playidtv24.vercel.app/stream/now/premier3.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",4.True PremierHD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://playidtv24.vercel.app/stream/now/premier4.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",5.True PremierHD 5
+#EXTVLCOPT:http-referrer=https://7mthai.net
+#https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
+https://playidtv24.vercel.app/stream/now/premier5.m3u8
+
 
 #EXTINF:-1 group-title="LIVE EVENT" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock
 #KODIPROP:inputstreamaddon=inputstream.adaptive
