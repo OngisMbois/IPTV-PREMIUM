@@ -202,6 +202,13 @@ https://playidtv24.vercel.app/stream/now/premier4.m3u8
 #https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
 https://playidtv24.vercel.app/stream/now/premier5.m3u8
 
+#EXTINF:-1 tvg-id="SS Football" tvg-name="SS Football" tvg-logo="https://i.postimg.cc/qq59P9F7/SS-Football.png" group-title="LIVE EVENT",Supersport Football 
+https://raw.githubusercontent.com/Acil2125/ee/main/ssfb.m3u8
+#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SuperSport LaLiga" tvg-logo="https://i.postimg.cc/HLMXXXmv/SS-La-Liga.png" group-title="LIVE EVENT",Supersport LaLiga 
+https://raw.githubusercontent.com/Acil2125/ee/main/sslaliga.m3u8
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SS Premier League" tvg-logo="https://i.postimg.cc/SRfpM2XB/SS-EPL.png" group-title="LIVE EVENT",Supersport Premier League 
+https://raw.githubusercontent.com/Acil2125/ee/main/sspl.m3u8
+
 
 #EXTINF:-1 group-title="LIVE EVENT" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock
 #KODIPROP:inputstreamaddon=inputstream.adaptive
