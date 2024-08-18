@@ -62,7 +62,20 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="TEST",Trans 7
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
+#EXTINF:-1 tvg-chno="73" tvg-name="PT | Eleven 1" tvg-logo="https://logo.iptveditor.com/eleven1.png" group-title="TEST", PT | Eleven 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy6.mizhls.ru/ddy6/premium455/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-chno="73.1" tvg-name="PT | Eleven 2" tvg-logo="https://logo.iptveditor.com/eleven2.png" group-title="TEST", PT | Eleven 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy5.mizhls.ru/ddy5/premium456/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="73.2" tvg-name="PT | Eleven 3" tvg-logo="https://logo.iptveditor.com/eleven3.png" group-title="TEST", PT | Eleven 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://ddy5.mizhls.ru/ddy5/premium457/tracks-v1a1/mono.m3u8
 
 
 
