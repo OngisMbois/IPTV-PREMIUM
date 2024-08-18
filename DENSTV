@@ -77,17 +77,26 @@ https://ddy5.mizhls.ru/ddy5/premium456/tracks-v1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium457/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Astro SuperSport 1" tvg-logo="" group-title="TEST",Astro SuperSport 1
-https://ddy1.mizhls.ru/ddy1/premium123/index.m3u8?|User-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8&Referer=https://qqwebplay.xyz/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/cz682u1628519810.png" group-title="TEST",Match! Futbol 1
+https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
 
-#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="" group-title="TEST",Astro SuperSport 2
-https://eu-fls4.mizhls.ru/eu-fls4/premium124/index.m3u8?|User-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8&Referer=https://qqwebplay.xyz/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56f7dcb5d20eeed212ff58620acb8931:76e139c0676ed2d7ae46392ce6fd9e89
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/am4ot71628519853.png" group-title="TEST",Match! Futbol 2
+https://strm.yandex.ru/kal/match_football2_hd/manifest.mpd
 
-#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="" group-title="TEST",Astro SuperSport 3
-https://ddy1.mizhls.ru/ddy1/premium125/index.m3u8?|User-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8&Referer=https://qqwebplay.xyz/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b356d2c5bd7b4a71e99485906f6beeed:f2e7cb0fcdfb6a3fc0299eed50d29c97
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/69eju21628519874.png" group-title="TEST",Match! Futbol 3
+https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
 
-#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="" group-title="TEST",Astro SuperSport 4
-https://ddy1.mizhls.ru/ddy1/premium126/index.m3u8?|User-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8&Referer=https://qqwebplay.xyz/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bac86c2e302cc86924b4eb01fb6362b3:bdb588d78930a7388123e89739668e16
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" group-title="TEST",Match! TV
+https://strm.yandex.ru/kal/match_tv/manifest.mpd
+
 
 
 
@@ -766,6 +775,11 @@ http://master-stream.my.id/live/28A28DC289AA42B5466950727F3EA888/241
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Live 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 14) ExoPlayerLib/2.13.2
 https://basitv2.pages.dev/liveindos1.m3u8
+
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Live 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 14) ExoPlayerLib/2.13.2
+http://fastserver.my.id:8080/play/p7M2Yp6F8FBz249PUQPRzgSuY_L-VXt55vYxZiUwbAk/ts
+
 
 
 
