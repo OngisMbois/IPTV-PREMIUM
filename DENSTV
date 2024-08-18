@@ -101,6 +101,22 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 1 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 3 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 4 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 5 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 6 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
+
+
 
 
 
