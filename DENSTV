@@ -179,6 +179,9 @@ https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=
 #EXTINF: -1 tvg-name="Youtube Ongis Mbois" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="ONGIS-MBOIS", TIDAK UNTUK DIJUAL"
 https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF: -1 tvg-name="Youtube Ongis Mbois" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/1687752882812.png" group-title="LIVE EVENT", PLAYLIST INI GRATISS"
+https://www.googleapis.com/drive/v3/files/1H3ODvJPUNusRsr0DR-YLtfk1Bn6hOt9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 group-title="LIVE EVENT" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
