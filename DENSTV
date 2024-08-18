@@ -325,6 +325,21 @@ https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title=",SPOTV 1 HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON",,SPOTV 2 HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
 
 ############################  DENS TV #############################
 
@@ -715,18 +730,11 @@ https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Live 1
 http://master-stream.my.id/live/28A28DC289AA42B5466950727F3EA888/241
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Live 2
-https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 14) ExoPlayerLib/2.13.2
+https://basitv2.pages.dev/liveindos1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Live 3
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
