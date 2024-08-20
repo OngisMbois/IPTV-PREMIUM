@@ -9,7 +9,9 @@
 </script>
 </head>
 
-
+#EXTINF:0 type="stream" group-title="TEST" tvg-id="dmax" tvg-logo="https://i.ibb.co/5LsVLz9/ccdmax.png",Dmax
+http://113.160.152.31:5050/rtp/232.84.3.117:10654
+https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR 1
