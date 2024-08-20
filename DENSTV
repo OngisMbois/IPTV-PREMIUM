@@ -10,7 +10,13 @@
 </head>
 
 
-
+#EXTINF:-1 tvg-name="Digi Sport 4 Romania" tvg-logo="" group-title="Sports",TEST
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://top2.mizhls.ru/top2/premium123/index.m3u8
+https://top2.mizhls.ru/top2/premium124/index.m3u8
+https://top2.mizhls.ru/top2/premium125/index.m3u8
+https://top2.mizhls.ru/top2/premium126/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR 1
 http://xtv.ooo:8080/321166661/52816191/350972
