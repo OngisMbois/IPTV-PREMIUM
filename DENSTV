@@ -131,6 +131,21 @@ https://ddy5.mizhls.ru/ddy5/premium870/index.m3u8
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 https://ddy5.mizhls.ru/ddy5/premium880/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 1 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 3 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 4 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 5 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 6 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
+
 #EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-logo="" group-title="Sports",Sky Sports Football UK
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -188,20 +203,24 @@ https://ddy1.mizhls.ru/ddy1/premium114/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy1.mizhls.ru/ddy1/premium115/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 1 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
+#EXTINF:-1 tvg-name="Digi Sport 1 Romania" tvg-logo="" group-title="Sports",Digi Sport 1 Romania
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://top2.mizhls.ru/top2/premium400/index.m3u8
+#EXTINF:-1 tvg-name="Digi Sport 2 Romania" tvg-logo="" group-title="Sports",Digi Sport 2 Romania
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://top2.mizhls.ru/top2/premium401/index.m3u8
+#EXTINF:-1 tvg-name="Digi Sport 3 Romania" tvg-logo="" group-title="Sports",Digi Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://top2.mizhls.ru/top2/premium402/index.m3u8
+#EXTINF:-1 tvg-name="Digi Sport 4 Romania" tvg-logo="" group-title="Sports",Digi Sport 4 Romania
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://top2.mizhls.ru/top2/premium403/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 3 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 4 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 5 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 6 Australia
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports MENA English 2" tvg-logo="" group-title="Sports",beIN Sports MENA English 2
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
