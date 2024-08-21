@@ -21,6 +21,8 @@ http://iptvtree.net:8080/everton/7def2e7e/162138
 http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
 http://108.181.132.217:8070/AmirBilali/76448035/162138
 https://basitv2.pages.dev/liveindos1.m3u8
+https://lebo.huminbird.cn/live/ballbar_18220.m3u8
+https://lebo.huminbird.cn/live/ballbar_38940.m3u8
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
