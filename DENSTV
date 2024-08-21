@@ -9,7 +9,15 @@
 </script>
 </head>
 
+#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17" group-title="TEST",AFN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TEST",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
