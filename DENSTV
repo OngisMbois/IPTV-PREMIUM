@@ -40,7 +40,21 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 http://iptvtree.net:8080/everton/7def2e7e/298550
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Premier League Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Premier_League/index.m3u8
 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Main Event Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Main_Event/index.m3u8
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Premier League
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
+https://tvnid-stream.mantan.workers.dev/SuperSport_Premier_League_Live_TV/index.m3u8
+#EXTINF:-1 group-title="TEST" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Laliga
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
+https://tvnid-stream.mantan.workers.dev/SuperSport_LaLiga_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Football Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Football_Live_TV/index.m3u8
 
 #EXTINF:-1 tvg-chno="73" tvg-name="PT | Eleven 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/DAZN_Logo_Master.svg" group-title="TEST", DAZN SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
