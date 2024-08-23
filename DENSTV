@@ -9,6 +9,18 @@
 </script>
 </head>
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.mncvision.id/
+#EXTINF:-1 tvg-id="Sportstars 2.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Sportstars-2.png " group-title="TEST ",Sportstars 
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports4-HD/sa_dash_vmx/MNCSports4-HD.mpd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+http://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
 
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR 1
 http://xtv.ooo:8080/321166661/52816191/350972
