@@ -531,10 +531,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON",BWF 5
-https://lebo.huminbird.cn/live/ballbar_16050.m3u8
-https://lebo.huminbird.cn/live/ballbar_36630.m3u8
-https://lebo.huminbird.cn/live/ballbar_28330.m3u8
-
+#https://lebo.huminbird.cn/live/ballbar_16050.m3u8
+#https://lebo.huminbird.cn/live/ballbar_36630.m3u8
+#https://lebo.huminbird.cn/live/ballbar_28330.m3u8
+https://lebo.huminbird.cn/live/ballbar_16310.m3u8
+https://lebo.huminbird.cn/live/ballbar_9780.m3u8 
 
 
 ############################  DENS TV #############################
