@@ -17,6 +17,17 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TEST",RCTI TEST
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c 
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-mncsports3/sa_hls/rcti-mncsports3.m3u8?c 
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar4/sa_hls/rcti-sportstar4.m3u8?c 
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-mnctv-hd2/sa_hls/rcti-mnctv-hd2.m3u8?c
+
 #EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="TEST",Sportstars 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
