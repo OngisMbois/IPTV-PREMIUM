@@ -151,6 +151,9 @@ https://ddy2.mizhls.ru/ddy2/premium599/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 1 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 2 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37400.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="TEST", OPTUS 3 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
 
