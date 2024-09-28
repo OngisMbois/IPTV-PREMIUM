@@ -69,11 +69,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",INDOSIAR 1
 http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-https://maper.info/INDOSIAR_shareext-xs|User-Agent=Shareext/2.2.0
 http://xtv.ooo:8080/live/35588981/18988553/350972.ts
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 http://xtv.ooo:8080/359052742/470428329/350972
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
 
 #EXTINF:-1 tvg-id="" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",NDOSIAR 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -87,7 +86,7 @@ https://atemeshield2-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-https://maper.info/SCTV_shareext-xs|User-Agent=Shareext/2.2.0
+
 
 #EXTINF:-1 group-title="TEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5lk599q2KyBvDElidSDQwkAudqO5tpNVGA&s",SCTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
